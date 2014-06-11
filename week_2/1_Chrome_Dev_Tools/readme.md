@@ -13,6 +13,7 @@
 Before starting this challenge, you will want to do a bit of research on the DOM. Read the following Resources before beginning. 
 - [What's the DOM?](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
 - [DOM](http://skillcrush.com/2012/10/17/dom-document-object-model/)
+- [Introduction to the Document Object Model (Video)](https://www.youtube.com/watch?v=-0ZcldkGlt8)
 
 In this challenge, you'll be diving into Chrome DevTools.  Inside the DevTools inspector window is an inner world of data that is communicated between the browser and server.  These tools are invaluable for you as a developer and getting comfortable with them will help optimize your HTML and CSS editing, javascript debugging, and site's performance. 
 
