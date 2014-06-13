@@ -5,11 +5,10 @@
 ## Learning Competencies
 - Use handles to interact directly with people in the tech community
 - Use hashtags to make topics searchable
-- Framing 
-- Directing people to the resource you are talking about and framing it appropriately (describes what you’re actually talking about - not just throwing links up)
-- Responding to people and being able to engage in conversation
-- Asking questions and starting conversations with people in the community 
-- Use twitter to inform companies of site difficulties
+- Frame discussions, links, images in a meaningful and engaging way
+- Respond and engage with people in conversation
+- Ask questions and start conversations with people in the community 
+- Use twitter to contact companies with User experience and bug issues
 
 
 ## Release 0: Watch
