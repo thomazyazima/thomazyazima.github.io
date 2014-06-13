@@ -7,15 +7,15 @@ Once you feel comfortable with the expecations for Phase 0, you can get started 
 ### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
 
-#### 1. [Get Started](1_Get_Started)
-#### 2. [Set Up Repo](2_set_up_repo)
-#### 3. [Web Basics](3_web_basics)
-#### 4. [Beginning HTML & CSS](4_beginning_HTML_CSS)
-#### 5. [More HTML & CSS SOLO CHALLENGE](5_HTML_CSS_solo_challenge)
-#### 6. [Technical Blog](6_technical_blog)
-#### 7. [Cultural Blog](7_cultural_blog.md)
-#### 8. [Wireframing](8_wireframing)
-#### 9. [Get to know your group](9_get_to_know_your_group)
+#### 1. [Get Started](1-Get-Started)
+#### 2. [Set Up Repo](2-set-up-repo)
+#### 3. [Web Basics](3-web-basics)
+#### 4. [Beginning HTML & CSS](4-beginning-HTML-CSS)
+#### 5. [More HTML & CSS SOLO CHALLENGE](5-HTML-CSS-solo-challenge)
+#### 6. [Technical Blog](6-technical-blog)
+#### 7. [Cultural Blog](7-cultural-blog.md)
+#### 8. [Wireframing](8-wireframing)
+#### 9. [Get to know your group](9-get-to-know-your-group)
 
 ## Remember your Expectations for the Unit!
 - Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit*

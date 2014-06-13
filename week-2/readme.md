@@ -5,14 +5,14 @@ This week you will go into more depth on HTML and CSS and get more practice. You
 You have a [Cultural Assignment](7_cultural_assignment.md) this week you should look at first. 
 
 ## Challenges
-1. [Chrome Dev Tools](1_Chrome_Dev_Tools)
-2. [Intermediate HTML and CSS](2_Intermediate_HTML_CSS)
-3. [Responsive Web Design](3_Responsive_Web_Design)
-4. [Your Own Website - SOLO CHALLENGE!](4_Your_Own_Website_Solo_Challenge)
-5. [Think about Time](5_Think_about_time)
-6. [Technical Blog](6_technical_blog.md)
-7. [Cultural Assignment](7_cultural_assignment.md) *Look at this First**
-8. [GPS 1.1](8_gps1_1) **DO NOT LOOK UNTIL YOUR FIRST GUIDED PAIRING SESSION!**
+1. [Chrome Dev Tools](1-Chrome-Dev-Tools)
+2. [Intermediate HTML and CSS](2-Intermediate-HTML-CSS)
+3. [Responsive Web Design](3-Responsive-Web-Design)
+4. [Your Own Website - SOLO CHALLENGE!](4-Your-Own-Website-Solo-Challenge)
+5. [Think about Time](5-Think-about-time)
+6. [Technical Blog](6-technical-blog.md)
+7. [Cultural Assignment](7-cultural-assignment.md) *Look at this First**
+8. [GPS 1.1](8-gps1.1) **DO NOT LOOK UNTIL YOUR FIRST GUIDED PAIRING SESSION!**
 
 
 ## Fetch DBC's Changes
