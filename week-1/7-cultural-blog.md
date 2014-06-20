@@ -23,4 +23,5 @@ Talk about what came up for you and anything you want in addition to the questio
 ## Release 3: Submission
 Link to your post from `index.html` so people can navigate to your page from your site's index. 
 
+## Release 4: Promote
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 

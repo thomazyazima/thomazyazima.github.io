@@ -29,13 +29,13 @@ Expect to submit your links for each of the following:
 
 * Your new website ([USERNAME].github.io)
 * Each html page created in `unit1_projects` folder
-* Your forked `phase_0_unit_1` repository link
+* Your forked `phase0-unit1` repository link
 * Your technical and cultural blog posts (on your github.io ste)
 * Your response to "getting to know your group" 
 
-NOTE: You will have two separate repositories in Github for Unit 1: Your Github.io site and your phase_0_unit_1 repository. Most of your work will be on the [USERNAME].github.io repo, but the reflections will be submitted
+NOTE: You will have two separate repositories in Github for Unit 1: Your Github.io site and your phase0-unit1 repository. Most of your work will be on the [USERNAME].github.io repo, but the reflections will be submitted
 
 ## Fetching changes from DBC's master repo
-Sometimes we will make changes to the original (Devbootcamp) repository to clarify instructions or add new curriculum. You will need to "fetch" these changes from the master branch when we announce changes on the google+ community. Follow [these](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching-changes.md) directions to do this. If you are using a windows or linux, you will need to use the command line instructions.
+Sometimes we will make changes to the original (Devbootcamp) repository to clarify instructions or add new curriculum. You will need to "fetch" these changes from the master branch when we announce changes on the google+ community. Follow [these](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) directions to do this. If you are using a windows or linux, you will need to use the command line instructions.
 
 

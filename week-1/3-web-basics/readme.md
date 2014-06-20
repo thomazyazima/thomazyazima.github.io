@@ -74,7 +74,7 @@ You can also see the new index.html file in your GitHub repository!
 
 Now you will want to practice what you've learned in this challenge (and don't worry, you'll get to go through this reflection workflow for the rest of phase 0).
 
-In the GitHub app (or via your terminal), go to your [USERNAME]/phase_0_unit_1 repository (that you forked in challenge 1). Clone it to your computer. Then, open the terminal and navigate to that repository. Open the repository in Sublime. You can do this by either adding sublime shortcuts to your command line or opening sublime and opening the repository from there. 
+In the GitHub app (or via your terminal), go to your [USERNAME]/phase0-unit1 repository (that you forked in challenge 1). Clone it to your computer. Then, open the terminal and navigate to that repository. Open the repository in Sublime. You can do this by either adding sublime shortcuts to your command line or opening sublime and opening the repository from there. 
 
 Navigate to the 3_web_basics/my_reflection.md file. Answer the questions there. Save your file, commit your changes, and sync the repo. You should be able to see your reflection on your forked repo on github.com.
 

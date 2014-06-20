@@ -1,6 +1,6 @@
 # U1.W1: More HTML & CSS
 
-**THIS IS YOUR SOLO CHALLENGE FOR WEEK 1.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/) for more details as to what this entails.
+**THIS IS YOUR SOLO CHALLENGE FOR WEEK 1.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/) for more details as to what this entails.
 
 ## Learning Competencies
 - Position HTML elements using CSS padding, borders, and
@@ -62,7 +62,7 @@ Add the following to `dbc2.css`:
 
 
 ## Release 2: Reflect
-On your local `phase_0_unit_1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
+On your local `phase0-unit1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 
 <hr>
 

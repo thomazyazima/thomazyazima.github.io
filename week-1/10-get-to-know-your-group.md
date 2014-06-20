@@ -14,7 +14,7 @@ Despite popular belief, most software engineers work in teams and there is a str
 
 ## Release 0: Intro Email
 
-Once you know who is in your accountability group, send everyone in your group and email **and** edit the [my_reflection.md](my_reflection.md) file associated with this challenge in your local `phase_0_unit_1` repo,. Commit your changes and save them to GitHub. 
+Once you know who is in your accountability group, send everyone in your group and email **and** edit the [my_reflection.md](my_reflection.md) file associated with this challenge in your local `phase0-unit1` repo,. Commit your changes and save them to GitHub. 
 
 * Name
 * Location
@@ -26,8 +26,8 @@ Once you know who is in your accountability group, send everyone in your group a
 **DOUBLE CHECK THAT YOU HAVE ISSUES ENABLED AS A FEATURE ON BOTH OF YOUR REPOSITORIES**
 
 Once you've completed the week's work, send them:
-* link to your forked `phase_0_unit_1` repository
+* link to your forked `phase0-unit1` repository
 * link to your [USERNAME].github.io site
 * link to your wireframe html page
 
-Once you receive someone's repository link, take a moment to review your accountability member's reflections in their various challenges. Then leave feedback for them using the instructions on ["How to Create an Issue"](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/review.md).
+Once you receive someone's repository link, take a moment to review your accountability member's reflections in their various challenges. Then leave feedback for them using the instructions on ["How to Create an Issue"](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md).

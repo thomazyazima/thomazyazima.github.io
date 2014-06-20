@@ -58,7 +58,7 @@ Before you can complete your reflection, you'll need to click the "Fork" button 
 
 ![Repo to Fork](../imgs/repo-to-fork.jpg)
 
-This will make a copy of the unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and later solutions. After you click fork, you should be taken from the Devbootcamp.com/phase_0_unit_1 repo to [USERNAME]/phase_0_unit_1
+This will make a copy of the unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and later solutions. After you click fork, you should be taken from the Devbootcamp.com/phase0-unit1 repo to [USERNAME]/phase0-unit1
 
 
 ![Forked Repo](../imgs/forked-repo.jpg)
@@ -69,6 +69,6 @@ You can complete the first 2 challenge reflections on github.com. Click on the m
 
 ![Editing Reflection](../imgs/adding-reflection.jpg)
 
-After you learn how to edit files locally and sync/push your changes (in the third challenge), you'll want to edit all files on your local `phase_0_unit_1` repository--more on that later. 
+After you learn how to edit files locally and sync/push your changes (in the third challenge), you'll want to edit all files on your local `phase0-unit1` repository--more on that later. 
 
 
