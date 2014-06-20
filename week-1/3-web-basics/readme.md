@@ -39,20 +39,35 @@ Now let's put that knowledge to work!  We will be using [Sublime Text](http://ww
 * **Save the file**
 
 ## Release 2: Save your page to GitHub
+Navigate in your command line to your [USERNAME].github.io folder using `cd`
+type in `git status` 
+you should see something like this:
 
-If you are **NOT** using Mac or Windows and the GitHub App, [follow this tutorial](http://readwrite.com/2013/10/02/github-for-beginners-part-2#awesm=~oxToOt4ihQmVCP) and then skip to release 4.
+![git status](http://i.imgur.com/oWobDr0.png)
 
-* **Open the GitHub App**<ul><li>You should be in your [USERNAME]/[USERNAME].github.io repository</li><li>You should be in the "Changes" view</li><li>You should see `index.html` in the list of changes as a new file</li></ul>![GitHub app new change](../imgs/github-app-2_save-1.jpg)
-* **Type a "commit message"**<br><br>A commit message is a description of all the files and changes that are part of the "snapshot" (or commit) you are about to save.  If another programmer only read the commit, they should understand what was changed (or added or deleted) and why.<br><br>![GitHub commit](../imgs/github-app-2_save-2.jpg)
-* **Click on the "Commit" button**<br>*If you get an alert about saving credentials, choose "Always Allow"*
-* **View your commit**<ul><li>Click on "History" in the left sidebar</li><li>History shows all the commits anyone has made</li><li>It's kind of awesome</li></ul><br><br>![GitHub commit](../imgs/github-app-2_save-3.jpg)
+Red means modified but not staged for commit. We want to stage this so we can save our work!
 
+Type in `git add [WHAT_YOUR_FILE_IS_CALLED]` you can use tab to help auto complete your names.
+
+now type in `git status` again, now your files should be green!
+
+We are ready now to commit these changes. Use this command:
+
+`git commit -m "then type a message with quotes around it to describe what you changed"`
+
+the m stands for message. If you want you can use -v (verbose) to type a longer message in your default text editor.
 
 ## Release 3: Push your page to GitHub
 
-Click on the **Sync Branch** button in the upper right corner.
+Now that we have all of our changes saved with commit. It is time to push these changes to the remote repo. We are going to use this command:
 
-![GitHub commit](../imgs/github-app-3_push.jpg)
+`git push origin master` 
+
+push takes 2 options, the name of the remote repo, which is origin in our case, and which branch to push. Since we have not created our own branch we are currently on the  `master` branch. If you dont believe me you can type `git branch` and see for yourself.
+
+Generally we want to do work on branches other than master then do a pull request, which our co-workers will review. This maintains the integrity of the master branch and prevents your production code from the bugs of development.
+
+After your push is done, your remote repo which lives on github.com will be updated.
 
 ## Release 4: View your site
 
