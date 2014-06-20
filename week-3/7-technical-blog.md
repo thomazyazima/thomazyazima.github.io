@@ -11,7 +11,7 @@ In your blog-posts directory in your [USERNAME].github.io repo, create a new HTM
 ## Release 1: Research
 Research the following questions:
 
-#### Why is JavaScript popular in web development? What are the great things about JavaScript? What are it's limitations?
+#### Why is JavaScript popular in web development? What are the great things about JavaScript? What are its limitations?
 
 ## Release 2: Blog!
 
