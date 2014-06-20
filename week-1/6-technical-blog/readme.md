@@ -42,7 +42,7 @@ Write a blog post analyzing the 3 sites in terms of user experience and design. 
 Don't forget to sync/push your changes to make them live on your github.io site!
 
 ## Release 4: Reflect
-On your local `phase0-unit1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
+On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 
 ## Release 5: Promote
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 

@@ -26,7 +26,7 @@ Once you know who is in your accountability group, send everyone in your group a
 **DOUBLE CHECK THAT YOU HAVE ISSUES ENABLED AS A FEATURE ON BOTH OF YOUR REPOSITORIES**
 
 Once you've completed the week's work, send them:
-* link to your forked `phase0-unit1` repository
+* link to your forked `phase-0-unit-1` repository
 * link to your [USERNAME].github.io site
 * link to your wireframe html page
 

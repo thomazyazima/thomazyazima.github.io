@@ -53,5 +53,5 @@ image sharing site.
 * Add the image to your html page.
 
 ## Release 3: Reflection
-On your local `phase0-unit1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
+On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 

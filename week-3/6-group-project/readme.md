@@ -31,7 +31,7 @@ As a user, I want to...
 
 Because you aren't working with users, you can omit the "As a user" part of the story, but make sure you are specific on the "I want to..."part. The user stories should be easily translated into pseudocode by the next person in your group.  However, a user story is *NOT* psuedocode -- it should describe the experience of someone *using* the function.  Words like `array` or `loop` or any word not known to a non-technical person should not be used.  In this case, you can specify the function name.
 
-**Email your `gc1_user_stories.js` URL (from your forked phase0-unit1 repo) to the next person in your group.**
+**Email your `gc1_user_stories.js` URL (from your forked phase-0-unit-1 repo) to the next person in your group.**
 
 ## Release 1: Person 2
 ### Translate user stories into [pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md) 
@@ -39,7 +39,7 @@ Because you aren't working with users, you can omit the "As a user" part of the 
 
 Based on the user stories you receive from the first person, write pseudocode that can be easily implemented by the next person in your group.  Your psuedocode should be steps that specify at least 1 line of code.
 
-**Email the `gc1_pseudocode.js` URL (from your forked phase0-unit1 repo) (without the user stories) to the next person/people in your group.** You may not deviate from the user stories in your pseudocode.
+**Email the `gc1_pseudocode.js` URL (from your forked phase-0-unit-1 repo) (without the user stories) to the next person/people in your group.** You may not deviate from the user stories in your pseudocode.
 
 ## Release 2: Person 3 
 ### Translate Pseudocode into Code

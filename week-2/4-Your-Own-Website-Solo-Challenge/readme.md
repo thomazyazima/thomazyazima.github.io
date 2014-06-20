@@ -34,7 +34,7 @@ one in each section. *You don't need to go crazy* if you don't have the time or 
 **User Experience**
 - Read: [What is User Experience Design?](http://uxdesign.smashingmagazine.com/2010/10/05/what-is-user-experience-design-overview-tools-and-resources/)
 - Read: [User Experience](http://en.wikipedia.org/wiki/User_experience)
-- Read: [User Experience Design](https://github.com/Devbootcamp/phase0-unit1/edit/master/week_1/creative_challenge/readme.md)
+- Read: [User Experience Design](https://github.com/Devbootcamp/phase-0-unit-1/edit/master/week_1/creative_challenge/readme.md)
 
 
 **Food for thought**
@@ -50,7 +50,7 @@ want to review.
 - Read: [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
 
 ## Release 2: Wireframe your Site
-Create a `my_wireframe.html` file in your `unit1_projects` folder (This folder is in your [USERNAME]github.io repository NOT the `phase0-unit1` repository).
+Create a `my_wireframe.html` file in your `unit1_projects` folder (This folder is in your [USERNAME]github.io repository NOT the `phase-0-unit-1` repository).
 
 - Create a plan for your new web page and put the plan into your html
 file.  Add, commit, and push a file with the details to Github.
