@@ -29,9 +29,9 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 
 ## Submitting your work
 
-You'll continue working in the `phase_0_unit_1` repository this week. Please note: You should have two separate repositories in your github account. You should have your [USERNAME].github.io and your phase_0_unit_1 repositories. Please keep these separate. Blog posts should always be included in your github.io repository, but all other challenges from here on out will go in your unit-specific repository. 
+You'll continue working in the `phase0-unit1` repository this week. Please note: You should have two separate repositories in your github account. You should have your [USERNAME].github.io and your phase0-unit1 repositories. Please keep these separate. Blog posts should always be included in your github.io repository, but all other challenges from here on out will go in your unit-specific repository. 
 
-Please fetch the changes from DevBootcamp's master repo to get your week 3 curriculum. Use [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching-changes.md) to fetch the changes (Try using the command line!)
+Please fetch the changes from DevBootcamp's master repo to get your week 3 curriculum. Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) to fetch the changes (Try using the command line!)
 
 You need to submit your work on the Unit 1, Week 3 submission form [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. Expect to submit your links for each challenge above. 
 

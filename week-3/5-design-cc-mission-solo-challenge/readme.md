@@ -2,7 +2,7 @@
 
 # U1.W3: Design Your Own Code Combat Mission SOLO CHALLENGE
 
-**This is a solo challenge. Refer to the [solo challenge](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo-challenges.md) guidelines.**
+**This is a solo challenge. Refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines.**
 
 ## Learning Competencies
 - Define local variables in JavaScript
@@ -26,17 +26,17 @@ Write an outline of your mission in comments in your [my_solution.js](my_solutio
 4. Think of the methods that are necessary to manipulate your objects and add them to your objects.  
 
 
-## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/pseudocode.md) 
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md) 
 Turn your objectives and objects into pseudocode. Write these in plain english and save them as comments. 
 
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
-## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/initial-solution.md)
+## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Your functions don't have to replicate movement on the screen (unless you want them to), but think about how to display something like movement using data structures.
 
-## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/refactoring.md)
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Optimize your Learning (Optional)
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...

@@ -40,10 +40,10 @@ Now that you've done all this work, don't forget to push your changes to github 
 
 Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
 
-## Release 2: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md). ***NOTE: Reflections are mandatory!***
+## Release 2: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md). ***NOTE: Reflections are mandatory!***
 
-## Release 3: [Review others' Reflections/Solutions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/review.md)
+## Release 3: [Review others' Reflections/Solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 
 Leave an issue telling the student what they did well and can do better next time with regard to the pseudocode and reflection. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
 
