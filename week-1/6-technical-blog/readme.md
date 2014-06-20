@@ -44,6 +44,8 @@ Don't forget to sync/push your changes to make them live on your github.io site!
 ## Release 4: Reflect
 On your local `phase0-unit1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 
-<!-- ## Release 5: Promote
-Now that you've done all that work, promote your blog on Twitter! (Yes, this is actually a requirement - more on the importance of Twitter later).  -->
+## Release 5: Promote
+Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+
+<!-- Now that you've done all that work, promote your blog on Twitter! (Yes, this is actually a requirement - more on the importance of Twitter later). -->
 
