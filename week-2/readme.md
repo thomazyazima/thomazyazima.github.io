@@ -1,6 +1,8 @@
 # HTML and CSS cont. 
 
-This week you will go into more depth on HTML and CSS and get more practice. You will also get to play with Dev Tools and consider the implications of responsive Design. Overall, this week's curriculum should give you the opportunity to go into more depth with HTML and have fun solidifying your knowledge!
+Please do not start week 2. We will release it with changes at least by the Sunday before week 2 begins. 
+
+<!-- This week you will go into more depth on HTML and CSS and get more practice. You will also get to play with Dev Tools and consider the implications of responsive Design. Overall, this week's curriculum should give you the opportunity to go into more depth with HTML and have fun solidifying your knowledge!
 
 You have a [Cultural Assignment](7_cultural_assignment.md) this week you should look at first. 
 
@@ -32,3 +34,4 @@ Once you have the entire local repository on your computer, you don't need to re
 
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** If you do not complete the challenges by Sunday, fill out the extension request form and complete the submission form when you finish.
 
+ -->
