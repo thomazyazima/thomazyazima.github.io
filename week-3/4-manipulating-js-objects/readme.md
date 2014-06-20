@@ -1,8 +1,6 @@
 [Week 3 Home](../)
 
-# U1.W3: Manipulating JavaScript Objects Solo Challenge
-
-**This is a solo challenge. Refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/).**
+# U1.W3: Manipulating JavaScript Objects
 
 ## Learning Competencies
 - Define local variables in JavaScript
