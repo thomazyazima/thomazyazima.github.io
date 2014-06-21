@@ -27,25 +27,29 @@ A git repository is "distributed", which means it exists on many computers inste
 
 In git terms, this is called **cloning a repository locally**. A "local repository" is the copy on your computer. A "remote repository" is one on another server, i.e. on GitHub, or on another person's computer.  
 
-#### Clone a repository with the GitHub App
-
-For [Mac](http://mac.github.com/) and [Windows](http://windows.github.com/) users, open the GitHub app you installed earlier.
-
-If you are working on Linux and/or want to challenge yourself further, skip to the next section.
-
-1. Open the GitHub App
-2. On the right side bar, click on your github [USERNAME]
-3. In the search bar, start searching for "github".  Your "[USERNAME].github.io" repository should come up in the list.
-4. Click on the "Clone to this computer" button.
-
-![Clone a repo](../imgs/github-app-1_clone.jpg)
-
-
 #### Cloning a repository with the command line
+Now we want to bring the repository to our computer. There is a series of commands we can use to do this.
 
-This section is for Linux users or those who want to challenge themselves.  Later in DBC and in your life as a professional developer, you will use git and access GitHub using the command line (aka "terminal").
+The first step is to get the URL of the repo. This is found here:
 
-Use [this tutorial](../git_clone.md) to clone your repository on the command line.
+![image](http://i.imgur.com/cJhOctU.png)
+
+Mine says SSH URL. If you have your SSH key set up with Github you can use this. Otherwise click HTTPS and use that URL. Copy this URL to your clipboard.
+
+Now you can open your command line, navigate to the directory where you want to add this file using `cd` and then type this command:
+
+`git clone URL_THAT_YOU_COPIED `
+
+If you are using HTTPS, you will be prompted to enter your github user name and password.
+
+Now you should see some stuff execute, it looks like your hacking a mainframe in the 90s. 
+
+After the command prompt appears again execute this command:
+
+`ls`
+
+Now you should see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and poke around.
+
 
 ## Release 2: Open Source
 
