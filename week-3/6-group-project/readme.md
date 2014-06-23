@@ -50,13 +50,13 @@ When you finish your coding, make sure the code runs without any syntax errors. 
 
 When you are finished, send your solution to the next person in your group (again based on the graphics below). 
 
-** Person 4 will also do this in a five and six person group.**
+**Person 4 will also do this in a five and six person group.**
 
 ## Release 3: Person 4 
 ### [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) and translate
 **Rename your [my_solution.js](./my_solution.js) file to `gc1_refactored.js`**
 
-When you receive the `gc1_initial_solution.js` links, refactor it/them to make the code more clear. Then translate each into user stories. You will send your refactored code and your user stories to the first person in the group.
+When you receive the `gc1_initial_solution.js` links, refactor it/them to make the code more clear. Then translate each into user stories. You may not change the way the code works, even if it's broken. The inputs and outputs must stay the same. You should clean up the internals of the method or the method/argument names. You will send your refactored code and your user stories to the first person in the group.
 
 **Person 5 and 6 do this in a five or six person group**
 
