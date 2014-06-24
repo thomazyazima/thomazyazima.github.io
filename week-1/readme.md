@@ -7,7 +7,7 @@ Once you feel comfortable with the expecations for Phase 0, you can get started 
 ### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
 
-#### 1. [Get Started](1-Get-Started)
+#### 1. [Get Started](1-get-started)
 #### 2. [Set Up Repo](2-set-up-repo)
 #### 3. [Web Basics](3-web-basics)
 #### 4. [Beginning HTML & CSS](4-beginning-HTML-CSS)
