@@ -1,6 +1,6 @@
 [Week 3 Home](../)
 
-# U1.W3: Asynchronous Group Project
+# U1.W3: Code Telephone (group challenge)
 
 ## Learning Competencies
 - Write easily implementable pseudocode based on tests
