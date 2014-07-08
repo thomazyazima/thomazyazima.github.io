@@ -12,7 +12,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 ## Before you begin:
 - [Install Node.js](reading-material/install_node.md)
 - Read about [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) Understanding this well will be very beneficial.
-- You may choose to read through [JavaScript Reading Material](reading_material) before starting the challenges.
+- You may choose to read through [JavaScript Reading Material](reading-material) before starting the challenges.
 
 ## Challenges
 1. ["Git" Started](1-git-started)
