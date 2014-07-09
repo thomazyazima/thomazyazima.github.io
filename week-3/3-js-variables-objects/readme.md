@@ -11,7 +11,7 @@
 ## Summary
 Now that you have had a bit of fun with JavaScript in the [Code Combat](../2_code_combat) 
 challenge, you will want to learn a bit more about how JavaScript works. Before working 
-on this challenge, read through [object_types](../reading_material/object_types.md) and 
+on this challenge, read through [object_types](../reading-material/object_types.md) and 
 [JavaScript Intro](../reading-material/javascript_intro_lab). Make sure to practice as 
 you go. You can open a new sublime file and run it in your terminal with node.js. 
 This will help to solidify your knowledge. By the way, this would be a cool thing to pair on. 
