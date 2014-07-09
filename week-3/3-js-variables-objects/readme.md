@@ -22,7 +22,7 @@ will be different types of JavaScript objects.
 
 ## Release 0: Test-Driven Development
 
-You will find test code at the bottom of your [my_solutions.js](my_solutions.js) file. Run the code in this file either from the command line 
+You will find test code at the bottom of your [my_solution.js](my_solution.js) file. Run the code in this file either from the command line 
 using Node.js or by pasting the code of this entire file into your browser console. All tests will log `true` in the console when they pass--`false`, otherwise.
 
 The tests will tell you what to do next.  Run the code and read the message explaining 
