@@ -20,8 +20,10 @@ From this point forward, all work will happen within the `unit1_projects` folder
 
 ## Release 1. Intro to HTML
 
-#### a. Learn
+#### a. Learn (Please select one to use or mix and match!)
 
+* Codecademy [HTML & CSS](http://www.codecademy.com/en/tracks/web) *If you would prefer a tutorial*
+* w3schools.com [HTML4 and HTML5 Tutorial](http://www.w3schools.com/html/)
 * Slides: [Intro to HTML](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.html#/)
 
 **Optional resources**
@@ -35,7 +37,7 @@ What other resources can you find? Share them in the google+ community.
 #### b. Experiment
 Create a new html page in your repository called `dbc1.html`
 
-Add the following to `dbc1.html` (Use this to introduce yourself!)
+Add the following to `dbc1.html` (Use this to introduce yourself - or fill it full of gobbly gook if you'd prefer)
 
 * Doctype, head, title, and body
 * Add one heading of each level (h1-h6) 
