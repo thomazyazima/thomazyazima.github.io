@@ -19,6 +19,10 @@ Think about something you want to teach people about. You will be building a web
 
 * Slides: [More HTML](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class3.html#/)
 
+or refer to these resources:
+* Codecademy [HTML & CSS](http://www.codecademy.com/en/tracks/web) 
+* w3schools.com [HTML4 and HTML5 Tutorial](http://www.w3schools.com/html/)
+
 **Optional resources**
 
 * [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/) 
