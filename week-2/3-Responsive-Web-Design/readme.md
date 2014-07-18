@@ -58,7 +58,7 @@ Reflect on your learning in the "reflection" div on your site. This section shou
 This site should be initially kept in your phase-0-unit-1 repository, but we also want you to make it live on your github.io site. 
 
 ## Release 5: Publish
-Using the terminal, practice copying the html and css sheets into a new folder in your [USERNAME]github.io site. Double check that it's displaying everything properly. Then add a link on the index of your site to make sure people can learn from your example!
+Using the terminal, practice copying the html and css sheets into a new folder in your [USERNAME]github.io site. Commit and push your changes to your github.io site. Double check that everything is displaying  properly. Then add a link on the index of your site to make sure people can learn from your example!
 
 ## Optimize your learning
 If you want more resources or time to build a responsive site, consider going through the [Treehouse: Build a Responsive Website](http://teamtreehouse.com/library/build-a-responsive-website) which takes approximately 1.5-2 hours, or any tutorial offered in this blog [16 really useful responsive design tutorials](http://www.creativebloq.com/netmag/16-really-useful-responsive-design-tutorials-71410085). Each of these tutorials will take a couple hours of dedication.
