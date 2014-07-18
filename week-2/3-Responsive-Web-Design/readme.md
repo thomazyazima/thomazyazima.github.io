@@ -36,11 +36,11 @@ Additional required resources for you to consider:
 - Read: [Change your browsers user agent](http://osxdaily.com/2013/01/16/change-user-agent-chrome-safari-firefox/)
 
 
-## Release 1: Share your knowledge
+## Release 1: Share your knowledge with your Pair
 
-Using the accompanying starting-point.html file, add the information you learned from your research (don't forget to cite your sources in the "references" section). Discuss your understanding of the concepts with your pair to make sure you are both on the same page. 
+Get together with your pair. Using the accompanying starting-point.html file, add the information you learned from your research (don't forget to cite your sources in the "references" section). Discuss your understanding of the concepts with your pair to make sure you are both on the same page. 
 
-## Release 2: Make your site responsive
+## Release 2: Responsify with your pair
 Now is your chance to make the site responsive and nice-looking. Practice your positioning skills as well if you don't feel comfortable with them. Make sure to check how your site looks: 
 
 - on your phone 
@@ -51,7 +51,7 @@ Now is your chance to make the site responsive and nice-looking. Practice your p
 
 You can try using [QuirkTools](http://quirktools.com/screenfly) to see a site in multiple browsers.
 
-## Release 3: Reflect
+## Release 3: Reflect (individually)
 Reflect on your learning in the "reflection" div on your site. This section should be completed on your own, but you should style it with your pair. 
 
 ## Release 4: Commit and push your changes 
