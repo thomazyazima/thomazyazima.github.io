@@ -36,11 +36,12 @@ Additional required resources for you to consider:
 - Read: [Change your browsers user agent](http://osxdaily.com/2013/01/16/change-user-agent-chrome-safari-firefox/)
 
 
-## Release 1: Share your knowledge
+## Release 1: Share your knowledge with your Pair
 
-Using the accompanying starting-point.html file, add the information you learned from your research (don't forget to cite your sources in the "references" section). Discuss your understanding of the concepts with your pair to make sure you are both on the same page.
+Get together with your pair. Using the accompanying starting-point.html file, add the information you learned from your research (don't forget to cite your sources in the "references" section). Discuss your understanding of the concepts with your pair to make sure you are both on the same page.
 
-## Release 2: Make your site responsive
+## Release 2: Responsify with your pair
+
 With such a multitude of devices with different screen sizes, it is important to create a web layout that is not tied to a certian screen resolution.
 
 Think about how you want the website to look from a desktop monitor, a cell phone, and a tablet. Resize your screen to mimic those sizes and see where the layout falls apart. Then you can use media queries to target these pixel dimensions.
@@ -55,7 +56,8 @@ Here is a more practical guide: [alistapart on media queries](http://alistapart.
 
 Cross browser normalization can be a pain, check out how well your website works on different browsers :[QuirkTools](http://quirktools.com/screenfly)
 
-## Release 3: Reflect
+
+## Release 3: Reflect (individually)
 Reflect on your learning in the "reflection" div on your site. This section should be completed on your own, but you should style it with your pair.
 
 ## Release 4: Commit and push your changes
