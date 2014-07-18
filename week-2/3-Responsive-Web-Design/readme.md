@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-# U1.W2: Responsive Web Design - Pairing Challenge! 
+# U1.W2: Responsive Web Design - Pairing Challenge!
 
 ## Learning Competencies
 - Describe responsive design
@@ -19,7 +19,7 @@ time thinking about how to make web pages usable in all the possible
 formats (phones, tablets, web) while keeping them maintainable (i.e. not
 taking a billion years to make small changes). Responsive design is one
 of the ways developers have created to make sites usable, maintainable, and
-adaptable to new devices and browsers. 
+adaptable to new devices and browsers.
 
 
 ## Release 0: Research before you pair
@@ -38,24 +38,30 @@ Additional required resources for you to consider:
 
 ## Release 1: Share your knowledge with your Pair
 
-Get together with your pair. Using the accompanying starting-point.html file, add the information you learned from your research (don't forget to cite your sources in the "references" section). Discuss your understanding of the concepts with your pair to make sure you are both on the same page. 
+Get together with your pair. Using the accompanying starting-point.html file, add the information you learned from your research (don't forget to cite your sources in the "references" section). Discuss your understanding of the concepts with your pair to make sure you are both on the same page.
 
 ## Release 2: Responsify with your pair
-Now is your chance to make the site responsive and nice-looking. Practice your positioning skills as well if you don't feel comfortable with them. Make sure to check how your site looks: 
 
-- on your phone 
-- on a tablet
-- on really wide screen
-- resized really small
-- the user agent is changed in your browser
+With such a multitude of devices with different screen sizes, it is important to create a web layout that is not tied to a certian screen resolution.
 
-You can try using [QuirkTools](http://quirktools.com/screenfly) to see a site in multiple browsers.
+Think about how you want the website to look from a desktop monitor, a cell phone, and a tablet. Resize your screen to mimic those sizes and see where the layout falls apart. Then you can use media queries to target these pixel dimensions.
+
+If you are using chrome, you can open the Chrome Dev Tools and start resizing the browser window. This will display the pixel dimensions in the top right of the screen.
+
+Here is a comprehensive resource on media queries: [MDN docs on media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
+
+Here is a website that compiles examples of great usage of media queries: [mediaqueri.es](http://mediaqueri.es/)
+
+Here is a more practical guide: [alistapart on media queries](http://alistapart.com/article/responsive-web-design) It is old but there is still a lot of good info there.
+
+Cross browser normalization can be a pain, check out how well your website works on different browsers :[QuirkTools](http://quirktools.com/screenfly)
+
 
 ## Release 3: Reflect (individually)
-Reflect on your learning in the "reflection" div on your site. This section should be completed on your own, but you should style it with your pair. 
+Reflect on your learning in the "reflection" div on your site. This section should be completed on your own, but you should style it with your pair.
 
-## Release 4: Commit and push your changes 
-This site should be initially kept in your phase-0-unit-1 repository, but we also want you to make it live on your github.io site. 
+## Release 4: Commit and push your changes
+This site should be initially kept in your phase-0-unit-1 repository, but we also want you to make it live on your github.io site.
 
 ## Release 5: Publish
 Using the terminal, practice copying the html and css sheets into a new folder in your [USERNAME]github.io site. Commit and push your changes to your github.io site. Double check that everything is displaying  properly. Then add a link on the index of your site to make sure people can learn from your example!
