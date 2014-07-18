@@ -34,7 +34,7 @@ Take a screenshot of your code school points (They appear on the right of your C
 
 Play with changing the CSS of your github.io website using Chrome Web Tools.
 
-Then, visit any blog on [wordpress.com](http://www.wordpress.com) or create your own.  Use the Chrome Web Tools to take a peek into the site.  How does it differ from your github.io site's html and css?
+Then, visit any blog on [wordpress.com](http://www.wordpress.com).  Use the Chrome Web Tools to take a peek into the site.  How does it differ from your github.io site's html and css?
 
 
 ## Release 3: Reflect 
