@@ -2,9 +2,8 @@
 
 # U1.W2: Thinking about Time
 
-
 ## Learning Competencies
-- Research time management, productivity
+- Research time management and productivity
 - Design a plan for getting work done during Phase 0
 - Explain "Time Boxing" and describe how to use it
 
@@ -31,6 +30,7 @@ Research Time Management, Productivity, and Mindfulness using a selection of the
 - [Counter-intuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
 - [Tricks for Getting into the Zone](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
 - [Flow](http://en.wikipedia.org/wiki/Flow_(psychology))
+- [Timebox](http://guide.agilealliance.org/guide/timebox.html)
 
 
 ## Release 2: Reflect + Email
