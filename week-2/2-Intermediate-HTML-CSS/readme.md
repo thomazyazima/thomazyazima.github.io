@@ -33,7 +33,7 @@ Download the [practice files](http://girldevelopit.github.io/gdi-core-intermedia
 ## Release 2: Reflect
 Answer the questions in your [my_reflection.md](my_reflection.md) file.
 
-## Release 3: Commit and sync/push your changes!
+## Release 3: Commit and push your changes!
 Make sure you can see all of your changes on your github.io site!
 
 

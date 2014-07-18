@@ -61,6 +61,6 @@ You can complete the first 2 challenge reflections on github.com. Click on the m
 
 ![Editing Reflection](../imgs/adding-reflection.jpg)
 
-After you learn how to edit files locally and sync/push your changes (in the third challenge), you'll want to edit all files on your local `phase-0-unit-1` repository--more on that later.
+After you learn how to edit files locally and push your changes (in the third challenge), you'll want to edit all files on your local `phase-0-unit-1` repository--more on that later.
 
 

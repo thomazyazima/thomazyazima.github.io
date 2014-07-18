@@ -40,7 +40,8 @@ Then, visit any blog on [wordpress.com](http://www.wordpress.com) or create your
 ## Release 3: Reflect 
 Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
 
-## Release 4: Sync and Submit!
+## Release 4: Commit and Push 
+Commit and push your changes to GitHub.
 
 ###Resources
 - [Pagespeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
