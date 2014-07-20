@@ -65,8 +65,6 @@ Add the following to `dbc1.html` (Use this to introduce yourself - or fill it fu
 * [Hexidecimal color](http://skillcrush.com/2012/05/07/hexadecimal/)
 * [Classes vs IDs](http://skillcrush.com/2013/01/28/understanding-css-classes-vs-ids/)
 * [The Difference between IDs and Classes](http://css-tricks.com/the-difference-between-id-and-class/)
-
-**Optional resources**
 * [SMACCS - CSS Design Thinking](https://smacss.com/book/categorizing)
 * [Intro to Chrome Dev Tools](http://www.html5rocks.com/en/tutorials/developertools/part1/)
 
