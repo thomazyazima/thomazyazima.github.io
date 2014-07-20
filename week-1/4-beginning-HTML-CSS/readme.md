@@ -34,8 +34,9 @@ Your file structure should look like this:
 * [Build a simple website](http://teamtreehouse.com/library/build-a-simple-website)
 * [Beginners guide to HTML and CSS](http://learn.shayhowe.com/html-css/)
 * [HTML tag cheatsheat](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
+* [Teamtreehouse HTML Course - 14 Day Free Trial](http://teamtreehouse.com/library/html)
 
-What other resources can you find? Share them in the google+ community.
+Have more resources you want to share? Share them in the google+ community!
 
 #### b. Experiment
 Create a new html page in your repository called `dbc1.html`
@@ -65,6 +66,9 @@ Add the following to `dbc1.html` (Use this to introduce yourself - or fill it fu
 * [Classes vs IDs](http://skillcrush.com/2013/01/28/understanding-css-classes-vs-ids/)
 * [The Difference between IDs and Classes](http://css-tricks.com/the-difference-between-id-and-class/)
 
+**Optional resources**
+* [SMACCS - CSS Design Thinking](https://smacss.com/book/categorizing)
+* [Intro to Chrome Dev Tools](http://www.html5rocks.com/en/tutorials/developertools/part1/)
 
 #### b. Experiment
 Create a new css file in your repository called `dbc1.css` and save it to the `stylesheets/` directory.
