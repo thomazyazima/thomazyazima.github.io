@@ -18,6 +18,9 @@ Everything in this challenge is within the context of the [website](../1_Get_Sta
 
 From this point forward, all work will happen within the `unit1_projects` folder.  All images should go in the `unit1_projects/images` folder and all css files should go in the `unit1_projects/stylesheets` folder.
 
+Your file structure should look like this:
+![](http://imgur.com/6PzJNRB.png)
+
 ## Release 1. Intro to HTML
 
 #### a. Learn (Please select one to use or mix and match!)
