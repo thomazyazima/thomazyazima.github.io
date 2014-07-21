@@ -44,7 +44,6 @@ Add at least the following to `dbc2.html`:
 
 **Optional resources**
 
-- [Downloading CSS from a website](http://www.cssbasics.com/download-css-styles-from-a-website/)
 - [Decoupling HTML from CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
 - [30 CSS Best Practices for Beginners](http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
 
