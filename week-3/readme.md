@@ -25,7 +25,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 1.2](9-gps1.2): **DO NOT READ UNTIL YOUR GPS SESSION!**
 
-## Remember your Expectations for the Unit!
+## Remember your Unit Expectations!
 - Pair at least twice this week.  *You need to pair 4 times on your own this unit*
 - Give feedback for each person you paired with. *You need to submit at least 6 pieces of feedback in this unit*
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
