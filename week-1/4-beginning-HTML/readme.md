@@ -1,81 +1,42 @@
 # U1.W1: Beginning HTML & CSS
 
 ## Learning Competencies
-- Create a simple web page from the ground up using basic HTML tags
-- Manipulate HTML elements using CSS
+- Set up a basic HTML page with the appropriate tags (html, head, title,)
+- Add paragraphs, headings, links, images, lists, and/or tables
+- Divide content on a page using divs and spans
 
 ## Summary
-Everything in this challenge is within the context of the [website](../1-get-started/2_set_up_repo.md) you set up in the [get started](../1-get-started/) section.
+In this challenge, you will be building an html-only clone of [this website](http://www.berkshirehathaway.com/). It's a pretty simple site, but can be done in various ways. 
 
 ## Releases
 
-## Release 0: Set up folders
+## Release 0: Learn Basic HTML
+- Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
+  - HTML Basics
+  - HTML Basics II (Sections 1-6 Only. *Skip styling sections*.)
+  - HTML Basics III
 
-* Create a `unit1_projects` folder
-* Within the unit1_projects folder create an `images` folder
-* Within the unit1_projects folder, create a `stylesheets` folder
-
-
-From this point forward, all work will happen within the `unit1_projects` folder.  All images should go in the `unit1_projects/images` folder and all css files should go in the `unit1_projects/stylesheets` folder.
-
-Your file structure should look like this:
-![](http://imgur.com/6PzJNRB.png)
-
-## Release 1. Intro to HTML
-
-#### a. Learn (Please select one to use or mix and match!)
-
-* Codecademy [HTML & CSS](http://www.codecademy.com/en/tracks/web) *If you would prefer a tutorial*
-* w3schools.com [HTML4 and HTML5 Tutorial](http://www.w3schools.com/html/)
-* Slides: [Intro to HTML](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.html#/)
-
-**Optional resources**
-
-* [Build a simple website](http://teamtreehouse.com/library/build-a-simple-website)
-* [Beginners guide to HTML and CSS](http://learn.shayhowe.com/html-css/)
-* [HTML tag cheatsheat](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
-* [Teamtreehouse HTML Course - 14 Day Free Trial](http://teamtreehouse.com/library/html)
-
-Have more resources you want to share? Share them in the google+ community!
-
-#### b. Experiment
-Create a new html page in your repository called `dbc1.html`
-
-Add the following to `dbc1.html` (Use this to introduce yourself - or fill it full of gobbly gook if you'd prefer)
-
-* Doctype, head, title, and body
-* Add one heading of each level (h1-h6) 
-* 2-3 short paragraphs
-* Some italic and bold text
-* Links that open in the same window, a new window and link to an e-mail address.
-* Images and an image that's also a link
-* Line break
-* Unordered list and an ordered list
-
-## Release 3: Intro to CSS
-
-#### a. Learn
-
-* Slides: [Intro to CSS](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.html#/)
-
-**Optional resources**
-
-* [CSS Basics (styling) ](http://www.cssbasics.com/introduction-to-css/)
-* [Mozilla's CSS - Getting Started](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) (sections 1-6 if you're unfamiliar with CSS, sections 3-5 if you're familiar with CSS)
-* [Hexidecimal color](http://skillcrush.com/2012/05/07/hexadecimal/)
-* [Classes vs IDs](http://skillcrush.com/2013/01/28/understanding-css-classes-vs-ids/)
-* [The Difference between IDs and Classes](http://css-tricks.com/the-difference-between-id-and-class/)
-* [SMACCS - CSS Design Thinking](https://smacss.com/book/categorizing)
-* [Intro to Chrome Dev Tools](http://www.html5rocks.com/en/tutorials/developertools/part1/)
-* [30 CSS Best Practices for Beginners](http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
-
-#### b. Experiment
-Create a new css file in your repository called `dbc1.css` and save it to the `stylesheets/` directory.
-
-* Link the `dbc1.css` file to your html file using the "external" method
-* Add colors, background colors or fonts of different parts of the page
-* Use ids and classes to change specific elements
+## Release 1: Set up your HTML Page
+It's time to use the tools you learned in codecademy. In the [my-solution.html](my-solution.html), set up your webpage using the appropriate tags. You should have a doctype, html tags, a head, title, body, etc. Don't forget your closing tags!
 
 
-## Release 4: Reflect 
+## Release 2: 
+Now it's time to add the "fun" stuff. You don't need to point to the correct URL in the links; instead you can point to a shorter url, like google, but you should try getting the content to look about the same as the image below. 
+
+Consider whether you want to use a table or divs. [This article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use. 
+
+You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-CSS) challenge. When you finish adding the content using HTML, you site should look something like this: 
+
+![unformatted berkshire](imgs/unformatted-berkshire.png)
+
+We've included the Geico image for you in the [imgs](imgs) directory for you to use. 
+
+## Release 3: Reflect 
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
+
+## Additional Resources:
+- w3schools.com: [HTML4 and HTML5 Tutorial](http://www.w3schools.com/html/) This is a great site for looking up syntax!
+- [Build a simple website](http://teamtreehouse.com/library/build-a-simple-website)
+- [Beginners guide to HTML and CSS](http://learn.shayhowe.com/html-css/)
+- [HTML tag cheatsheat](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
+- [Teamtreehouse HTML Course - 14 Day Free Trial](http://teamtreehouse.com/library/html)
