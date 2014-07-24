@@ -38,8 +38,7 @@ Answer the questions in your [my_reflection.md](my_reflection.md) file.
 Make sure you can see all of your changes on your github.io site!
 
 
-## Optimize Your Learning (Optional)
-#### Psuedo elements
+## Release 3: Pseudo Elements (Optional)
 ##### a. Learn
 
 - [:before and :after psuedo

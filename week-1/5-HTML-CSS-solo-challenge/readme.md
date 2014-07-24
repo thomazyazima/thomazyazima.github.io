@@ -70,10 +70,8 @@ On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.m
 
 <hr>
 
-## Optimize your learning (Optional)
+## Release 3: Pseudo-Selectors (Optional)
 Want to dig a bit deeper into CSS? Curious about the `:hover` psuedo-selector you added to the CSS for links?
-
-#### Psuedo-selectors
 
 ##### a. Learn
 
