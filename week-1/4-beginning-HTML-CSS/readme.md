@@ -4,10 +4,10 @@
 - Create a simple web page from the ground up using basic HTML tags
 - Manipulate HTML elements using CSS
 
+## Summary
+Everything in this challenge is within the context of the [website](../1-get-started/2_set_up_repo.md) you set up in the [get started](../1-get-started/) section.
 
 ## Releases
-
-Everything in this challenge is within the context of the [website](../1_Get_Started/2_set_up_repo.md) you set up in the [get started](../1_Get_Started/) section.
 
 ## Release 0: Set up folders
 
