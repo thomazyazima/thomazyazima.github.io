@@ -1,4 +1,4 @@
-# U1.W1: Beginning HTML & CSS
+# U1.W1: Beginning HTML
 
 ## Learning Competencies
 - Set up a basic HTML page with the appropriate tags (html, head, title,)
@@ -6,18 +6,18 @@
 - Divide content on a page using divs and spans
 
 ## Summary
-In this challenge, you will be building an html-only clone of [this website](http://www.berkshirehathaway.com/). It's a pretty simple site, but can be done in various ways. 
+In this challenge, you will be building an html-only clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/). It's a pretty simple site, but can be done in various ways. 
 
 ## Releases
 
 ## Release 0: Learn Basic HTML
 - Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
   - HTML Basics
-  - HTML Basics II (Sections 1-6 Only. *Skip styling sections*.)
+  - HTML Basics II (Sections 1-6 Only. Skip the styling sections.)
   - HTML Basics III
 
 ## Release 1: Set up your HTML Page
-It's time to use the tools you learned in codecademy. In the [my-solution.html](my-solution.html), set up your webpage using the appropriate tags. You should have a doctype, html tags, a head, title, body, etc. Don't forget your closing tags!
+It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, html tags, a head, title, body, etc. Don't forget your closing tags!
 
 
 ## Release 2: 
