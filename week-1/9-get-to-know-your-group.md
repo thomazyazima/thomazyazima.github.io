@@ -2,10 +2,8 @@
 
 
 ## Learning Competencies
-- Introduce yourself to your accountability group
 - Describe what you learned from someone else's reflections
 - Consider strategies for time management and productivity
-- Design a plan for getting work done during Phase 0
 
 ## Summary
 
