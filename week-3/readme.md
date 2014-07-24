@@ -7,7 +7,7 @@ JavaScript is known as the "language of the web." It is a powerful object-orient
 
 You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't worry if you feel like you will forget everything. You will have the chance to review in the last two weeks of Phase 0 and the weekend before you begin Phase 2. Moreover, professional programmers look up information and syntax all the time. They don't have everything memorized either, so think of this as an introduction. The more you use JavaScript the more you will remember. For our purposes here, we want you to learn basics so that you can easily re-learn them later. 
 
-**You have an aesynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
+**You have an aeynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Before you begin:
 - [Install Node.js](reading-material/install_node.md)
