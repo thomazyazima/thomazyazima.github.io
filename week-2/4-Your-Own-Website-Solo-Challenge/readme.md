@@ -17,9 +17,9 @@ Regardless of whether design is interesting to you or not, web design matters to
 
 ## Release 0: Delve into Design
  
-We're going to make your [USERNAME].github.io website truly yours.  This challenge is a chance for you to customize and make the site reflect you.  You will work on the `index.html` page through this challenge.
+We're going to make your [USERNAME].github.io ex (johnde.github.io) website truly yours.  This challenge is a chance for you to customize and make the site reflect you.  You will work on the `index.html` page through this challenge.
 
-You've already read about Design Thinking and Wireframing.  Let's go a bit deeper.
+You've already read about [Design Thinking](https://github.com/Devbootcamp/phase-0-unit-1/tree/jwu-week2-review/week-2/3-Responsive-Web-Design) and [Wireframing](https://github.com/Devbootcamp/phase-0-unit-1/tree/jwu-week2-review/week-1/8-wireframing).  Let's go a bit deeper.
 
 Delve into a few of the following resources.  Try to look at at least
 one in each section. *You don't need to go crazy* if you don't have the time or interest.  Get an overview then get creative and put it into practice. You can also read more later.
@@ -35,7 +35,6 @@ one in each section. *You don't need to go crazy* if you don't have the time or 
 - Read: [What is User Experience Design?](http://uxdesign.smashingmagazine.com/2010/10/05/what-is-user-experience-design-overview-tools-and-resources/)
 - Read: [User Experience](http://en.wikipedia.org/wiki/User_experience)
 - Read: [User Experience Design](https://github.com/Devbootcamp/phase-0-unit-1/edit/master/week_1/creative_challenge/readme.md)
-
 
 **Food for thought**
 - Read: [Design for performance](https://speakerdeck.com/lara/design-for-performance)
@@ -54,9 +53,11 @@ Create a `my_wireframe.html` file in your `unit1_projects` folder (This folder i
 
 - Create a plan for your new web page and put the plan into your html
 file.  Add, commit, and push a file with the details to Github.
-- Create a wireframe of your website.  You can use pen and paper or a wireframing tool.  
+- Create a wireframe of your website.  You can use pen and paper or a wireframing tool such as [balsamiq mockups](http://balsamiq.com/)
 - Take a screenshot, photo, or save the file. Upload the file to an
-image sharing service.
+image sharing service such as [imgur](imgur.com)
+Example Below:
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Profilewireframe.png/220px-Profilewireframe.png)
 - Add the image to your html file.  Commit and push the file to Github. 
 
 ## Release 3: Code it up
@@ -66,7 +67,7 @@ Use the plan and wireframe as a guide to make the [USERNAME].github.io
 and push all your html changes to Github.  
 
 *Remember: you can open an html file in a browser to see changes as you
-go*
+go. Use the Chrome Dev Tools skills you learned to test out style changes!*
 
 Get creative. Have fun. But be conscious of time. This will be a work in progress, so you should timebox how much time you want to spend on it. You will be able to make improvements each week if you dedicate the time to it.
 
@@ -77,4 +78,7 @@ Go write your [reflection](my_reflection.md) and answer the questions!
 
 ## Release 5: Commit and push your changes!
 Make sure you can see all of your changes on your github.io site!
-
+Not sure how to push up this repo to your github.io site? Tutorials
+Command Line Way: [here](https://help.github.com/articles/creating-project-pages-manually) 
+Using Github Pages: [here](https://pages.github.com/)
+Treehouse Way: [here](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
