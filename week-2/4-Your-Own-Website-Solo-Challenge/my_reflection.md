@@ -1,6 +1,6 @@
 # U1.W2: Design, User Experience, and creating your website Reflection
 
-My Website url: [Place your website link]()
+My Website url: [Place your website link here]()
 
 Discuss the following:
 * What did you learn about design and user experience? 
