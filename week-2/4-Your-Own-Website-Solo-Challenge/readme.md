@@ -60,6 +60,14 @@ Example Below:
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Profilewireframe.png/220px-Profilewireframe.png)
 - Add the image to your html file.  Commit and push the file to Github. 
 
+What should I put in my website?! Some Suggestions
+- Links to your blog
+- Links to your linkedin, twitter, facebook, and other social media
+- About Me section
+- Contact section
+- Current Projects
+- It is a blank canvas do what you want!
+
 ## Release 3: Code it up
 
 Use the plan and wireframe as a guide to make the [USERNAME].github.io
