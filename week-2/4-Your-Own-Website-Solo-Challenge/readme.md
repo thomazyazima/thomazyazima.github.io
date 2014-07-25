@@ -79,7 +79,7 @@ Go write your [reflection](my_reflection.md) and answer the questions!
 ## Release 5: Commit and push your changes!
 Make sure you can see all of your changes on your github.io site!
 
-Not sure how to push up this repo to your github.io site? Tutorials
+Not sure how to push up this repo to your github.io site?
 - Command Line Way: [here](https://help.github.com/articles/creating-project-pages-manually) 
 - Using Github Pages: [here](https://pages.github.com/)
 - Treehouse Way: [here](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
