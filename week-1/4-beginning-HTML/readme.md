@@ -8,9 +8,12 @@
 ## Summary
 In this challenge, you will be building an html-only clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/). It's a pretty simple site, but can be done in various ways. 
 
+If you want to pair on this, we recommend going through Release 0 prior to pairing. Then get together with your pair for releases 1 and 2.
+
 ## Releases
 
 ## Release 0: Learn Basic HTML
+
 - Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
   - HTML Basics
   - HTML Basics II (Sections 1-6 Only. Skip the styling sections.)
