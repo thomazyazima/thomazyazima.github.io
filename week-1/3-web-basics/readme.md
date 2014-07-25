@@ -71,7 +71,7 @@ Now that we have all of our changes saved with commit. It is time to push these 
 
 push takes 2 options, the nickname of the remote repo, which is origin in our case, and which branch to push to. Since we have not created our own branch we are currently on the `master` branch of our local repo. If you ever need to check your current branch, you can type `git branch`.
 
-Generally we want to do work on branches other than master, then ask master to pull our changes(via a pull request), which our co-workers will review. This maintains the integrity of the master branch and helps prevent bugs in development code getting pushed to master, our production code. But let's not worry about that yet.
+NOTE: When working professionally, developers generally want to do work on branches other than master, then ask master to pull our changes(via a pull request), which will be reviewed. This maintains the integrity of the master branch and helps prevent bugs in development code getting pushed to master, our production code. But let's not worry about that yet.
 
 After your push is done, your remote repo which lives on github.com will be updated.
 

@@ -46,7 +46,7 @@ Reflecting is essential for solidifying your learning. You will be expected to c
 
 **Writing reflections for each challenge is mandatory.**
 
-Before you can complete your reflection, you'll need to click the "Fork" button at the top right of this page. You will write all of your reflections, and most of your challenges (after weeks 1 and 2) in your unit-specific repositories. DO NOT move your reflections into your [USERNAME].github.io repository. These are separate.
+Before you can complete your reflection, you'll need to click the "Fork" button at the top right of this page. You be completing most of your assignments in your unit-specific repositories. DO NOT move your reflections into your [USERNAME].github.io repository. These are separate repositories.
 
 ![Repo to Fork](../imgs/repo-to-fork.jpg)
 

@@ -11,6 +11,8 @@ In this challenge, you will be adding CSS to your clone of [Berkshire Hathaway's
 
 If you want to pair on this, we recommend going through Release 0 and 1 prior to pairing. Then get together with your pair for releases 2, 3, and 4.
 
+**This challenge will also be completed in your phase-0-unit-1 repository.**
+
 ## Releases:
 
 ## Release 0: Learn basic CSS
@@ -68,7 +70,7 @@ Now compare your HTML and CSS to the source. Make some notes of the differences 
 
 
 ## Release 5: Reflect 
-Edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
+Edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub. Check they are there!
 
 ## Additional CSS Resources:
 

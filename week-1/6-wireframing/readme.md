@@ -42,8 +42,11 @@ Start considering
 ## Release 2: Wireframe the index of your site
 Now, consider how you want the index of your webpage to look. The index is the first page a person will land when they go to [USERNAME].github.io, so you want it to look nice. 
 
+You should have a header,footer, and navigation bar on your site. 
+
 You will be using this site to promote yourself when you finish Dev Bootcamp, so make sure it has a spot for the following:
-  - Links to your social networks (Twitter, facebook, linked-in, quora, etc. Basically anything from Socrates except for Tumblr, unless you have a different blog)
+
+  - Links to your social networks (Twitter, facebook, linked-in, quora, github etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add)
   - Your picture
   - Your contact information
   - Link to your blog assignments (You will have technical and cultural blog assignments each week in Phase 0)
