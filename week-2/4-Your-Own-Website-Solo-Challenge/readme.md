@@ -56,8 +56,6 @@ file.  Add, commit, and push a file with the details to Github.
 - Create a wireframe of your website.  You can use pen and paper or a wireframing tool such as [balsamiq mockups](http://balsamiq.com/)
 - Take a screenshot, photo, or save the file. Upload the file to an
 image sharing service such as [imgur](imgur.com)
-Example Below:
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Profilewireframe.png/220px-Profilewireframe.png)
 - Add the image to your html file.  Commit and push the file to Github. 
 
 What should I put in my website?! Some Suggestions
