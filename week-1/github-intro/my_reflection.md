@@ -1,4 +1,4 @@
-## 1. [Git and Github](1_get_started/readme.md) Reflection
+## 1. Reflection
 
 * What struggles did you have setting up git and GitHub? What did you learn in the process?
 * Write an explanation of and compare git and GitHub to a non-technical audience. 
