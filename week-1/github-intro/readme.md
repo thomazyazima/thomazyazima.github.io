@@ -38,9 +38,11 @@ Instructions for current curriculum (i.e. the unit you are currently in) is stor
 
 ![repository-branches](../imgs/repository-branches.png)
 
-![repository-commits-1](../imgs/repository-commits-1.png)
+
 
 #### Commits
+
+![repository-commits-1](../imgs/repository-commits-1.png)
 
 Commits are records of changes. It's kind of like saving your work, only you don't just get to click the "save" button to do so. The great thing about git is that you can revert back to any previous commit. So say I'm working on a project and accidentally delete a directory that I didn't mean to, and I commit the change and push it to the master branch. Major oops in programs like Microsoft Word or Excel. But GitHub is great, because I can just go back to the commit before. Because you may have to do this, it's good to save and commit early and often. 
 
