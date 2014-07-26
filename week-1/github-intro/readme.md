@@ -1,6 +1,6 @@
 [Back](README.md)
 
-# Git and GitHub
+# Introduction to Version Control, git, and GitHub
 
 ## Learning Competencies
 By the end of this lesson, you should be able to:
