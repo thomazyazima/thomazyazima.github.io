@@ -38,8 +38,6 @@ Instructions for current curriculum (i.e. the unit you are currently in) is stor
 
 ![repository-branches](../imgs/repository-branches.png)
 
-
-
 #### Commits
 
 ![repository-commits-1](../imgs/repository-commits-1.png)
