@@ -29,7 +29,7 @@ The readme in each directory will be the main source of instructions that will d
 
 Challenges will be contained in directories or individual files. You can determine the order of the challenges in two ways:
   1. The readme will give a list of challenges in order
-  2. The challenges are numbered in the order needed to complete them 
+  2. The challenges are numbered in the order needed to complete them in the section where directories and files are displayed (above the readme). 
 
 Don't overthink the web version of github too much. It's a very similar structure to the file structure you already know well. 
 
