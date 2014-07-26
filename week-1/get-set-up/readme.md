@@ -3,7 +3,8 @@
 # Computer Setup (Mac Users)
 
 ## Learning Competencies
-
+- Cloning a repository
+- Run scripts from a repository
 
 ## Summary
 If you have a mac computer, you'll benefit from our learning (or bias) towards unix operating systems. Our San Francisco computer set-up expert has been kind enough to create these "dotfiles" which will make your environment mirror the Dev Bootcamp computers and fix a lot of path issues.
