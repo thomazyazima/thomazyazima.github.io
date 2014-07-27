@@ -39,4 +39,4 @@ Commit and push your changes to GitHub.
 
 ###Resources
 - [Pagespeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
-- [Treehouse Chrome WebTools](http://blog.teamtreehouse.com/learn-to-use-the-chrome-devtools-on-treehouse)
+- [Treehouse Chrome DevTools](http://blog.teamtreehouse.com/learn-to-use-the-chrome-devtools-on-treehouse)
