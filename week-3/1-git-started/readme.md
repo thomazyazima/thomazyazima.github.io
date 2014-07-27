@@ -8,7 +8,7 @@
 - Push and pull your own changes between your local and remote repositories
 
 ## Summary:
-Most of you have been using the GitHub app to make changes on your repo and push them to your remote (on github.com) repository. Most programmers do not use the app, so in this challenge, you will be ditching the app and learning to use git from the command line. You should do your best to do all further work using the command line.
+You've already been using git in the terminal to push and pull your changes. In this challenge you will be creating a git workflow and learning about additional git commands. 
 
 ## Release 0: Install Git
 [Install git](https://help.github.com/articles/set-up-git) on your command line if you haven't already. 
@@ -18,7 +18,6 @@ Read/Watch any of the resources listed below. Really try to get a feel for how G
 
 - [Try Git](https://www.codeschool.com/courses/try-git)
 - [VIDEO: How to Use Git and GitHub](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
-- [LifeHacker: How the Heck Do I Use GitHub?](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
 - [GitHub for Beginners, Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oCnoK6Ohf5NlNs)
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
 

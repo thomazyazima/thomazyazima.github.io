@@ -14,7 +14,7 @@ Despite popular belief, most software engineers work in teams and there is a str
 
 ## Release 0: Intro Email
 
-Once you know who is in your accountability group, send everyone in your group an email.
+Send your accountability group an email with the following information:
 
 * Name
 * Location

@@ -46,7 +46,7 @@ Now let's put that knowledge to work!  We will be using [Sublime Text](http://ww
 
 ## Release 2: Save your page to GitHub
 Navigate in your command line to your [USERNAME].github.io folder using `cd`
-type in `git status` 
+type in `git status`
 you should see something like this:
 
 ![git status](http://i.imgur.com/oWobDr0.png)
@@ -67,7 +67,7 @@ the m stands for message. If you want you can use -v (verbose), which will open 
 
 Now that we have all of our changes saved with commit. It is time to push these changes to the remote repo. We are going to use this command:
 
-`git push origin master` 
+`git push origin master`
 
 push takes 2 options, the nickname of the remote repo, which is origin in our case, and which branch to push to. Since we have not created our own branch we are currently on the `master` branch of our local repo. If you ever need to check your current branch, you can type `git branch`.
 
@@ -77,7 +77,7 @@ After your push is done, your remote repo which lives on github.com will be upda
 
 ## Release 4: View your site
 
-It's now time for the big reveal!! 
+It's now time for the big reveal!!
 
 Go to **http://[USERNAME].github.io** to see your HTML page live!<br>
 *NOTE: It can sometimes take up to 15 minutes to update the site after creating your repo, so if you run into a 404 error, be patient and check again later.*
@@ -95,9 +95,9 @@ You can also see the new index.html file in your GitHub repository!
 
 Now you will want to practice what you've learned in this challenge (and don't worry, you'll get to go through this reflection workflow for the rest of phase 0).
 
-In the GitHub app (or via your terminal), go to your [USERNAME]/phase-0-unit-1 repository (that you forked in challenge 1). Clone it to your computer. Then, open the terminal and navigate to that repository. Open the repository in Sublime. You can do this by either adding sublime shortcuts to your command line or opening sublime and opening the repository from there. 
+In the GitHub app (or via your terminal), go to your [USERNAME]/phase-0-unit-1 repository (that you forked in challenge 1). Clone it to your computer. Then, open the terminal and navigate to that repository. Open the repository in Sublime. You can do this by either adding sublime shortcuts to your command line or opening sublime and opening the repository from there.
 
-Navigate to the 3_web_basics/my_reflection.md file. Answer the questions there. Save your file, commit your changes, and sync the repo. You should be able to see your reflection on your forked repo on github.com.
+Navigate to the 3_web_basics/my_reflection.md file. Answer the questions there. Save your file, commit your changes, and push the repo. You should be able to see your reflection on your forked repo on github.com.
 
-You should edit all code, reflections, etc. from your local text editor. It's bad practice to make changes from github.com. (So forget we told you to do that in the past two challenges)! 
+You should edit all code, reflections, etc. from your local text editor. It's bad practice to make changes from github.com. (So forget we told you to do that in the past two challenges)!
 
