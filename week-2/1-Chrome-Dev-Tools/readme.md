@@ -9,7 +9,7 @@
 - Use Chrome DevTools to manipulate elements in the DOM
 
 ## Summary
-Before starting this challenge, you will want to do a bit of research on the DOM. Read the following Resources before beginning. 
+Before starting this challenge, you will want to do a bit of research on the DOM. Read/watch the following resources before beginning. 
 - [Mozilla's introduction to the DOM](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
 - [Skillcrush's introduction to the DOM](http://skillcrush.com/2012/10/17/dom-document-object-model/)
 - [Introduction to the DOM (Video)](https://www.youtube.com/watch?v=-0ZcldkGlt8)
@@ -29,9 +29,7 @@ Take a screenshot of your Code School points (they appear on the right of your C
 
 ## Release 2: Experiment
 
-Visit any blog on [wordpress.com](http://www.wordpress.com) and use DevTools to take a peek into the site. How does it differ from your github.io site's HTML and CSS?
-
-Use your observations to play with the CSS of your github.io website using DevTools. What are the benefits of experimenting in DevTools versus the code files themselves?
+Visit any blog on [wordpress.com](http://www.wordpress.com) and use DevTools to take a peek into the site. How does it differ from your github.io site's HTML and CSS? Use your observations to play with the CSS of your github.io website using DevTools. What are the benefits of experimenting in DevTools versus editing the code files themselves?
 
 ## Release 3: Reflect 
 Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
@@ -41,4 +39,4 @@ Commit and push your changes to GitHub.
 
 ###Resources
 - [Pagespeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
-- [Treehouse Chrome Web Tools](http://blog.teamtreehouse.com/learn-to-use-the-chrome-devtools-on-treehouse)
+- [Treehouse Chrome WebTools](http://blog.teamtreehouse.com/learn-to-use-the-chrome-devtools-on-treehouse)
