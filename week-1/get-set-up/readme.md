@@ -21,7 +21,7 @@ You don't have to purchase your license right away, you can "cancel" out of the 
 ## Release 1: Your Operating System
 If you are using OS X, you should upgrade to Mavericks if you haven't already. You can get it from the App Store on your computer and it's free. To find out which operating system you're running, open the "About this Mac," Under OS X, you should see a version. Mavericks is Version 10.9.
 
-![mavericks](../imgs/maverics.png)
+![mavericks](../imgs/mavericks.png)
 
 ## Release 2: Install Command Line Tools
 Release 2 - 12 will be run in your terminal. So
