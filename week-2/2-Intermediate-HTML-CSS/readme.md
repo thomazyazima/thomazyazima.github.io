@@ -8,14 +8,14 @@
 
 ## Summary
 
-We think of the web and websites as mostly static. They look the way they look.  But it's really more complicated than that.  Web designers and developers spend a lot of time thinking about how to make web pages usable in all the possible formats (phones, tablets, web) while keeping them maintainable (i.e. not taking a billion years to make small changes). The WC3 makes changes to HTML and CSS every bunch of years, so they think about how the language itself makes things easier or harder. You should start thinking about these things too.
+Most people think of the web websites as mostly static--they look the way they look.  But it's more complicated than that.  Web designers and developers spend a lot of time thinking about how to make web pages usable across all browsers and devices (phones, tablets, desktops, etc.) while keeping them maintainable (i.e. not taking a billion years to make small changes). The WC3, an organization in charge of developing standards for the web, makes changes to HTML and CSS every few years, so they think about how the language itself makes web development easier or harder. You should start thinking about these things too.
 
 **Everything in this challenge is within the context of the `unit1_projects` folder in your [USERNAME].github.io repository.**
 
 
 ## Release 0: Research
 
-Do some research into standard practices of web design, reset css, and HTML5. Use the links below *and* look for resources on the web. If you find good ones, share them with your cohort in the Google+ community!
+Do some research into standard practices of web design, Reset CSS, Normalize CSS, and HTML5. Use the links below *and* look for resources on the web. If you find any good ones, share them with your cohort in the Google+ community!
 
 - Slides: [Structure standards and HTML5](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.html#/)
 - Read: [HTML5 and the document outlining algorithm](http://www.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/)
@@ -23,7 +23,7 @@ Do some research into standard practices of web design, reset css, and HTML5. Us
 
 
 ## Release 1: Apply
-Download the [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip).  Unzip the folder into your `unit1_projects` folder.
+Download the [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip).  Unzip the folder into your `unit1_projects` folder. Do the following exercises using the files in the "practice" folder. After you are done, compare your work with the files in the "completed" folder.
 
 - Add reset.css to your index.html file. What happens?
 - Update the header links to jump to sections
@@ -32,20 +32,23 @@ Download the [practice files](http://girldevelopit.github.io/gdi-core-intermedia
 - Change some elements to semantic HTML5 elements (i.e. header, section, etc)
 
 ## Release 2: Reflect
-Answer the questions in your [my_reflection.md](my_reflection.md) file.
+Answer the above questions in your [my_reflection.md](my_reflection.md) file.
 
 ## Release 3: Commit and push your changes!
 Make sure you can see all of your changes on your github.io site!
 
 
 ## Optimize Your Learning (Optional)
-#### Psuedo elements
+#### Pseudo elements
 ##### a. Learn
+Helpful HTML/CSS resources:
 
+- [Overview of CSS fundamentals](http://learnlayout.com/no-layout.html)
 - [:before and :after psuedo
 elements](https://web.archive.org/web/20140315100620/http://coding.smashingmagazine.com/2011/07/13/learning-to-use-the-before-and-after-pseudo-elements-in-css/)
 - [Amazing things psuedo elements can
 do](http://css-tricks.com/pseudo-element-roundup/)
+- [All about floats!](http://css-tricks.com/all-about-floats/)
 - [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
 - [Why and How to use Icon
 Fonts](http://www.vanseodesign.com/web-design/icon-fonts/)
