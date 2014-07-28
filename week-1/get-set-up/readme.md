@@ -7,10 +7,16 @@
 - Run scripts from a repository
 
 ## Summary
-If you have a mac computer, you'll benefit from our learning (or bias) towards unix operating systems. Our San Francisco computer set-up expert has been kind enough to create these "dotfiles" which will make your environment mirror the Dev Bootcamp computers and fix a lot of path issues.
+If you have a computer that runs OSX, you'll benefit from our learning (or bias) towards this operating system. Our San Francisco computer set-up expert has been kind enough to create these "dotfiles" which will make your environment mirror the Dev Bootcamp computers and fix a lot of path issues.
 
 Note: You'll need either RVM or Rbenv installed to run these files. This will not install ruby.
 
+Running this script will:
+- Configure your bash profile
+- Set up Git
+- Enable auto-complete on the terminal
+- Set up RSpec to always view with color
+- Allow you to type "subl" as a shortcut for sublime
 
 ## Releases
 
@@ -30,12 +36,6 @@ Using your terminal, navigate to the dotfiles repository. Once you are in there,
 ```
 
 If you get a weird message about sublime, you can ignore it. 
-
-If you want to create a symlink for Sublime Text 2 and 3, run:
-
-```shell
-./sublimelink
-```
 
 ## Release 2: Re-configure GitHub
 This standard install overwrites your github username and email. Make sure to reset them by typing (with your information):
