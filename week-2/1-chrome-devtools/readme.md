@@ -17,13 +17,19 @@ In this challenge, you'll be diving into Chrome DevTools. Inside the DevTools in
 
 We'll focus primarily on real-time HTML and CSS editing in this challenge, then dip our toes into using the tools to identify page elements that slow down performance and page loading.
 
-## Release 0: Take [Code School's DevTools course](http://discover-devtools.codeschool.com/)  
+## Release 0: Learn about Chrome's DevTools
+Take [Code School's DevTools course](http://discover-devtools.codeschool.com/):
+  - Chapter 1: Getting Started & Basic DOM and Styles 
+  - Chapter 2: Advanced DOM and Styles 
+  - Chapter 5: Improving Network Performance
 
-Focus on chapters 1, 2, and 5. Follow along with the video, and take the quizzes at the end of each chapter (quiz 5.2 deals with JavaScript, so it is not mandatory). You'll want to create an account with Code School so you can accumulate badges and credits for the chapters you complete. There are also questions in the quiz that will explore the concepts and tools introduced in those chapters.
+Take the quizzes at the end of each chapter (quiz 5.2 deals with JavaScript, so it is not mandatory). You'll want to create an account with Code School so you can accumulate badges and credits for the chapters you complete. There are also questions in the quiz that will explore the concepts and tools introduced in those chapters.
 
-Take the time to skim the other chapters. You'll be diving into JavaScript next week, and although the material covering JS (chapters 3 and 4) is a bit advanced, it provides great exposure to JavaScript in the context of the the DevTools console.
+Take the time to skim the other chapters. You'll be diving into JavaScript at a later time, and although the material covering JS (chapters 3 and 4) is a bit advanced, it provides great exposure to JavaScript in the context of the the DevTools console.
 
-## Release 1: Complete the [DevTools Quiz](dev_tools_practice.md) 
+## Release 1: Practice
+Complete the [dev_tools_practice.md](dev_tools_practice.md) activity.
+
 Take a screenshot of your Code School points (they appear on the right of your Code School profile page), add the file to your imgs directory in the `1_Chrome_Dev_Tools` directory, and include the image in the [dev_tools_practice.md](dev_tools_practice.md) file.  
 
 ## Release 2: Experiment
