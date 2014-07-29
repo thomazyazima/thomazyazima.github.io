@@ -13,8 +13,6 @@ Web Developers use tools to track their progress and create backups. GitHub is a
 
 
 ## Releases
-(i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
-
 
 ## Release 0: GitHub Vocabulary
 
