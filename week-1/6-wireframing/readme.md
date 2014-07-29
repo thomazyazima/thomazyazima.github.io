@@ -40,7 +40,7 @@ for others it may not. Either is OK.
 ## Release 2: Wireframe a Blog Template
 You'll be writing two blog articles each week in Phase 0, and you'll need to have a blog template to copy and paste so you can write your blogs each week. 
 
-Wireframe a blog template. You'll be building the template using HTML and CSS for your solo challenge this week. 
+Wireframe a blog template. You'll be building the template using HTML and CSS for your solo challenge this week. Templates should have space for (at least) a title, date, and text, but you may want to add images or other content as well. 
 
 You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) or draw it on paper and take a picture of it. Make sure to save an image of your wireframe. Make sure to name it "wireframe-blog-template." (it can be saved as png, jpg, etc.)
 
