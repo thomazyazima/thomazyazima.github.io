@@ -8,6 +8,10 @@
 - Create an HTML file
 - Commit and push a file to GitHub
 
+## Summary
+
+## Releases
+
 ## Release 0: Learn
 
 #### Web Concepts
