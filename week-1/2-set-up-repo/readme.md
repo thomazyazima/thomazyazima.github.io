@@ -25,7 +25,7 @@ We are going to create a repository to host your very own website! You'll be usi
 
 A git repository is "distributed", which means it exists on many computers instead of just one.  Right now your repository exists on GitHub, but in order to add or edit files, you need it to exist on *your computer*.
 
-In git terms, this is called **cloning a repository locally**. A "local repository" is the copy on your computer. A "remote repository" is one on another server, i.e. on GitHub, or on another person's computer.  
+In git terms, this is called **cloning a repository locally**. A "local repository" is the copy on your computer. A "remote repository" is one on another server, i.e. on GitHub, or on another person's computer.
 
 #### Cloning a repository with the command line
 Now we want to bring the repository to our computer. There is a series of commands we can use to do this.
@@ -36,7 +36,19 @@ The first step is to get the URL of the repo. This is found here:
 
 Mine says SSH URL. If you have your SSH key set up with Github you can use this. Otherwise click HTTPS and use that URL. Copy this URL to your clipboard.
 
-Now you can open your command line, navigate to the directory where you want to add the repo using `cd` and then type this command:
+Now you can open your command line, navigate to the directory where you want to add the repo using `cd`
+
+**MAKE SURE that you are not in your phase-0-unit-1 directory. You should be in a separate folder.**
+
+Your files should look like this
+
+![proper structure](http://i.imgur.com/RIWOwBa.png)
+
+<b>NOT</b> like this
+
+![improper structure](http://i.imgur.com/AIEsuSa.png)
+
+in the folder that you want to clone the files (in my case dbc_stuff) type:
 
 `git clone URL_THAT_YOU_COPIED `
 
