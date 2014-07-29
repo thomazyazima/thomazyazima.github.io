@@ -8,7 +8,8 @@
 
 ## Release 0: Copy your Blog Template
 First, create a new HTML file for your this post in your 'blog-posts' directory in your [USERNAME].github.io website. 
-Create a new HTML file and use the date to name it `week1_cultural.html`. Copy the Code from your `blog_template`.  
+
+Create a new HTML file and use the date to name it `c1-chefs-kitchen.html`. Copy the Code from your `blog_template`.  
 
 ## Release 1: Kitchen vs. Table
 Watch [Shereef's Fireside Chat](http://vimeo.com/85001014)
