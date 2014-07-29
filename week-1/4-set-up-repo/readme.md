@@ -10,7 +10,10 @@ We are going to create a repository to host your very own website! You'll be usi
 - Describe "open source"
 - Assess the importance of using licenses
 
+## Summary
 
+
+## Releases
 ## Release 0: Create a website repository
 
 1. **Log into GitHub**

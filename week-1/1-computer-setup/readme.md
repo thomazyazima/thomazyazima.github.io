@@ -12,6 +12,9 @@ You will need to have your computer set up with the following tools for Phase 0 
 
 While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac. There will be alternatives for Windows and Linux users.
 
+## Releases
+(i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
+
 ## Release 0: Download Sublime Text 2
 Download and follow instructions from the site. 
 
