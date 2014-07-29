@@ -32,15 +32,20 @@ for others it may not. Either is OK.
 - Read: [Design Thinking: What is that?](http://www.fastcompany.com/919258/design-thinking-what)
 - Read: [Design Thinking Visually](http://visual.ly/what-design-thinking)
 
-Start considering 
-
 ## Release 1: Intro to Wireframing
 
 - Read: [A Beginners Guide to Wireframing](http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-wireframing--webdesign-7399)
 - Read: [Beyond Wireframing: Real Life UX Design Process](http://uxdesign.smashingmagazine.com/2012/08/29/beyond-wireframing-real-life-ux-design-process/)
 
-## Release 2: Wireframe the index of your site
-Now, consider how you want the index of your webpage to look. The index is the first page a person will land when they go to [USERNAME].github.io, so you want it to look nice. 
+## Release 2: Wireframe a Blog Template
+You'll be writing two blog articles each week in Phase 0, and you'll need to have a blog template to copy and paste so you can write your blogs each week. 
+
+Wireframe a blog template. You'll be building the template using HTML and CSS for your solo challenge this week. 
+
+You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) or draw it on paper and take a picture of it. Make sure to save an image of your wireframe. Make sure to name it "wireframe-blog-template." (it can be saved as png, jpg, etc.)
+
+## Release 3: Wireframe the index of your site
+Now, consider how you want the index of your webpage to look. The index is the first page a person will land when they go to [USERNAME].github.io, so you'll want it to look nice. 
 
 You should have a header,footer, and navigation bar on your site. 
 
@@ -54,19 +59,16 @@ You will be using this site to promote yourself when you finish Dev Bootcamp, so
   - Your projects
   - Anything else you want to include
 
+## Release 4: Add your wireframes to your reflection.
 
-You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) or draw it on paper and take a picture of it. Make sure to save an image of your wireframe. Make sure to name it "index-wireframe." (it can be saved as png, jpg, etc. )
-
-## Release 2: Add your wireframe to your site
-
-Now that you have a wireframe, you'll want to add it to your site. 
+Now that you have your wireframes designed, you'll want to display them in your [my_reflection.md](my_reflection.md) file. 
 
 Use the command line for each step below:
-  1. Navigate to your [USERNAME].github.io directory
-  2. Create a new directory called "imgs"
-  3. Move your "index-wireframe" image to the imgs directory
+  1. Navigate to the week-1/imgs directory
+  2. Move your "wireframe-blog-template" and "wireframe-index" images to the imgs directory.
+  3. Using markdown, display your images inline in your [my_reflection.md](my_reflection.md) file associated with this challenge.
 
-## Release 3: Reflection
+## Release 5: Reflection
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub. 
 
 ## Additional Resources:
