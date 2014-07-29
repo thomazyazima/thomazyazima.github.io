@@ -26,6 +26,8 @@ Now we want to bring the repository to our computer. There is a series of comman
 
 First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local github repository, so **always** make sure you are the correct directory, like your Desktop or a phase-0 folder. 
 
+![terminal-clone](../imgs/terminal-clone.png)
+
 The first step is to get the URL of the repo. This is found here:
 
 ![repository-url](../imgs/repository-url.png)
