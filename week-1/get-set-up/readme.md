@@ -1,4 +1,4 @@
-[Week 1](../)
+[Week 1 Home](../)
 
 # Computer Set-Up Instructions (Mac Users)
 
