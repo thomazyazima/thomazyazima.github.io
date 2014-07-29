@@ -30,8 +30,7 @@ If you are using OS X, you should upgrade to Mavericks if you haven't already. Y
 Before installing, it's always good practice to backup your hard drive so you don't lose anything!
 
 ## Release 2: Install Command Line Tools
-Release 2 - 12 will be run in your terminal. So
-open it, and type: 
+Release 2 - 12 will be run in your terminal. So open it, and type: 
 
 ```shell
 xcode-select --install
