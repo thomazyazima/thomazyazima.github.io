@@ -64,7 +64,7 @@ Confused about the difference between git and GitHub? Try one of these articles:
 - [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
 
 ## Release 3: Fork the Repository
-NOTE: I'm sure you've chosen an excellent and memorable username for GitHub, so don't forget it! When you see "[USERNAME]" in this guide, replace it with your username. For example, my username is "rmw".  So "github.com/**[USERNAME]**" becomes "github.com/**rmw**".
+NOTE: I'm sure you've chosen an excellent and memorable username for GitHub, so don't forget it! When you see "[USERNAME]" in this guide, replace it with your username. For example, my username is "mbtomori".  So "github.com/**[USERNAME]**" becomes "github.com/**mbtomori**".
 
 Now that you can navigate GitHub and know a bit about version control, git, and GitHub, it's time to get your own personal copy of the curriculum!
 
