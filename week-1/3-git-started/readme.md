@@ -24,13 +24,13 @@ In git terms, this is called **cloning a repository locally**. A "local reposito
 #### Cloning a repository with the command line
 Now we want to bring the repository to our computer. There is a series of commands we can use to do this.
 
+First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local github repository, so **always** make sure you are the correct directory, like your Desktop or a phase-0 folder. 
+
 The first step is to get the URL of the repo. This is found here:
 
 ![repository-url](../imgs/repository-url.png)
 
 Mine says SSH URL. If you have your SSH key set up with Github you can use this. Otherwise click HTTPS and use that URL. Copy this URL to your clipboard.
-
-Now you can open your command line, navigate to the directory where you want to add the repo using `cd` and then type this command:
 
 `git clone URL_THAT_YOU_COPIED `
 
@@ -46,7 +46,7 @@ Once you have it open in sublime, you can see all of the files and directories. 
 Read/Watch any of the resources listed below. Really try to get a feel for how git and Github works. Then make sure you use it from now on! Make sure to learn what a commit is. If you make any mistakes, you can always revert to any commit, so commit often!
 
 - [Try Git](https://try.github.io/)
-   - A small note about the command `git init`, if you clone from github, you do not have to use git init. The .git folder that it creates is already created for you in the files you are bringing to your computer. `git init` should only be used if you are creating a git repo from scratch on your computer with the intention of pushing it up to github. Executing 'git init' multiple times can cause strange bugs to happen down the road!
+  - A small note about the command `git init`, if you clone from github, you do not have to use git init. The .git folder that it creates is already created for you in the files you are bringing to your computer. `git init` should only be used if you are creating a git repo from scratch on your computer with the intention of pushing it up to github. Executing 'git init' multiple times can cause strange bugs to happen down the road!
 - [VIDEO: How to Use Git and GitHub](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
 - [GitHub for Beginners, Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oCnoK6Ohf5NlNs)
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
