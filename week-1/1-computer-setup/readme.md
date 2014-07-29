@@ -10,7 +10,7 @@
 ## Summary
 You will need to have your computer set up with the following tools for Phase 0 of Dev Bootcamp. Make sure to go through this guide step-by-step. You'll need to have each of these technologies installed to have a smooth start to Phase 0 and your future career! 
 
-While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac. There will be alternatives for Windows and Linux users
+While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac. There will be alternatives for Windows and Linux users.
 
 ## Release 0: Download Sublime Text 2
 Download and follow instructions from the site. 
@@ -18,9 +18,11 @@ Download and follow instructions from the site.
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
 ## Release 1: Your Operating System
-If you are using OS X, you should upgrade to Mavericks if you haven't already. You can get it from the App Store on your computer and it's free. To find out which operating system you're running, open the "About this Mac," Under OS X, you should see a version. Mavericks is Version 10.9.
+If you are using OS X, you should upgrade to Mavericks if you haven't already. You can get it from the App Store on your computer and it's free. To find out which operating system you're running, open the "About this Mac," Under OS X, you should see a version. Mavericks is Version 10.9. 
 
 ![mavericks](../imgs/mavericks.png)
+
+Before installing, it's always good practice to backup your hard drive so you don't lose anything!
 
 ## Release 2: Install Command Line Tools
 Release 2 - 12 will be run in your terminal. So

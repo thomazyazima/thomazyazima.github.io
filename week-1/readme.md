@@ -13,16 +13,19 @@ When you have questions, are confused, or need help, please post on the Google+ 
 ### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
 
-#### 1. [Get Started](1-get-started)
-#### 2. [Set Up Repo](2-set-up-repo)
-#### 3. [Web Basics](3-web-basics)
-#### 4. [Beginning HTML](4-beginning-HTML)
-#### 5. [Beginning HTML](4-beginning-CSS)
-#### 6. [Wireframing](6-wireframing)
-#### 7. [Blog SOLO CHALLENGE](7-blog-solo-challenge)
-#### 8. [Technical Blog](8-technical-blog)
-#### 9. [Cultural Blog](9-cultural-blog.md)
-#### 10. [Get to know your group](10-get-to-know-your-group.md)
+#### 1. [Computer Setup](1-computer-setup) *Go through this even if you've set up your computer already*
+#### 2. [Introduction to Github](2-github-intro)
+#### 3. ["Git Started"](3-git-started)
+#### 4. [Set Up Repo](4-set-up-repo)
+#### 5. [Web Basics](5-web-basics)
+#### 6. [Beginning HTML](6-beginning-HTML)
+#### 7. [Beginning HTML](7-beginning-CSS)
+#### 8. [Wireframing](8-wireframing)
+#### 9. [Blog template SOLO CHALLENGE](9-blog-template-solo-challenge)
+#### 10. [Introduction to Twitter](10-twitter-intro.md)
+#### 11.[Technical Blog](11-technical-blog)
+#### 12.[Cultural Blog](12-cultural-blog.md)
+#### 13.[Get to know your group](13-get-to-know-your-group.md)
 
 ## Remember your Unit Expectations!
 - Give feedback for each person you paired with, if any. *You need to submit at least 6 pieces of feedback in this unit*
