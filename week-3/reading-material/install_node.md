@@ -5,10 +5,11 @@
 First install Homebrew if you don't have it. 
 
 ```shell
-which brew #this checks to see where brew is in your path. If you have something here, you have brew installed and do not need to reinstall it. 
+$ which brew #this checks to see where brew is in your path. If you have something here, you have brew installed and do not need to reinstall it. 
 
-xcode-select --install #You need this to install Homebrew
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)" #This installs Homebrew
+$ xcode-select --install #You need this to install Homebrew
+
+$ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)" #This installs Homebrew
 
 ```
 
