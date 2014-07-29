@@ -55,7 +55,7 @@ You will be using this site to promote yourself when you finish Dev Bootcamp, so
   - Your picture
   - Your contact information
   - Link to your blog assignments (You will have technical and cultural blog assignments each week in Phase 0)
-  - Your background
+  - About me
   - Your projects
   - Anything else you want to include
 
