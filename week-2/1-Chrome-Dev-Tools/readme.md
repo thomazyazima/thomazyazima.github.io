@@ -29,7 +29,16 @@ Take a screenshot of your Code School points (they appear on the right of your C
 
 ## Release 2: Experiment
 
-Visit any blog on [wordpress.com](http://www.wordpress.com) and use DevTools to take a peek into the site. How does it differ from your github.io site's HTML and CSS? Use your observations to play with the CSS of your github.io website using DevTools. What are the benefits of experimenting in DevTools versus editing the code files themselves?
+Visit [code.tutsplus.com](http://code.tutsplus.com/) (a Wordpress blog devoted to improving development and technical skills). Select a blog post you are interested in. Use DevTools to take a peek into the site. How does it differ from your github.io site's HTML and CSS? 
+
+Play with the CSS using Devtools to: 
+ - Change the background color of the page
+ - Center the title in the page
+ - Indent a paragraph by 3em
+ - Change the color of the text of an element in the navigation bar
+ - Change the title of the post to "No Soup for You" and the author to your name
+
+Based on your experimentation, What are the benefits of experimenting in DevTools versus editing the code files themselves?
 
 ## Release 3: Reflect 
 Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
