@@ -44,7 +44,7 @@ When you sign up for Twitter they immediately ask you to follow different “cat
 
 The act itself of following another user on Twitter is pretty easy, but creating a manageable list of worthwhile people to follow takes months of work. We recommend following some of these individuals as you begin your development career. 
 
-[@steveklabnik](https://twitter.com/steveklabnik)
+[@steveklabnik](https://twitter.com/steveklabnik) - Steve Klabnik: 
 [@chriseppstein](https://twitter.com/@chriseppstein) - Chris Eppstein: Ruby developer at LinkedIn, creator of Compass, co-creator of Sass.
 [@rmurphey](https://twitter.com/@rmurphey) - Rebecca Murphey: JS developer extraordinaire. Amazingly accomplished.
 [@ultrasaurus](https://twitter.com/@ultrasaurus) - Sarah Allen: developer, entrepreneur, co-founder of Railsbridge.
@@ -57,9 +57,9 @@ The act itself of following another user on Twitter is pretty easy, but creating
 
 A few things to note about following people on Twitter. Instead of the act of “mutual friending” Twitter allows for you to follow anyone that has a public profile with no obligation to follow back.
 
-You should always be thinking about who you want to connect with on Twitter. For example, when I was 18 and living in Ohio I knew I wanted to work in tech in San Francisco. I began to follow prominent VC’s, Entrepreneurs and Marketers who were based here and immediately felt more “in the know” about what was happening out there. 
+You should always be thinking about who you want to connect with on Twitter. For example, when I was 18 and living in Ohio, I knew I wanted to work in tech in San Francisco. I began to follow prominent VC’s, Entrepreneurs and Marketers who were based here and immediately felt more “in the know” about what was happening out there. 
 
-I always recommend “following and unfollowing liberally.” This strategy allows you to collect lot’s of possible connections for you to learn from and then unfollowing them at a moments notice when you decide their tweets don’t add value to your life. 
+I always recommend “following and unfollowing liberally.” This strategy allows you to collect lots of possible connections for you to learn from, and then unfollowing them at a moments notice when you decide their tweets don’t add value to your life. 
 
 This may sound extreme, but after a few months you’ll have curated a great list of friends, peers, and mentors that you have access to. 
 
@@ -72,16 +72,16 @@ When Tweeting keep the following things in mind:
 
 Try: 
 
-After following a some developers try asking one of them a question or commenting on an article they shared. 
+After following some developers, try asking one of them a question or commenting on an article they shared. 
 
-If you find a bug in a program, try tweeting it to their companies account to let them know
+If you find a bug in a program, try tweeting it to their companies account to let them know.
 
 Give a shoutout to @devbootcamp if you want our community team to see you’re taking this lesson seriously. Be playful with it :)
 
 ## Release 2: 7 ways to do twitter in 10 minutes a day
-1. If you have a smartphone download the app so you can check it a few times a day
-2. Over coffee in the morning read through 10 tweets to see if there any interesting articles to read 
-3. Share are interesting article you just read and tag someone cc: @bcroke that you read it
+1. If you have a smartphone, download the app so you can check it a few times a day
+2. Over coffee in the morning, read through 10 tweets to see if there any interesting articles to read 
+3. Share an interesting article you just read and tag someone, cc: @bcroke that you read it
 4. Search for the hashtag for the next meetup or conference you are at, follow or connect with some of the other people there
 5. Check twitter for articles to read while waiting in line for public transportation
 6. Follow some DBC alumni and see what they are up to 
