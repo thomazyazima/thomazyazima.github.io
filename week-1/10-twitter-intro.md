@@ -10,11 +10,11 @@
 
 ## Summary
 
-Twitter is a magical place where you can connect, learn and be inspired by anyone in the world. It can be a way more social and intelligent “social network” if you choose to use it the right way. 
+Twitter is a magical place where you can connect, learn and be inspired by anyone in the world. It can be a way, more social and intelligent “social network” if you choose to use it the right way. 
 
 To prepare our students for a bright future in the tech community we want to make sure you know the in’s and out’s of one of the world’s most popular social networks.
 
-Twitter is a organic way to keep up with news, make friends and learn things that are happening all over the world. Whether you’re following a hashtag for a developer conference like #railsconf or you want to stay in touch with a developer you met at a meetup, Twitter is a “non-creepy” way to stalk people who say and do amazing things. 
+Twitter is an organic way to keep up with news, make friends and learn things that are happening all over the world. Whether you’re following a hashtag for a developer conference like #railsconf or you want to stay in touch with a developer you met at a meetup, Twitter is a “non-creepy” way to stalk people who say and do amazing things. 
 
 Now I’m no mind reader, but you may be thinking one of the following things.  “I don’t have time for Twitter” “I don’t care what you ate for breakfast” or “Isn’t Twitter for celebrities and news organizations?” 
 
@@ -31,6 +31,10 @@ tweet - anything you write on Twitter and send it out for the whole world to see
 **followers** - when you share information on twitter only the people who have opted-in to follow you will see this appear in their stream. Keep in mind this information is still publicly searchable, but remember when you’re first starting out, your audience who will “read your tweets” will be very small. Be patient, this will grow over time as you begin to follow, engage and share worthwhile content with others. 
 
 **retweet** - a great way to gain followers is by engaging with other people. When you see something worthwhile someone else posts, or something that resonates with you, be sure to retweet them to acknowledge their contribution and to share it with your followers. Other users are notified when you retweet content and some may even thank you :) 
+
+**hashtag** - this helps to make your tweets searchable and allows other users to find what you're tweeting about and connect with you if your tweets are relative to what they care about.
+
+**lists** - organize who you follow with this amazingly, helpful tool! Lists help you organize who you're following into focused groups. This will help you focus on a particular topic or group of people while scanning Twitter quickly.
 
 Now that you have some of the basics down, let’s make sure you’re engaging and learning from awesome people. 
 
@@ -57,7 +61,7 @@ The act itself of following another user on Twitter is pretty easy, but creating
 
 A few things to note about following people on Twitter. Instead of the act of “mutual friending” Twitter allows for you to follow anyone that has a public profile with no obligation to follow back.
 
-You should always be thinking about who you want to connect with on Twitter. For example, when I was 18 and living in Ohio, I knew I wanted to work in tech in San Francisco. I began to follow prominent VC’s, Entrepreneurs and Marketers who were based here and immediately felt more “in the know” about what was happening out there. 
+You should always be thinking about who you want to connect with on Twitter. For example, when I was 18 and living in Ohio, I knew I wanted to work in tech in San Francisco. I began to follow prominent VC’s, Entrepreneurs and Marketers who were based in SF and immediately felt more “in the know” about what was happening out there. 
 
 I always recommend “following and unfollowing liberally.” This strategy allows you to collect lots of possible connections for you to learn from, and then unfollowing them at a moments notice when you decide their tweets don’t add value to your life. 
 
