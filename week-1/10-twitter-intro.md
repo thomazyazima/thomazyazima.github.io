@@ -44,7 +44,7 @@ When you sign up for Twitter they immediately ask you to follow different “cat
 
 The act itself of following another user on Twitter is pretty easy, but creating a manageable list of worthwhile people to follow takes months of work. We recommend following some of these individuals as you begin your development career. 
 
-[@steveklabnik](https://twitter.com/steveklabnik) - Steve Klabnik: 
+[@steveklabnik](https://twitter.com/steveklabnik) - Steve Klabnik: Ruby on Rails developer, doing lots of awesome work in the Open Source community.
 [@chriseppstein](https://twitter.com/@chriseppstein) - Chris Eppstein: Ruby developer at LinkedIn, creator of Compass, co-creator of Sass.
 [@rmurphey](https://twitter.com/@rmurphey) - Rebecca Murphey: JS developer extraordinaire. Amazingly accomplished.
 [@ultrasaurus](https://twitter.com/@ultrasaurus) - Sarah Allen: developer, entrepreneur, co-founder of Railsbridge.
