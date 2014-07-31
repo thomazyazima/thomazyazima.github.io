@@ -27,6 +27,8 @@ Address the questions above in your blog post.
 ## Release 3: Publish
 Link to your post from `index.html` so people can navigate to your page from your site's index and push your changes. Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
-## Release 4: Share!
+## Release 4: Promote
 
-Share your blog on the google+ community under "Blog Posts!" Read others' posts and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+
+Tweet your blog post using #DBCThinkStyle
