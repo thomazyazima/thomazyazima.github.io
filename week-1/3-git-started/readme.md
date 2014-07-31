@@ -76,5 +76,5 @@ In the reflection section of your 'my_solution.md` file, reflect on your learnin
 ## Release 8: Review
 [Review others' solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) by leaving an issue. Compare their definitions and workflow to yours. Did you have trouble understanding Git or Github? Did they have trouble? Provide actionable, specific, and kind feedback. (You are expected to leave at least two comments for this challenge).
 
-If you aren't able to leave issues for other students, give them a friendly reminder to enable issues on this repository!
+If you aren't able to leave issues for other students, give them a friendly reminder to enable issues on their repository!
 
