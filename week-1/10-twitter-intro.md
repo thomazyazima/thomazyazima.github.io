@@ -10,11 +10,11 @@
 
 ## Summary
 
-Twitter is a magical place where you can connect, learn and be inspired by anyone in the world. It can be a way more social and intelligent “social network” if you choose to use it the right way. 
+Twitter is a magical place where you can connect, learn and be inspired by anyone in the world. It can be a way, more social and intelligent “social network” if you choose to use it the right way. 
 
 To prepare our students for a bright future in the tech community we want to make sure you know the in’s and out’s of one of the world’s most popular social networks.
 
-Twitter is a organic way to keep up with news, make friends and learn things that are happening all over the world. Whether you’re following a hashtag for a developer conference like #railsconf or you want to stay in touch with a developer you met at a meetup, Twitter is a “non-creepy” way to stalk people who say and do amazing things. 
+Twitter is an organic way to keep up with news, make friends and learn things that are happening all over the world. Whether you’re following a hashtag for a developer conference like #railsconf or you want to stay in touch with a developer you met at a meetup, Twitter is a “non-creepy” way to stalk people who say and do amazing things. 
 
 Now I’m no mind reader, but you may be thinking one of the following things.  “I don’t have time for Twitter” “I don’t care what you ate for breakfast” or “Isn’t Twitter for celebrities and news organizations?” 
 
@@ -32,6 +32,10 @@ tweet - anything you write on Twitter and send it out for the whole world to see
 
 **retweet** - a great way to gain followers is by engaging with other people. When you see something worthwhile someone else posts, or something that resonates with you, be sure to retweet them to acknowledge their contribution and to share it with your followers. Other users are notified when you retweet content and some may even thank you :) 
 
+**hashtag** - this helps to make your tweets searchable and allows other users to find what you're tweeting about and connect with you if your tweets are relative to what they care about.
+
+**lists** - organize who you follow with this amazingly, helpful tool! Lists help you organize who you're following into focused groups. This will help you focus on a particular topic or group of people while scanning Twitter quickly.
+
 Now that you have some of the basics down, let’s make sure you’re engaging and learning from awesome people. 
 
 The amount of value you get out of Twitter is directly related to who you decide to follow on Twitter. Who should you follow? Let’s explore that in the next section. 
@@ -44,7 +48,7 @@ When you sign up for Twitter they immediately ask you to follow different “cat
 
 The act itself of following another user on Twitter is pretty easy, but creating a manageable list of worthwhile people to follow takes months of work. We recommend following some of these individuals as you begin your development career. 
 
-[@steveklabnik](https://twitter.com/steveklabnik)
+[@steveklabnik](https://twitter.com/steveklabnik) - Steve Klabnik: Ruby on Rails developer, doing lots of awesome work in the Open Source community.
 [@chriseppstein](https://twitter.com/@chriseppstein) - Chris Eppstein: Ruby developer at LinkedIn, creator of Compass, co-creator of Sass.
 [@rmurphey](https://twitter.com/@rmurphey) - Rebecca Murphey: JS developer extraordinaire. Amazingly accomplished.
 [@ultrasaurus](https://twitter.com/@ultrasaurus) - Sarah Allen: developer, entrepreneur, co-founder of Railsbridge.
@@ -57,9 +61,9 @@ The act itself of following another user on Twitter is pretty easy, but creating
 
 A few things to note about following people on Twitter. Instead of the act of “mutual friending” Twitter allows for you to follow anyone that has a public profile with no obligation to follow back.
 
-You should always be thinking about who you want to connect with on Twitter. For example, when I was 18 and living in Ohio I knew I wanted to work in tech in San Francisco. I began to follow prominent VC’s, Entrepreneurs and Marketers who were based here and immediately felt more “in the know” about what was happening out there. 
+You should always be thinking about who you want to connect with on Twitter. For example, when I was 18 and living in Ohio, I knew I wanted to work in tech in San Francisco. I began to follow prominent VC’s, Entrepreneurs and Marketers who were based in SF and immediately felt more “in the know” about what was happening out there. 
 
-I always recommend “following and unfollowing liberally.” This strategy allows you to collect lot’s of possible connections for you to learn from and then unfollowing them at a moments notice when you decide their tweets don’t add value to your life. 
+I always recommend “following and unfollowing liberally.” This strategy allows you to collect lots of possible connections for you to learn from, and then unfollowing them at a moments notice when you decide their tweets don’t add value to your life. 
 
 This may sound extreme, but after a few months you’ll have curated a great list of friends, peers, and mentors that you have access to. 
 
@@ -72,16 +76,16 @@ When Tweeting keep the following things in mind:
 
 Try: 
 
-After following a some developers try asking one of them a question or commenting on an article they shared. 
+After following some developers, try asking one of them a question or commenting on an article they shared. 
 
-If you find a bug in a program, try tweeting it to their companies account to let them know
+If you find a bug in a program, try tweeting it to their companies account to let them know.
 
 Give a shoutout to @devbootcamp if you want our community team to see you’re taking this lesson seriously. Be playful with it :)
 
 ## Release 2: 7 ways to do twitter in 10 minutes a day
-1. If you have a smartphone download the app so you can check it a few times a day
-2. Over coffee in the morning read through 10 tweets to see if there any interesting articles to read 
-3. Share are interesting article you just read and tag someone cc: @bcroke that you read it
+1. If you have a smartphone, download the app so you can check it a few times a day
+2. Over coffee in the morning, read through 10 tweets to see if there any interesting articles to read 
+3. Share an interesting article you just read and tag someone, cc: @bcroke that you read it
 4. Search for the hashtag for the next meetup or conference you are at, follow or connect with some of the other people there
 5. Check twitter for articles to read while waiting in line for public transportation
 6. Follow some DBC alumni and see what they are up to 
