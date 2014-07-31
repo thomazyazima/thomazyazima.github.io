@@ -33,7 +33,7 @@ Research responsive web design and fluid layouts. What are they? Why are they us
 
 Additional required resources for you to consider:
 - Slides: [Web Accessibility](http://girldevelopit.github.io/girldevelopit-rdu-access/classslides.html#/)
-- Read: [Change your browsers user agent](http://osxdaily.com/2013/01/16/change-user-agent-chrome-safari-firefox/)
+- Read: [Change your browsers user agent](http://osxdaily.com/2013/01/16/change-user-agent-chrome-safari-firefox/) (If you're using the latest version of Chrome, you'll want to look at [Mobile Emulation](https://developer.chrome.com/devtools/docs/mobile-emulation))
 
 
 ## Release 1: Share your knowledge with your Pair
