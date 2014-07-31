@@ -39,6 +39,7 @@ Now it's time to show off your work and share your knowledge with your cohortmat
 Tweet your blog post using the hashtags associated with each topic. 
 
 ## Release 5: Read
+
 Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
 
 

@@ -49,3 +49,6 @@ Tweet your blog post using #DBCDesign
 
 We are using hashtags to make your posts searchable and last longer! Don't forget the hashtag!
 
+## Release 6: Read
+
+Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
