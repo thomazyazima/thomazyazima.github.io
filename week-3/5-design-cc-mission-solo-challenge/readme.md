@@ -25,8 +25,8 @@ Remember how Code Combat had goals to complete a mission? Visible at the top lef
 Write an outline of your overall mission and goals to complete your mission as comments in your [my_solution.js](my_solution.js) file. 
 
 Then consider:
-
-- What objects do you need to create to complete your goals and mission? You can actually see what the code combat objects are if you hover over "this." Identify the objects you'll need to create as comments.
+- Who are the main characters in your mission? Write a bit about them. What properties do they have? HINT: You should probably protagonist (and maybe an antagonist). You can actually see what the code combat objects are if you hover over "this." In the image below, we can see the current information for Tharin. Identify the characters (objects) you'll need to create as comments.
+- Consider other objects you need. Do you need a sword? What about a cannon, death ray, magic seeds, etc. Write those as comments as well. 
 
 ![objects](../imgs/cc-objects.png)
 
@@ -35,7 +35,6 @@ Then consider:
 You can also view the functions or get documentation on them in Code Combat:
 
 ![functions](../imgs/cc-functions.png)
-
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md) 
 
