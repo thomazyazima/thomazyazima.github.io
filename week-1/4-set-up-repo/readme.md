@@ -12,8 +12,8 @@ We are going to create a repository to host your very own website! You'll be usi
 
 ## Summary
 
-
 ## Releases
+
 ## Release 0: Create a website repository
 
 1. **Log into GitHub**
@@ -87,6 +87,4 @@ You added an MIT License to your repository. Read these articles to explain why:
 
 ## Release 3: Reflect
 
-Reflect on your learning by editing the my_reflection.md file in the [2_set_up_repo](./) folder (the folder you are in). Please answer the questions in the file.
-
-You can complete the first 2 challenge reflections on github.com. Click on the my_reflection.md file in this folder. There should be a button to edit at the top. Click it. Add your reflection in markdown and write a commit message under "Commit changes". Once you type something there, you will want to click the "commit changes" button. **NOTE: It will not let you commit changes without a commit message.**
+Reflect on your learning by editing the my_reflection.md file in the [4-set-up-repo](./) folder (the folder you are in) using **Sublime**. Please answer the questions in the file. Using your new git and GitHub skills, commit and push your changes to your remote repository! Make sure you can see the changes on GitHub!
