@@ -43,7 +43,9 @@ www.[USERNAME].github.io/blog-posts/t1-compare-websites.html
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub in the phase-0-unit-1 repository.
 
 ## Release 5: Promote
-Share your blog on the google+ community under "Blog Posts!" Read other student blogs. What did you like about them? 
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
 
-<!-- Now that you've done all that work, promote your blog on Twitter! (Yes, this is actually a requirement - more on the importance of Twitter later). -->
+Tweet your blog post using #DBCDesign
+
+We are using hashtags to make your posts searchable and last longer! Don't forget the hashtag!
 
