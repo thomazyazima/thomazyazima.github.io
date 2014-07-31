@@ -71,16 +71,14 @@ in the folder that you want to clone the files (in my case dbc_stuff) type:
 
 If you are using HTTPS, you will be prompted to enter your github username and password.
 
-Now you should see some stuff execute, it looks like you're hacking a mainframe in the 90s.
-
 After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and poke around.
 
-If you've already tried visiting **[username].github.io** only to be greeted with a *404 page not found* error, do not despair! This is because you haven't actually built any pages yet, which is something you will be doing in the next challenge.
+If you've already tried visiting **[username].github.io** only to be greeted with a *404 page not found* error, do not despair! This is because you haven't actually built any pages yet, which is something you will be doing later. It also sometimes takes 10 minutes to be viewable. 
 
 
-## Release 2: Open Source
+## Release 2: Open Source and Licenses
 
-You added an MIT License to your repository.  Read these articles to explain why:
+You added an MIT License to your repository. Read these articles to explain why:
 
 * [Open Source](http://skillcrush.com/2012/08/29/open-source-software/)
 * [Open Source licensing](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses)
