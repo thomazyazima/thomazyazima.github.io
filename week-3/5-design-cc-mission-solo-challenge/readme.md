@@ -18,25 +18,39 @@ This is an open-ended challenge so there are a lot of things you can do with it 
 
 ## Release 0: Design your Mission
 
-Write an outline of your mission in comments in your [my_solution.js](my_solution.js) file. Here are some things to think about:
+Remember how Code Combat had goals to complete a mission? Visible at the top left of each challenge?
 
-1. Think of some objects and things you would like those objects to do
-2. Create a couple objectives (refer to the code combat mission objectives to tailor these to your mission)
-3. Hover over the `this` in the code section of any mission. What is it referring to? An object? A function? What kinds of attributes do you want to add to your objects? Create your objects in JavaScript.
-4. Think of the methods that are necessary to manipulate your objects and add them to your objects.  
+![Mission goals](../imgs/cc-mission.png)
 
+Write an outline of your overall mission and goals to complete your mission as comments in your [my_solution.js](my_solution.js) file. 
+
+Then consider:
+- Who are the main characters in your mission? Write a bit about them. What properties do they have? HINT: You should probably protagonist (and maybe an antagonist). You can actually see what the code combat objects are if you hover over "this." In the image below, we can see the current information for Tharin. Identify the characters (objects) you'll need to create as comments.
+- Consider other objects you need. Do you need a sword? What about a cannon, death ray, magic seeds, etc. Write those as comments as well. 
+
+![objects](../imgs/cc-objects.png)
+
+- Think of the functions that you'll need to manipulate your objects to complete the goals. 
+
+You can also view the functions or get documentation on them in Code Combat:
+
+![functions](../imgs/cc-functions.png)
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md) 
-Turn your objectives and objects into pseudocode. Write these in plain english and save them as comments. 
+
+Pseudocode your objects and functions. Write these in plain english and save them as comments. 
 
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
 ## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-Your functions don't have to replicate movement on the screen (unless you want them to), but think about how to display something like movement using data structures.
+
+Your functions don't have to actually create movement on the screen (unless you want them to), but think about how to pass information between objects using functions. Think about what information the functions need to have access to in order to work. 
+
+If you are doing something like, collecting gold, then you would need to have gold objects, a bag object, and a way to put gold into your bag, as well as a way to see how much gold you have. 
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Optimize your Learning (Optional)
+## Release 5: Manipulate objects on the DOM (Optional)
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...
