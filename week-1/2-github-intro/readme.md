@@ -74,9 +74,12 @@ This will make a copy of the unit 1 curriculum repository into your personal Git
 
 ![Forked Repo](../imgs/forked-repo.jpg)
 
-Whohoo!
+Finally, you will need to enable issues as a feature so other students can leave you feedback. 
 
-**Please note** Your repository will be private by default. That is intentional. But others in Phase 0 will have access to see your code and give you feedback because you are all on the same team. Please do not attempt to make your repository public. 
+![Enable Issues](../imgs/enable-issues.png)
+
+**Please note** Your repository will be private by default. That is intentional. But others in Phase 0 will have access to see your code and will be able to give you feedback because you are all on the same team (and have issues enabled). Please do not attempt to make your repository public. 
+
 
 ## Release 4: Reflection
 Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience.

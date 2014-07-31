@@ -43,10 +43,10 @@ Now you should see some stuff execute, it looks like you're hacking a mainframe 
 
 After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and open it in Sublime. 
 
-Once you have it open in sublime, you can see all of the files and directories. Find the directory this file is in, and open the "readme.md" file. From now on, you should read all instructions and complete all challenges in sublime. This will help you read and write markdown as well as better understand the file tree. Take a look at the links to images, for example. Do you know what the "../" does? If not, find out!
+Once you have it open in sublime, you can see all of the files and directories. Find the directory this file is in, and open the "readme.md" file. From now on, you should read all instructions and complete all challenges in sublime. This will help you read and write markdown as well as better understand the file tree. Take a look at the links to images, for example. Do you know what the `../` does? If not, find out!
 
 ## Release 2: Git in the Command Line
-Read/Watch any of the resources listed below. Really try to get a feel for how git and Github works. Then make sure you use it from now on! Make sure to learn what a commit is. If you make any mistakes, you can always revert to any commit, so commit often!
+Read/Watch any of the resources listed below. Work to get a feel for how git and Github works. Then make sure you use it from now on! Make sure to commit early and often. If you make any mistakes, you can always revert to any commit, so commit often!
 
 - [Try Git](https://try.github.io/)
   - A small note about the command `git init`, if you clone from github, you do not have to use git init. The .git folder that it creates is already created for you in the files you are bringing to your computer. `git init` should only be used if you are creating a git repo from scratch on your computer with the intention of pushing it up to github. Executing 'git init' multiple times can cause strange bugs to happen down the road!
@@ -75,4 +75,6 @@ In the reflection section of your 'my_solution.md` file, reflect on your learnin
 
 ## Release 8: Review
 [Review others' solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) by leaving an issue. Compare their definitions and workflow to yours. Did you have trouble understanding Git or Github? Did they have trouble? Provide actionable, specific, and kind feedback. (You are expected to leave at least two comments for this challenge).
+
+If you aren't able to leave issues for other students, give them a friendly reminder to enable issues on this repository!
 
