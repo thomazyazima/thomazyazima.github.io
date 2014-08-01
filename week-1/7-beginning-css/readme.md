@@ -7,32 +7,32 @@
 - Compare and use classes and ids to manipulate elements
 
 ## Summary
-In this challenge, you will be adding CSS to your clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/). 
+In this challenge, you will be adding CSS to your clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/).
 
 If you want to pair on this, we recommend going through Release 0 and 1 prior to pairing. Then get together with your pair for releases 2, 3, and 4.
 
-**This challenge will also be completed in your phase-0-unit-1 repository.**
+This challenge will also be completed in your phase-0-unit-1 repository.
 
 ## Releases:
 
 ## Release 0: Learn basic CSS
 
-Go through the following resources to learn the basics of CSS. 
+Go through the following resources to learn the basics of CSS.
 - [codecademy: Intro to CSS](http://www.codecademy.com/en/tracks/web) sections:
     - CSS: An Overview
     - CSS Selectors
     - CSS Positioning
-- [Magic of CSS](http://adamschwartz.co/magic-of-css/)    
+- [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 
 ## Release 1: Link your Stylesheet
 
-There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to. 
+There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to.
 
-If you look at that file, you will see there is already something there. It's set to turn the background color to red when you get the external stylesheet set up properly. Then you can promptly delete that piece of CSS. 
+If you look at that file, you will see there is already something there. It's set to turn the background color to red when you get the external stylesheet set up properly. Then you can promptly delete that CSS.
 
-You'll want to add a link to this stylesheet in your [4-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html)
+You'll want to add a link to this stylesheet in your [6-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html)
 
-## Release 2: Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.  
+## Release 2: Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
 
 #### 1. Change the following colors.
   - Text:  #000080 (navy)
@@ -41,7 +41,7 @@ You'll want to add a link to this stylesheet in your [4-beginning-html/my-berksh
   - background: #ffffff (white)
 
 #### 2. Position the links into two columns
-  - Make the description text smaller and the normal font color. 
+  - Make the description text smaller and the normal font color.
 
 #### 3. Format the heading
   - Bold the text
@@ -53,23 +53,22 @@ You'll want to add a link to this stylesheet in your [4-beginning-html/my-berksh
 #### 4. Format the Geico Section to look the same as the web page
 
 #### 5. Add horizontal lines using CSS
-(There should be four). Do not use the `<hr>` tag. 
+(There should be four). Do not use the `<hr>` tag.
 
-#### 6. Did we forget anything? 
+#### 6. Did we forget anything?
 
 
-## Release 3: Add/ beautify the site (Optional)
-  - Add a picture of Warren Buffet, position it where it makes the most sense for you
-  - Make the heading of the page look like a modern heading (rather than the top of a resume)
-  - Add a new font 
-
-## Release 4: Compare
-I know you've been dying to see what the actual source code Berkshire Hathaway uses. Thankfully, you can see it pretty easily. Most browsers display source code when CTRL+U is pressed.  
+## Release 3: Compare
+I know you've been dying to see what the actual source code Berkshire Hathaway uses. Thankfully, you can see it pretty easily. Most browsers display source code when CTRL+U is pressed.
 
 Now compare your HTML and CSS to the source. Make some notes of the differences and which site you think uses better practices. You'll need to answer some questions about this in your reflection section.
 
+## Release 4: Add/ beautify the site (Optional)
+  - Add a picture of Warren Buffet, position it where it makes the most sense for you
+  - Make the heading of the page look like a modern heading (rather than the top of a resume)
+  - Add a new font
 
-## Release 5: Reflect 
+## Release 5: Reflect
 Edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub. Check they are there!
 
 ## Additional CSS Resources:
