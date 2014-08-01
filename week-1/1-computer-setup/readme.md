@@ -6,7 +6,8 @@ Setting up your computer can be tricky, and there are specific technologies we w
 
 These instructions are new, so please let us know if you encounter problems setting up.
 
-Please go through these even if you already set up your machine just to check you have everything. If you have a Mac, be sure to install the dotfiles (Releases 4 and 5) to make sure your path is set up properly.
+
+Please go through these even if you already set up your machine just to check you have everything.
 
 - [Linux](linux-instructions.md)
 - [Mac](mac-instructions.md)
