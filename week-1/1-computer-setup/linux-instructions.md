@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Computer Set-Up Instructions (Mac Users)
+# Computer Set-Up Instructions - Linux
 
 ## Learning Competencies
 - Install technologies from the command line
@@ -10,13 +10,11 @@
 ## Summary
 You will need to have your computer set up with the following tools for Phase 0 of Dev Bootcamp. Make sure to go through this guide step-by-step. You'll need to have each of these technologies installed to have a smooth start to Phase 0 and your future career!
 
-These are the instructions for Linux
-
 ## Releases
 (i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
 
 ## Release 0: Download Sublime Text 2
-Download and follow instructions from the site.
+Download and follow instructions from [their site](http://www.sublimetext.com).
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
@@ -24,7 +22,7 @@ You don't have to purchase your license right away, you can "cancel" out of the 
 These instructions are optimized for use with Ubuntu. If you are using a different version of Linux you may have to translate as needed to your particular OS.
 
 
-## Release 2: Get ready for installe
+## Release 2: Get ready for install
 
 First step is to update our package manager apt-get. This will be done using this command:
 
@@ -60,7 +58,9 @@ cd dotfiles
 ```
 Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime.
 
-Restart your terminal to have these changes take place
+Restart your terminal to have these changes take place.
+
+Note: These dotfiles should run fine with Linux, but some commands may not execute. The Sublimelink command will not work.
 
 ## Release 5: Install Git
 
@@ -78,6 +78,11 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
+Now make sublime text your preferred editor for git:
+```shell
+git config --global core.editor subl
+```
+
 ## Release 7: Install Node
 Node allows you to run Javascript in your terminal.
 
@@ -93,6 +98,7 @@ Type ```gem install rspec```
 This will install RSpec, a ruby testing framework.
 
 ## Release 12: Install SQLite
+<!-- check for use with Rbenv -->
 RVM installed SQLite3 for us, make sure by typing
 
 ```shell

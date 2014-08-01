@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Computer Set-Up Instructions (Mac Users)
+# Computer Set-Up Instructions - Windows
 
 ## Learning Competencies
 - Install technologies from the command line
@@ -12,36 +12,34 @@ You will need to have your computer set up with the following tools for Phase 0 
 
 Here is the instructions for getting your windows environment set up. We will be installing:
 
-Chocolatey
-Sublime
-Ruby
-Rspec
-Node
-Git
-SQLite
-Postgresql
+- Chocolatey
+- Sublime
+- Ruby
+- Rspec
+- Node
+- Git
+- SQLite
+- Postgresql
 
 ## Releases
 (i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
 
 ## Release 0: Download Sublime Text
-Download and follow instructions from the site.
-
-You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
-
-
-## Sublime Text
 
 Follow these instructions [sublime install and configure](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md)
 
 If you have dont this correctly, you should be able to open files from the command prompt using `subl "filename"` now.
 
+You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
+
+## Release 1: Chocolatey
 Now lets install our package manager to get the libraries we need.
 
-## Chocolatey
+Chocolatey works like howbrew for mac or apt-get for linux. We download this program and say:
 
-Chocolatey works like howbrew for mac or apt-get for linux. We download this program and we t say
-"Chocolatey, download Ruby!" or "Chocolatey, download Nodejs!" Chocolatey takes care of downloading and installing these programs for you. It even adjusts your PATH variable to make sure the OS accesses these languages correctly.
+"Chocolatey, download Ruby!" or "Chocolatey, download Nodejs!"
+
+Chocolatey takes care of downloading and installing these programs for you. It even adjusts your PATH variable to make sure the OS accesses these languages correctly.
 
 The first step is to install chocolatey, it can be found [here](http://chocolatey.org/).
 
@@ -61,9 +59,9 @@ PS:/ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/inst
 
 It will give you a message to say that chocolatey has finished installing and your cursor will be under your control again. Now we can start installing packages. You can search a list of all the available for chocolatey on their website [Chocolatey packages](http://chocolatey.org/packages).
 
-## Ruby
+## Release 2: Ruby
 
-Now we can install our first package, Ruby. In your roto directory type
+Now we can install our first package, Ruby. In your root directory type:
 
 ```shell
 C:/ cinst ruby
@@ -71,7 +69,7 @@ C:/ cinst ruby
 
 This will install ruby 2.0.0, type ruby -v, if you get an output that declares your ruby version, you are good to go!
 
-## Rspec
+## Release 3: Rspec
 
 Rspec is a testing framework built in ruby and is the current front runner in testing framworks. We have some test driven challenges that use rspec, so we will install it as well.
 
@@ -79,13 +77,14 @@ Rspec is a testing framework built in ruby and is the current front runner in te
 gem install rspec
 ```
 
-now type
+now type:
+
 ```shell
 rspec -v
 ```
 to check your install
 
-## Node
+## Release 4: Node
 
 Similar to Ruby, we just use a different command.
 
@@ -95,7 +94,7 @@ C:/ cinst nodejs
 
 type node -v to test your succcess.
 
-## Git
+## Release 5: Git
 
 You get the idea:
 
@@ -120,7 +119,7 @@ Then we want to set up our default text editor to sublime.
 git config --global core.editor subl
 ```
 
-## SQLite
+## Release 6: SQLite
 
 The DLL
 ```shell
@@ -137,7 +136,7 @@ type this to test:
 sqlite3 -version
 ```
 
-## Postgresql
+## Release 7: Postgresql
 
 Note that you will not need postgres to complete phase 0. If you plan on making this you primary development machine, postgres is a much better option than SQLite for larger apps.
 
@@ -155,6 +154,6 @@ psql -V
 
 make sure its a capital V, this prints the version and exits. If you get into psql command line hit CTRL + D to exit.
 
-## Thats all
+## Release 8: Thats all
 
 You now have a set up environment for development! If you are interested in this kind of thing, there is a whole job created around automating server and terminal set up. It is called DevOps, they do lots of things to make software development more efficient. Check it out! [devopsreactions](http://devopsreactions.tumblr.com/)
