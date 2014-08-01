@@ -32,6 +32,8 @@ We are going to create a repository to host your very own website! You'll be usi
 
 5. You should now be on the main repo page. On the right side, click on **settings**. In the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
 
+![enable issues](../imgs/enable-issues.png)
+
 6. **Do a celebration dance!** <br />:dancers: :tada: :dancer:
 
 ![You have a repo](../imgs/github-repo3.jpg)
