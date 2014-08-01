@@ -32,7 +32,8 @@ If you look at that file, you will see there is already something there. It's se
 
 You'll want to add a link to this stylesheet in your [6-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html)
 
-## Release 2: Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
+## Release 2: Add CSS
+Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
 
 #### 1. Change the following colors.
   - Text:  #000080 (navy)
@@ -55,7 +56,7 @@ You'll want to add a link to this stylesheet in your [6-beginning-html/my-berksh
 #### 5. Add horizontal lines using CSS
 (There should be four). Do not use the `<hr>` tag.
 
-#### 6. Did we forget anything?
+#### 6. Did we forget anything? Does your site look exactly like theirs?
 
 
 ## Release 3: Compare
