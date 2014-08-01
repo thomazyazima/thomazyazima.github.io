@@ -21,9 +21,9 @@ We are going to create a repository to host your very own website! You'll be usi
 
 ![New repo form](../imgs/github-repo-1.jpg)
 
-3. **Fill out the new repository form.** 
+3. **Fill out the new repository form.**
  - You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.
- - Check "Initialize this project with a README" and add an MIT license. 
+ - Check "Initialize this project with a README" and add an MIT license.
 
  ![New repo form](../imgs/github-repo-2.jpg)
 
@@ -33,23 +33,18 @@ We are going to create a repository to host your very own website! You'll be usi
 
 5. You should now be on the main repo page. On the right side, click on **settings**. In the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
 
-6. **Do a celebration dance!** <br />:dancers: :tada: :dancer: 
+6. **Do a celebration dance!** <br />:dancers: :tada: :dancer:
 
 ![You have a repo](../imgs/github-repo3.jpg)
 
 
-## Release 1: Download the repository
+## Release 1: Clone the repository
 
-A git repository is "distributed", which means it exists on many computers instead of just one.  Right now your repository exists on GitHub, but in order to add or edit files, you need it to exist on *your computer*.
-
-In git terms, this is called **cloning a repository locally**. A "local repository" is the copy on your computer. A "remote repository" is one on another server, i.e. on GitHub, or on another person's computer.
-
-#### Cloning a repository with the command line
-Now we want to bring the repository to our computer. There is a series of commands we can use to do this.
+Now we want to bring the repository to our computer like we did in the last challenge. There is a series of commands we can use to do this.
 
 The first step is to get the URL of the repo. This is found here:
 
-![image](http://i.imgur.com/cJhOctU.png)
+![image](../imgs/clone-url.png)
 
 Mine says SSH URL. If you have your SSH key set up with Github you can use this. Otherwise click HTTPS and use that URL. Copy this URL to your clipboard.
 
@@ -59,11 +54,11 @@ Now you can open your command line, navigate to the directory where you want to 
 
 Your files should look like this
 
-![proper structure](http://i.imgur.com/RIWOwBa.png)
+![proper structure](../imgs/correct-file-structure.png)
 
 <b>NOT</b> like this
 
-![improper structure](http://i.imgur.com/AIEsuSa.png)
+![improper structure](../imgs/improper-structure.png)
 
 in the folder that you want to clone the files (in my case dbc_stuff) type:
 
@@ -73,7 +68,7 @@ If you are using HTTPS, you will be prompted to enter your github username and p
 
 After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and poke around.
 
-If you've already tried visiting **[username].github.io** only to be greeted with a *404 page not found* error, do not despair! This is because you haven't actually built any pages yet, which is something you will be doing later. It also sometimes takes 10 minutes to be viewable. 
+If you've already tried visiting **[USERNAME].github.io** only to be greeted with a *404 page not found* error, do not despair! This is because you haven't actually built any pages yet, which is something you will be doing later. It also sometimes takes 10 minutes to become viewable.
 
 
 ## Release 2: Open Source and Licenses

@@ -9,23 +9,23 @@
 - Push and pull your own changes between your local and remote repositories
 
 ## Summary:
-In the previous challenge you learned a bit about version control, git, and GitHub. You also created your own fork of the curriculum. 
+In the previous challenge you learned a bit about version control, git, and GitHub. You also created your own fork of the curriculum.
 
-In this challenge, we are going to create a copy of the phase-0-unit-1 repository on your computer and learn basic git commands. 
+In this challenge, we are going to create a copy of the phase-0-unit-1 repository on your computer and learn basic git commands.
 
 ## Releases
 ## Release 0: Install Git
-[Install git](https://help.github.com/articles/set-up-git) on your command line if you haven't already. Be sure to [set up git](https://help.github.com/articles/set-up-git) (including generating SSH keys) as well. 
+Since you already installed git in the [computer setup](../1-computer-setup) challenge, you will now want to generage SSH keys and get git setup. Use these[set up git](https://help.github.com/articles/set-up-git) instructions (including generating SSH keys).
 
 ## Release 1: Clone the Repository
-A git repository is "distributed", which means it exists on many computers instead of just one.  Right now your repository exists on GitHub, but in order to add or edit files, you need it to exist on *your computer*.
+A git repository is "distributed", which means it exists on many computers instead of just one.  Right now your repository exists on GitHub, but in order to add or edit files, you need it to exist on your computer.
 
-In git terms, this is called **cloning a repository locally**. A "local repository" is the copy on your computer. A "remote repository" is one on another server, i.e. on GitHub, or on another person's computer.  
+In git terms, this is called **cloning a repository locally**. A "local repository" is the copy on your computer. A "remote repository" is one on another server, i.e. on GitHub, or on another person's computer.
 
 #### Cloning a repository with the command line
 Now we want to bring the repository to our computer. There is a series of commands we can use to do this.
 
-First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local github repository, so **always** make sure you are the correct directory, like your Desktop or a phase-0 folder. 
+First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local github repository, so **always** make sure you are the correct directory, like your Desktop or a phase-0 folder.
 
 The first step is to get the URL of the repo. This is found here:
 
@@ -39,9 +39,9 @@ Mine says SSH URL. If you have your SSH key set up with Github you can use this.
 
 If you are using HTTPS, you will be prompted to enter your github username and password. (You won't be able to see what you type, when you finish entering your username, press enter. You will then be prompted to enter your password -- press enter when you're finished).
 
-Now you should see some stuff execute, it looks like you're hacking a mainframe in the 90s.
+Now you should see some stuff execute, it looks like you're hacking a mainframe from the 90s.
 
-After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and open it in Sublime. 
+After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and open it in Sublime.
 
 Once you have it open in sublime, you can see all of the files and directories. Find the directory this file is in, and open the "readme.md" file. From now on, you should read all instructions and complete all challenges in sublime. This will help you read and write markdown as well as better understand the file tree. Take a look at the links to images, for example. Do you know what the `../` does? If not, find out!
 
@@ -61,17 +61,19 @@ In your [my_solution.md](my_solution.md) file, describe what each command listed
 Commit your files and push any changes you've made to your remote repository using the command line!
 
 ## Release 5: Write a git workflow
-Give yourself a little cheatsheet (in order) of commands you'll need to: 
+Give yourself a little cheatsheet (in order) of commands you'll need to:
 - Push files to a remote repository
-- Fetch changes
+- Fetch changes (from DBC's master repo to your forked, local repo)
 - Commit locally
 
 ## Release 6: Git errors
-If you encountered any errors or things that were confusing in the terminal, copy the error and do some research on it. See if you can fix it. If not, ask for help understanding it on the community. 
+If you encountered any errors or things that were confusing in the terminal, copy the error and do some research on it. See if you can fix it. If not, ask for help understanding it on the community.
 Once it's fixed, see if you can explain what the issue was.
 
 ## Release 7: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 In the reflection section of your 'my_solution.md` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md). ***NOTE: Reflections are mandatory!***
+
+Use your newly-developed git muscles to commit and push your changes to your repository on GitHub. Make sure you can see it online!
 
 ## Release 8: Review
 [Review others' solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) by leaving an issue. Compare their definitions and workflow to yours. Did you have trouble understanding Git or Github? Did they have trouble? Provide actionable, specific, and kind feedback. (You are expected to leave at least two comments for this challenge).
