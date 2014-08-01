@@ -10,7 +10,7 @@
 - Position HTML elements using CSS padding, borders, and margins
 
 ## Summary
-In this challenge, you will be building a blog template using the wireframe you make in the [6-wireframing](../6-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
+In this challenge, you will be building a blog template using the wireframe you make in the [8-wireframing](../8-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
 
 ## Releases
 

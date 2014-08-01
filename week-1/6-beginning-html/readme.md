@@ -37,11 +37,11 @@ Now it's time to add the "fun" stuff. You don't need to point to the correct URL
 
 Consider whether you want to use a table or divs. [This article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
 
-You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-CSS) challenge. When you finish adding the content using HTML, you site should look something like this:
+You don't need to worry about formatting the site since you will be adding it in the [7-beginning-CSS](../7-beginning-CSS) challenge. When you finish adding the content using HTML, you site should look something like this:
 
 ![unformatted berkshire](../imgs/unformatted-berkshire.png)
 
-We've included the Geico image (geicoimg.gif) for you in the week-1[imgs](imgs) directory in for you to use in your site.
+We've included the Geico image (geicoimg.gif) for you in the week-1 [imgs](imgs) directory in for you to use in your site.
 
 ## Release 4: Reflect
 Now edit the [my_reflection.md](my_reflection.md) file associated with this challenge.
