@@ -4,53 +4,51 @@
 
 ## Learning Competencies
 - Install technologies from the command line
-- Clone and run scripts from a repository
+- Use package managment tools
 
 
 ## Summary
-You will need to have your computer set up with the following tools for Phase 0 of Dev Bootcamp. Make sure to go through this guide step-by-step. You'll need to have each of these technologies installed to have a smooth start to Phase 0 and your future career! 
+You will need to have your computer set up with the following tools for Phase 0 of Dev Bootcamp. Make sure to go through this guide step-by-step. You'll need to have each of these technologies installed to have a smooth start to Phase 0 and your future career!
 
-While it's definitely possible to go through Phase 0 using Windows, you'll generally be much happier if you have OS X or at least Linux. This tutorial will cover the setup for a Mac. There will be alternatives for Windows and Linux users.
+These are the instructions for Linux
 
 ## Releases
 (i.e. directions - each release is necessary for the next release, so be sure to do everything in the order specified for all challenges)
 
 ## Release 0: Download Sublime Text 2
-Download and follow instructions from the site. 
+Download and follow instructions from the site.
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
 ## Release 1: Your Operating System
-If you are using OS X, you should upgrade to Mavericks if you haven't already. You can get it from the App Store on your computer and it's free. To find out which operating system you're running, open the "About this Mac," Under OS X, you should see a version. Mavericks is Version 10.9. 
+These instructions are optimized for use with Ubuntu. If you are using a different version of Linux you may have to translate as needed to your particular OS.
 
-**Do NOT download the beta version of Yosemite OSX 10.10, it will cause problems!**
 
-![mavericks](../imgs/mavericks.png)
+## Release 2: Get ready for installe
 
-Before installing, it's always good practice to backup your hard drive so you don't lose anything!
-
-## Release 2: Install Command Line Tools
-Release 2 - 12 will be run in your terminal. So open it, and type: 
+First step is to update our package manager apt-get. This will be done using this command:
 
 ```shell
-xcode-select --install
+sudo apt-get update
 ```
 
-Follow the prompts to complete the install. 
-
-This is apple's C compiler which will enable you to compile native apps from source. (i.e. Ruby)
-
-If you can't find the terminal, simply search "terminal" in spotlight. 
-
-## Release 3: Install Homebrew 
-Also called "Brew." Brew is like the app store for the command line (i.e. your terminal). If you ever need any command-line tool, try installing with Brew before other methods. (ex. ```brew install name-of-thing```)
-
-Install brew by copying and pasting this beautiful code into your terminal:
+If that went without error you can now get curl:
 
 ```shell
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+sudo apt-get curl
 ```
-It will prompt you for your password - so be ready to type it in. 
+Now we are ready to install RVM
+
+## Release 3: get RVM
+
+RVM will take be our ruby version manager. Gems will install here and we will use its copies of Ruby over our system Ruby. Yay!
+
+```shell
+\curl -L https://get.rvm.io | bash -s stable --ruby
+```
+
+this installs RVM and also installs the latest stable version of Ruby.
+
 
 ## Release 4: Set up your Path
 First you need to clone this github repository into your computer and install the files. Type each line separately:
@@ -60,9 +58,19 @@ git clone https://github.com/supertopher/dotfiles.git
 cd dotfiles
 ./install
 ```
-Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime. 
+Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime.
 
-## Release 5: Configure Git
+Restart your terminal to have these changes take place
+
+## Release 5: Install Git
+
+We will use apt-get to install git:
+
+```shell
+sudo apt-get install git-core
+```
+
+## Release 6: Configure Git
 You then need to overwrite .gitconfig to your own username and password in GitHub. Use your name and your Github email address in the following format:
 
 ```shell
@@ -70,34 +78,14 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-## Release 6: Install Ruby Build
-Type: ```brew install ruby-build```
+## Release 7: Install Node
+Node allows you to run Javascript in your terminal.
 
-We need this to install Rbenv, which will ruby version manager. Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of ruby on your machine?)
+```shell
+sudo apt-get install nodejs
+```
 
-## Release 7: Install Rbenv
-Type: ```brew install rbenv```
-
-Now you have Rbenv! Sweet!
-
-## Release 8: Install Ruby 2.0.0
-Type: ```rbenv install 2.0.0-p481``` 
-
-Now, you need to set the default ruby in your computer to the ruby we just installed. Type: ``` rbenv global 2.0.0-p481```
-
-NOTE: You just installed Ruby 2.0.0 as your default. When you are reading the Ruby Docs, make sure you are referring to this version, NOT Ruby 2.1.0. 
-
-## Release 9: Install Git
-Type: ```brew install git```
-
-This installs git and autocompletion for git.
-
-## Release 10: Install Node
-Node allows you to run Javascript in your terminal.  
-
-Type: ```brew install node```
-
-You'll use this later in Phase 0. 
+You'll use this later in Phase 0.
 
 ## Release 11: Install Rspec
 Type ```gem install rspec```
@@ -105,18 +93,27 @@ Type ```gem install rspec```
 This will install RSpec, a ruby testing framework.
 
 ## Release 12: Install SQLite
-Type ``````
-
-To overwride your system copy of SQLite, we need to type an additional command:
+RVM installed SQLite3 for us, make sure by typing
 
 ```shell
+sqlite3 --version
 ```
+This should return your current version. If it does you should be all set!
 
-## Release 13: Install Postgres 
+## Release 13: Install Postgres
 Type the following commands one at a time:
 
-```shell 
-
+```shell
+sudo apt-get install postgresql
 ```
 
-You are now ready to start Phase 0!
+follow the instructions during the install and you will be set. Check your install by typing:
+
+```shell
+psql -V
+```
+make sure its a capital V, this prints the version and exits. If you get into psql command line hit CTRL + D to exit.
+
+## Thats all
+
+You now have a set up environment for development! If you are interested in this kind of thing, there is a whole job created around automating server and terminal set up. It is called DevOps, they do lots of things to make software development more efficient. Check it out! [devopsreactions](http://devopsreactions.tumblr.com/)
