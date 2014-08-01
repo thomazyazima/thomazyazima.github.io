@@ -10,36 +10,36 @@
 - Position HTML elements using CSS padding, borders, and margins
 
 ## Summary
-In this challenge, you will be building a blog template using the wireframe you make in the [6-wireframing](../6-wireframing) challenge. You may not use Bootstrap or any other design framework for your site. 
+In this challenge, you will be building a blog template using the wireframe you make in the [6-wireframing](../6-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
 
 ## Releases
 
 ## Release 0: Wireframe to HTML
 
-First, navigate to your [USERNAME].github.io site in your terminal. Create a new directory called "blog-posts." In the blog-posts folder, create a new file called "blog-template.html"
+First, navigate to your [USERNAME].github.io site in your terminal. Create a new directory called "blog-posts." In the blog-posts folder, create a new file called "blog-template.html."
 
-Using your wireframe as a reference, build your blog template by creating HTML tags for specific content. You may want to add junk text to the template temporarily to test your CSS. 
+Using the wireframe you created in the last challenge as a reference, build your blog template by creating HTML tags for specific content. You may want to add junk text to the template temporarily to test your CSS.
 
-Once you have all of the content on your site, you are ready to add CSS. 
+Once you have all of the content on your site, you are ready to add CSS.
 
 
 ## Release 1: Apply CSS
 
-In the main directory for your [USERNAME].github.io site, create a "stylesheets" directory. In that directory, create a "blog-stylesheet.css" Link to that stylesheet in your blog-template.html. 
+In the main directory for your [USERNAME].github.io site, create a "stylesheets" directory. In that directory, create a "blog-stylesheet.css" Link to that stylesheet in your blog-template.html.
 
 Use CSS to position and format the content of your blog. Once you have it displayed as you want it, move on to the next release.
 
 ## Release 2: Delete unnecessary text
 
-Since this is a template, you don't want to have unnecessary text you'll have to delete each time, so delete any of the temporary text. If you want to add comments like ```<!-- insert title here -->``` to make it clear what information goes where, that might be useful. 
+Since this is a template, you don't want to have unnecessary text you'll have to delete each time, so delete any of the temporary text. If you want to add comments like ```<!-- insert title here -->``` to make it clear what information goes where, that might be useful.
 
-## Release 2: Commit your changes 
+## Release 2: Commit your changes
 
-Now that you've made your template, you're ready to use it in the blog assignments. Add your changes to the stage and commit them. 
+Now that you've made your template, you're ready to use it in the blog assignments. Add your changes to the stage and commit them.
 
 ## Release 3: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
 
-And get ready to blog!
+Get ready to blog!
 
 
