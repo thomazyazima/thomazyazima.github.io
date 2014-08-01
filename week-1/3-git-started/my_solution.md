@@ -1,5 +1,5 @@
 ## Release 3: Basic Git Commands
-Define the following commands and describe how they work/what they do.  
+Define the following commands and describe how they work/what they do.
 
 
 #### add
@@ -53,3 +53,8 @@ Define the following commands and describe how they work/what they do.
 3. Cause (explain the error)
 
 ## Release 7: Reflection
+
+- What do you like about git?
+- What is confusing to you about git?
+- Did you have any moments that solidified concepts?
+- Did you find any outside resources that helped you better understand these concepts?

@@ -1,4 +1,4 @@
-## 8. [Comparing Favorite Websites](8_technical_blog/readme.md) Reflection
+##  11. Comparing Favorite Websites  Reflection
 
 Blog url: <!-- Blog URL here (remove comment)  -->
 

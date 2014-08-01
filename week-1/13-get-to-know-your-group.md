@@ -1,5 +1,6 @@
-# U1.W1: Get to know your group
+[Week 1 Home](./)
 
+# U1.W1: Get to know your group
 
 ## Learning Competencies
 - Describe what you learned from someone else's reflections

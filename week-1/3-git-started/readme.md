@@ -71,7 +71,7 @@ If you encountered any errors or things that were confusing in the terminal, cop
 Once it's fixed, see if you can explain what the issue was.
 
 ## Release 7: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-In the reflection section of your 'my_solution.md` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md). ***NOTE: Reflections are mandatory!***
+In the reflection section of your [my_solution.md(my_solution.md)] file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md). ***NOTE: Reflections are mandatory!***
 
 Use your newly-developed git muscles to commit and push your changes to your repository on GitHub. Make sure you can see it online!
 

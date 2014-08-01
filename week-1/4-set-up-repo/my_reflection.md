@@ -1,4 +1,4 @@
-## 2. [Open Source and Repo Setup](2_set_up_repo/readme.md) Reflection
+## 4. Open Source and Repo Setup  Reflection
 
 * Explain how to create a repository on GitHub and clone the repository to your local computer to a non-technical person
 * Describe what open source means
