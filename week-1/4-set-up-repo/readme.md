@@ -31,6 +31,8 @@ We are going to create a repository to host your very own website! You'll be usi
 4. Click on the **"Create Repository" button**
 
 5. You should now be on the main repo page. On the right side, click on **settings**. In the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
+6. 
+![enable issues](../imgs/enable-issues.png)
 
 ![enable issues](../imgs/enable-issues.png)
 
