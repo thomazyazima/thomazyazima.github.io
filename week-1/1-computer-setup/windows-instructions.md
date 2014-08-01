@@ -33,7 +33,7 @@ If you have dont this correctly, you should be able to open files from the comma
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
-## Release 1: Chocolatey
+## Release 1: Install Chocolatey
 Now lets install our package manager to get the libraries we need.
 
 Chocolatey works like howbrew for mac or apt-get for linux. We download this program and say:
@@ -60,7 +60,7 @@ PS:/ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/inst
 
 It will give you a message to say that chocolatey has finished installing and your cursor will be under your control again. Now we can start installing packages. You can search a list of all the available for chocolatey on their website [Chocolatey packages](http://chocolatey.org/packages).
 
-## Release 2: Ruby
+## Release 2: Install Ruby
 
 Now we can install our first package, Ruby. In your root directory type:
 
@@ -70,7 +70,7 @@ C:/ cinst ruby
 
 This will install ruby 2.0.0, type ruby -v, if you get an output that declares your ruby version, you are good to go!
 
-## Release 3: Rspec
+## Release 3: Install Rspec
 
 Rspec is a testing framework built in ruby and is the current front runner in testing framworks. We have some test driven challenges that use rspec, so we will install it as well.
 
@@ -85,7 +85,7 @@ rspec -v
 ```
 to check your install
 
-## Release 4: Node
+## Release 4: Install Node
 
 Similar to Ruby, we just use a different command.
 
@@ -95,7 +95,7 @@ C:/ cinst nodejs
 
 type node -v to test your succcess.
 
-## Release 5: Git
+## Release 5: Install and Configure Git
 
 You get the idea:
 
@@ -120,7 +120,7 @@ Then we want to set up our default text editor to sublime.
 git config --global core.editor subl
 ```
 
-## Release 6: SQLite
+## Release 6: Install SQLite
 
 The DLL
 ```shell
@@ -137,7 +137,7 @@ type this to test:
 sqlite3 -version
 ```
 
-## Release 7: Postgresql
+## Release 7: Install Postgresql
 
 Note that you will not need postgres to complete phase 0. If you plan on making this you primary development machine, postgres is a much better option than SQLite for larger apps.
 
