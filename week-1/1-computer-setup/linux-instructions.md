@@ -114,7 +114,7 @@ Install sqlite3 using apt-get
 ```shell
 sudo apt-get install sqlite3 libsqlite3-dev
 
-sudo gem install sqlite3-ruby
+gem install sqlite3-ruby
 ```
 type sqlite3 -version to test.
 
