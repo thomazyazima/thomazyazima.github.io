@@ -15,7 +15,7 @@ In this challenge, we are going to create a copy of the phase-0-unit-1 repositor
 
 ## Releases
 ## Release 0: Install Git
-Since you already installed git in the [computer setup](../1-computer-setup) challenge, you will now want to generage SSH keys and get git setup. Use these[set up git](https://help.github.com/articles/set-up-git) instructions (including generating SSH keys).
+Since you already installed git in the [computer setup](../1-computer-setup) challenge, you will now want to generage SSH keys and get git setup. Use these [set up git](https://help.github.com/articles/set-up-git) instructions (including generating SSH keys).
 
 ## Release 1: Clone the Repository
 A git repository is "distributed", which means it exists on many computers instead of just one.  Right now your repository exists on GitHub, but in order to add or edit files, you need it to exist on your computer.
