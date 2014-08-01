@@ -6,7 +6,6 @@
 
 - Describe the following: web server, browser, HTML, CSS, domain, DNS
 - Create an HTML file
-- Commit and push a file to GitHub
 
 ## Summary
 
