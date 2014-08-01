@@ -11,7 +11,6 @@ By the end of this lesson, you should be able to:
 ## Summary
 Web Developers use tools to track their progress and create backups. GitHub is a popular platform for doing this, especially in the open source community. In this introduction, we want to introduce you to GitHub so you don't feel lost when working through the material.
 
-
 ## Releases
 
 ## Release 0: GitHub Vocabulary
