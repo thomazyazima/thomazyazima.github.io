@@ -16,6 +16,15 @@ You will need to have your computer set up with the following tools for Phase 0 
 ## Release 0: Download Sublime Text 2
 Download and follow instructions from [their site](http://www.sublimetext.com).
 
+After you download, create a symlink so you can open sublime using `subl "filename"`
+
+Enter this command in to you terminal:
+```shell
+sudo ln -s /opt/SublimeText2/sublime_text /usr/bin/subl
+```
+
+test by typing subl . it should open all files in your current directory!
+
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
 ## Release 1: Your Operating System
@@ -35,18 +44,17 @@ If that went without error you can now get curl:
 ```shell
 sudo apt-get curl
 ```
-Now we are ready to install RVM
+Now we are ready to install RBenv
 
-## Release 3: get RVM
+## Release 3: get RBenv
 
-RVM will take be our ruby version manager. Gems will install here and we will use its copies of Ruby over our system Ruby. Yay!
+RBenv will be our ruby version manager. Gems will install here and we will use its copies of Ruby over our system Ruby. Yay!
 
-```shell
-\curl -L https://get.rvm.io | bash -s stable --ruby
-```
+Digital ocead wrote a great how-to on getting RBenv and Ruby running on Ubuntu. Follow the instructions here. This will also handle installing nodejs. Make sure that you install ruby 2.0.0-p353 instead of 1.9.3-p392.
 
-this installs RVM and also installs the latest stable version of Ruby.
+Also the step to open the .bashrc and fix the path is done in Release 4 so no need to complete those steps during this release
 
+[Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-12-04-lts-with-rbenv--2)
 
 ## Release 4: Set up your Path
 First you need to clone this github repository into your computer and install the files. Type each line separately:
@@ -60,14 +68,13 @@ Installing these files will configure your bash profile, enable autocomplete, al
 
 Restart your terminal to have these changes take place.
 
-Note: These dotfiles should run fine with Linux, but some commands may not execute. The Sublimelink command will not work.
 
 ## Release 5: Install Git
 
-We will use apt-get to install git:
+This should have been installed if you followed the digital ocean tutorial in release 3. Check by typing
 
 ```shell
-sudo apt-get install git-core
+git --version
 ```
 
 ## Release 6: Configure Git
@@ -86,8 +93,12 @@ git config --global core.editor subl
 ## Release 7: Install Node
 Node allows you to run Javascript in your terminal.
 
+You should have installed this when installing RBenv if yo used the digital ocean guide.
+
+Test by typing:
+
 ```shell
-sudo apt-get install nodejs
+node -v
 ```
 
 You'll use this later in Phase 0.
@@ -98,13 +109,14 @@ Type ```gem install rspec```
 This will install RSpec, a ruby testing framework.
 
 ## Release 12: Install SQLite
-<!-- check for use with Rbenv -->
-RVM installed SQLite3 for us, make sure by typing
+Install sqlite3 using apt-get
 
 ```shell
-sqlite3 --version
+sudo apt-get install sqlite3 libsqlite3-dev
+
+sudo gem install sqlite3-ruby
 ```
-This should return your current version. If it does you should be all set!
+type sqlite3 -version to test.
 
 ## Release 13: Install Postgres
 Type the following commands one at a time:
