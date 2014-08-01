@@ -3,6 +3,7 @@
 # Computer Set-Up Instructions - Windows
 
 ## Learning Competencies
+By the end of this lesson, you should be able to:
 - Install technologies from the command line
 - Understand what a package manager is and why it is helpful
 

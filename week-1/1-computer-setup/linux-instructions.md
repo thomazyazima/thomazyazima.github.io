@@ -3,6 +3,7 @@
 # Computer Set-Up Instructions - Linux
 
 ## Learning Competencies
+By the end of this lesson, you should be able to:
 - Install technologies from the command line
 - Use package managment tools
 
