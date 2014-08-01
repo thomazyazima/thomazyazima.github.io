@@ -64,7 +64,7 @@ Experiment with this loop and create your own until you feel comfortable with th
 
 There is another way to write `for` loops in JavaScript that is a bit closer to looping in Ruby.
 
-Instead of writing `for` with a series of statements outlining the parameters of the loop (intial value, conditional, incrementor/decrementor), we can use the `for (x in y)` syntax, where `x` is a variable representing an incremtable value and `y` represents an object with a `length` property, such as `Array`. Let's try it out on a simple array. Run this in the browser console:
+Instead of writing `for` with a series of statements outlining the parameters of the loop (intial value, conditional, incrementor/decrementor), we can use the `for (x in y)` syntax, where `x` is a variable representing an incrementable value and `y` represents an object with a `length` property, such as `Array`. Let's try it out on a simple array. Run this in the browser console:
 
 ```javascript
 var nums = [6,0,1,9,3];

@@ -45,7 +45,7 @@ In the reflection section of your 'my_solution.js` file, reflect on your learnin
 
 ## Release 3: [Review others' Reflections/Solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 
-Leave an issue telling the student what they did well and can do better next time with regard to the pseudocode and reflection. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
+Leave an issue telling the student what they did well and can do better next time with regard to the reflection. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
 
 
 
