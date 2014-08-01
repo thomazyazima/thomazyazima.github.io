@@ -21,7 +21,7 @@ If you would like to open tabs in a new window, please either right click or hol
 #### 4. [Set Up Repo](4-set-up-repo)
 #### 5. [Web Basics](5-web-basics)
 #### 6. [Beginning HTML](6-beginning-html)
-#### 7. [Beginning HTML](7-beginning-css)
+#### 7. [Beginning CSS](7-beginning-css)
 #### 8. [Wireframing](8-wireframing)
 #### 9. [Blog template SOLO CHALLENGE](9-blog-template-solo-challenge)
 #### 10. [Introduction to Twitter](10-twitter-intro.md)

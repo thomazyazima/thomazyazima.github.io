@@ -74,5 +74,5 @@ Complete Part 1 (web concepts assignment) in the [my_reflection.md](my_reflectio
 
 ## Release 5: Reflection
 
-Reflect on your learning by editing Part 2 of the my_reflection.md file associated with this challenge. Then commit and push your changes to your remote repository! Make sure you can see the changes on GitHub!
+Reflect on your learning by editing Part 2 of the [my_reflection.md](my_reflection.md) file associated with this challenge. Then commit and push your changes to your remote repository! Make sure you can see the changes on GitHub!
 
