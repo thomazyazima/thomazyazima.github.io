@@ -2,15 +2,16 @@
 
 ##Part 1: Describe the following and give examples.
 
-- Internet:
-- World wide web:
-- DNS:
-- Web server:
 - Browser:
+- DNS:
 - Domain:
-- Website:
-- Web App:
+- Internet:
 - IP address:
+- Web app:
+- Web server:
+- Website:
+- World wide web:
+
 
 Explain how the internet displays your website after you push your changes.
 
