@@ -10,7 +10,7 @@
 
 
 ## Release 0: Beginner Campaign
-Visit [Code Combat](http://codecombat.com/play) and complete each of the missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps every time you work through a challenge.  
+Visit [Code Combat](http://codecombat.com/play) and complete the first three missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps every time you work through a challenge.  
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 Write the title of each mission (as a comment) in your [my_solution.js](./my_solution.js) file. 

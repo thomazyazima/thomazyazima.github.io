@@ -54,3 +54,4 @@ If you are doing something like, collecting gold, then you would need to have go
 
 ## Release 5: Manipulate objects on the DOM (Optional)
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...
+
