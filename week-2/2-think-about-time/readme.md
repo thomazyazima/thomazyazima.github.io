@@ -4,7 +4,6 @@
 
 ## Learning Competencies
 - Research time management and productivity
-- Design a plan for getting work done during Phase 0
 - Explain "Time Boxing" and describe how to use it
 
 ## Summary
