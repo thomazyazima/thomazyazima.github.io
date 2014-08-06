@@ -4,8 +4,8 @@
 
 ## Learning Competencies
 - Identify and use web standards, semantic mark up, and HTML5
-- Create and style a 3-column webpage
-
+- Build a webpage using HTML5
+- Describe what a reset.css file does
 
 ## Summary
 
@@ -20,7 +20,7 @@ Do some research into standard practices of web design, Reset CSS, Normalize CSS
 
 
 ## Release 1: Apply
-Download these [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip).  Unzip the folder into [this directory](2-intermediate-html). Do the following exercises using the files in the "practice" folder. After you are done, compare your work with the files in the "completed" folder.
+Download these [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip). Unzip the folder into this (4-intermediate-html-css) directory. Do the following exercises using the files in the "practice" folder. After you are done, compare your work with the files in the "completed" folder. 
 
 - Add reset.css to your index.html file. What happens?
 - Update the header links to jump to sections
@@ -35,7 +35,7 @@ Answer the above questions in your [my_reflection.md](my_reflection.md) file.
 Make sure you can see all of your changes on your github.io site!
 
 ## Release 4: Pseudo Elements (Optional)
-##### a. Learn
+### a. Learn
 Helpful HTML/CSS resources:
 
 - [Overview of CSS fundamentals](http://learnlayout.com/no-layout.html)
@@ -48,7 +48,7 @@ do](http://css-tricks.com/pseudo-element-roundup/)
 - [Why and How to use Icon
 Fonts](http://www.vanseodesign.com/web-design/icon-fonts/)
 
-##### b. Experiment
+### b. Experiment
 Head to [FontAwesome](http://fontawesome.io/) and look around the
 documentation. Then prepare to add what you've learned to your website in your solo challenge.
 
