@@ -15,7 +15,7 @@
 
 Regardless of whether design is interesting to you or not, web design matters to end users of the website and business management.  It's important to know about so you can work more effectively with other teams in the organization. This process should also help you learn to separate different parts of a site (design vs. content, html vs. css, user interface vs. user experience) and learn the process of developing websites.
 
-In this challenge, you will making your [USERNAME].github.io site yours using the wireframe you made in the [Week 1 wireframing](../../week-1/8-wireframing) challenge. You'll also need to fill out the other pages of your site. 
+In this challenge, you will making your [USERNAME].github.io site yours using the wireframe you made in the [week 1 wireframing](../../week-1/8-wireframing) challenge. You'll also need to fill out the other pages of your site. 
 
 You may not use Bootstrap or any other design framework for your site. 
 
@@ -77,11 +77,11 @@ Now you can truly begin to appreciate CSS, which stands for **C**ascading **S**t
 
 Don't forget about Chrome Devtools for testing out your style changes and figuring out if you are selecting elements correctly.
 
-Reminder: Design can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
+Reminder: Designing and building a site can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
 
 ## Release 5: Testing and Delivery
 
-When you feel ready to publish your new, beautiful site, add your files to the stage, commit your changes, and push to master! Post your site on Twitter using #DBCmysite to ask for feedback from your peers! 
+When you feel ready to publish your new, beautiful site, add your files to the stage, commit your changes, and push to master! Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers! 
 
 Take a look at two other sites and give them feedback using the issues on their github.io once you're finished with your site. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
 
