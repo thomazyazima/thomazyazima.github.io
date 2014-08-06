@@ -40,7 +40,7 @@ But what do you think of it as? Consider the purpose, goals, target audience, an
 
 ## Release 2: Planning
 
-Reconsider the wireframe you created for your index.html in [week 1](../../week-1/8-wireframing). Do you need to make any changes to it based on what you learned about design? If so, make those changes to it. 
+Reconsider the wireframe you created for your index.html in [week 1](../../week-1/8-wireframing). Do you need to make any changes to it based on what you learned about design? If so, make those changes. 
 
 While you're at it, you should also make a basic wireframe for the other pages on your site including, but not limited to pages for:
  - About me
