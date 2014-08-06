@@ -15,7 +15,7 @@
 
 Regardless of whether design is interesting to you or not, web design matters to end users of the website and business management.  It's important to know about so you can work more effectively with other teams in the organization. This process should also help you learn to separate different parts of a site (design vs. content, html vs. css, user interface vs. user experience) and learn the process of developing websites.
 
-In this challenge, you will making your [USERNAME].github.io site yours using the wireframe you made in the [6-wireframing](../6-wireframing) challenge. You'll also need to fill out the other pages of your site. 
+In this challenge, you will making your [USERNAME].github.io site yours using the wireframe you made in the [Week 1 wireframing](../../week-1/8-wireframing) challenge. You'll also need to fill out the other pages of your site. 
 
 You may not use Bootstrap or any other design framework for your site. 
 
