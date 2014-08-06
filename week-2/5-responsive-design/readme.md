@@ -11,24 +11,24 @@
 
 ## Summary
 
-It is almost impossible to ignore responsive design in todays web development scene. It is a very popular buzzword and for good reason. With the mobile and tablet market rising and more and more people accessing the web using mobile screens [Pew survey on cell phone access and usage](http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/) it is important that your website be usable on screens other than the desktop monitor.
+It is almost impossible to ignore responsive design in today's web development scene. It is a very popular buzzword and for good reason. With the mobile and tablet market rising and more people accessing the web via mobile devices, according to the [Pew survey on cell phone access and usage](http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/), it is important that your website be usable on screens of all sizes.
 
 The key to this is something call media queries, which allow you to change CSS styles based on screen width and height, color, aspect ratios an many others [MDN media queries resource](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries).
 
 
 ## Release 0: Research
 
-Lets get a good foundation by looking at some good resources available about responsive and fluid design
+Let's get a good foundation by looking at some good resources available about responsive and fluid design
 
-- Read: [Beginners guide to responsive web design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design) Team Treehouse has a great series about building a responsive website if you want to start a subscription with them.
+- Read: [Beginners guide to responsive web design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design) - Team Treehouse has a great series about building a responsive website if you want to start a subscription with them.
 
 - Read: [Chrome mobile emulation](https://developer.chrome.com/devtools/docs/mobile-emulation) Chrome allows you to change the user agent so you can see what the website looks like with different devices.
 
 - Read: [UXer asks the difference between fluid and responsive design](http://ux.stackexchange.com/questions/24406/what-is-the-exact-difference-between-fluid-and-responsive-design)
 
-- Read: [Fluid layout project](http://www.creativebloq.com/css3/create-fluid-layouts-html5-and-css3-3142768) This is a
+- Read: [Fluid layout project](http://www.creativebloq.com/css3/create-fluid-layouts-html5-and-css3-3142768)
 
-This website [Liquidapsive](http://liquidapsive.com/) allows you to switch what kind of layout format you would like to use. Liquid, Adaptive, Respnosive or Static. It is a great integration of all you have read so far.
+- [Liquidapsive](http://liquidapsive.com/) allows you to switch what kind of layout format you would like to use. Liquid, Adaptive, Respnosive or Static. It is a great integration of all you have read so far.
 
 
 ## Release 1: Apply
