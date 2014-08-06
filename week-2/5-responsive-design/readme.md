@@ -28,7 +28,7 @@ Let's get a good foundation by looking at some good resources available about re
 
 ## Release 1: Apply
 
-Now that we have a good base in theory, lets put this theory to use in converting this sample static webpage to a more modern web friendly format.
+Now that we have a good base in theory, lets put it to use in converting this sample static webpage to a more modern web friendly format.
 
 Open the starting-point.html in your browser and see what it looks like. Resize the screen and see how it looks when you go to different screen resolutions. If you open your chrome dev tools when you do this, you can see the pixel dimensions as you resize. Notice where things start to fall apart
 
