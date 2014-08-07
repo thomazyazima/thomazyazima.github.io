@@ -40,6 +40,15 @@ Think about how you want the website to look from a desktop monitor, a cell phon
 
 If you are using chrome, you can open the Chrome Dev Tools and start resizing the browser window. This will display the pixel dimensions in the top right of the screen.
 
+Here is a checklist to get you started:
+
+  - change static pixel dimensions to percentages
+  - move navigation links (Home, Profile, Stuff, Pictures) from side bar to top bar under header
+  - Optimize Picture width for smaller screen sizes. We should be able to see the whole picture and not scroll
+  - make the text centered and with good spacing on either side to facilitate reading on the mobile screen
+  - Make the title HEADER fit smaller screens
+
+
 Here is a comprehensive resource on media queries: [MDN docs on media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 
 Here is a website that compiles examples of great usage of media queries: [mediaqueri.es](http://mediaqueri.es/)
