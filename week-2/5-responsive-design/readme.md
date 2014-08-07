@@ -48,6 +48,17 @@ Here is a checklist to get you started:
   - make the text centered and with good spacing on either side to facilitate reading on the mobile screen
   - Make the title HEADER fit smaller screens
 
+This is my example!
+
+Desktop size:
+
+![desktop](http://i.imgur.com/ICS4jYi.png)
+
+Mobile:
+
+![mobile](http://i.imgur.com/78f8fF3.png)
+
+
 
 Here is a comprehensive resource on media queries: [MDN docs on media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 
