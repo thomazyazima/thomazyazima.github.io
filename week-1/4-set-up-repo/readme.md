@@ -34,6 +34,8 @@ We are going to create a repository to host your very own website! You'll be usi
 6. 
 ![enable issues](../imgs/enable-issues.png)
 
+![enable issues](../imgs/enable-issues.png)
+
 6. **Do a celebration dance!** <br />:dancers: :tada: :dancer:
 
 ![You have a repo](../imgs/github-repo3.jpg)

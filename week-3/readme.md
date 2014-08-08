@@ -10,12 +10,12 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Before you begin:
-- [Install Node.js](reading-material/install_node.md)
+- You should have installed Node.js already. If you haven't please revisit the [computer set up](../week-1/1-computer-setup) instructions to install it.
 - You may choose to read through [JavaScript Reading Material](reading-material) before starting the challenges.
 
 ## Challenges
-1. ["Git" Started](1-git-started)
-2. [Code Combat](2-code-combat)
+1. [Code Combat](1-code-combat)
+2. [Eloquent JavaScript](2-eloquent-js)
 3. [Javascript Variables and Objects](3-js-variables-objects)
 4. [Manipulating JavaScript Objects](4-manipulating-js-objects)
 5. [Design Your Own Code Combat Mission- SOLO CHALLENGE](5-design-cc-mission-solo-challenge)

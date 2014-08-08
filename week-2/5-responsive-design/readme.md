@@ -4,41 +4,33 @@
 
 ## Learning Competencies
 - Describe responsive design
-- Determine whether responsive design is good or bad practice
-- Make a small site responsive
+- Determine good and bad practices in responsive design
+- Convert a small site to become responsive responsive
 - Compare responsive design and fluid layouts
 
 
 ## Summary
 
-We think of the web and websites as mostly static. They look the way
-they look. But it's really more complicated than that.  Browsers and
-operating systems make things look different. Then, smart phones arrived
-and made everything crazy.  Web designers and developers spend a lot of
-time thinking about how to make web pages usable in all the possible
-formats (phones, tablets, web) while keeping them maintainable (i.e. not
-taking a billion years to make small changes). Responsive design is one
-of the ways developers have created to make sites usable, maintainable, and
-adaptable to new devices and browsers.
+It is almost impossible to ignore responsive design in today's web development scene. It is a very popular buzzword and for good reason. With the mobile and tablet market rising and more people accessing the web via mobile devices, according to the [Pew survey on cell phone access and usage](http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/), it is important that your website be usable on screens of all sizes.
+
+The key to this is something call media queries, which allow you to change CSS styles based on screen width and height, color, aspect ratios an many others [MDN media queries resource](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries).
 
 
-## Release 0: Research before you pair
+## Release 0: Research
 
-Research responsive web design and fluid layouts. What are they? Why are they used? We've put a couple resources below, but there are a ton of great resources online waiting for you to find them! Then take a look at the accompanying HTML file to see what information you'll want to include. Keep the information close so you have it ready when you pair!
+Let's get a good foundation by looking at some good resources available about responsive and fluid design:
 
-- Slides: [Introduction to Responsive Web Design and Compatability](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class4.html#/1)
-- Read: [Beginners guide to responsive web design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
-- Read: [Fixed vs. Fluid vs. Elastic Layout: What’s The Right One For You?](http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/)
-- Read: [Responsive Web Design: Fluid Layouts](http://www.sitepoint.com/responsive-web-design-fluid-layouts/)
+- [Beginners guide to responsive web design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design) - Team Treehouse has a great series about building a responsive website if you want to start a subscription with them.
+- [UXer asks the difference between fluid and responsive design](http://ux.stackexchange.com/questions/24406/what-is-the-exact-difference-between-fluid-and-responsive-design)
+- [Fluid layout project](http://www.creativebloq.com/css3/create-fluid-layouts-html5-and-css3-3142768)
+- [Liquidapsive](http://liquidapsive.com/) allows you to switch what kind of layout format you would like to use. Liquid, Adaptive, Respnosive or Static. It is a great integration of all you have read so far.
+- [Chrome mobile emulation](https://developer.chrome.com/devtools/docs/mobile-emulation) Chrome allows you to change the user agent so you can see what the website looks like with different devices.
 
-Additional required resources for you to consider:
-- Slides: [Web Accessibility](http://girldevelopit.github.io/girldevelopit-rdu-access/classslides.html#/)
-- Read: [Change your browsers user agent](http://osxdaily.com/2013/01/16/change-user-agent-chrome-safari-firefox/) (If you're using the latest version of Chrome, you'll want to look at [Mobile Emulation](https://developer.chrome.com/devtools/docs/mobile-emulation))
+## Release 1: Apply
 
+Now that we have a good base in theory, lets put it to use in converting this sample static webpage to a more modern web friendly format.
 
-## Release 1: Share your knowledge with your Pair
-
-Get together with your pair. Using the accompanying starting-point.html file, add the information you learned from your research (don't forget to cite your sources in the "references" section). Discuss your understanding of the concepts with your pair to make sure you are both on the same page.
+Open the starting-point.html in your browser and see what it looks like. Resize the screen and see how it looks when you go to different screen resolutions. If you open your chrome dev tools when you do this, you can see the pixel dimensions as you resize. Notice where things start to fall apart
 
 ## Release 2: Responsify with your pair
 
@@ -48,13 +40,31 @@ Think about how you want the website to look from a desktop monitor, a cell phon
 
 If you are using chrome, you can open the Chrome Dev Tools and start resizing the browser window. This will display the pixel dimensions in the top right of the screen.
 
+Here is a checklist to get you started:
+
+  - change static pixel dimensions to percentages
+  - move navigation links (Home, Profile, Stuff, Pictures) from side bar to top bar under header
+  - Optimize Picture width for smaller screen sizes. We should be able to see the whole picture and not scroll
+  - make the text centered and with good spacing on either side to facilitate reading on the mobile screen
+  - Make the title HEADER fit smaller screens
+
+This is my example!
+
+Desktop size:
+
+![desktop](http://i.imgur.com/ICS4jYi.png)
+
+Mobile:
+
+![mobile](http://i.imgur.com/78f8fF3.png)
+
+
+
 Here is a comprehensive resource on media queries: [MDN docs on media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 
 Here is a website that compiles examples of great usage of media queries: [mediaqueri.es](http://mediaqueri.es/)
 
 Here is a more practical guide: [alistapart on media queries](http://alistapart.com/article/responsive-web-design) It is old but there is still a lot of good info there.
-
-Cross browser normalization can be a pain, check out how well your website works on different browsers :[QuirkTools](http://quirktools.com/screenfly)
 
 ## Release 3: Reflect (individually)
 Reflect on your learning in the "reflection" div on your site. This section should be completed on your own, but you should style it with your pair.
