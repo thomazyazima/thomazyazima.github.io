@@ -2,7 +2,7 @@
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
-##QUIZ
+##Practice
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
   * Javascript Debugging
