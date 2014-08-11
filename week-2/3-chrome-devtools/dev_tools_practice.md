@@ -15,7 +15,10 @@
   * Tweak the background color to white.
   * Tweak the height of the side bar that contains the logo.  Shrink it down to 85px.
   * Roll over the navigation links.  When you hover over them, they dissapear.  Let's change the hover color to black instead.
-  * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
+  * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot:
+  
+  ![postmachina](imgs/postmachina-img.png)
+
   * Upload your own image to the imgs directory in the `3-chrome-devtools` directory.  It should match the image above.  Do the same, and don't take a screenshot of your whole desktop, just the browser window. Display your image inline here.(This is part of the challenge.)
   <!-- Image here-->
 
