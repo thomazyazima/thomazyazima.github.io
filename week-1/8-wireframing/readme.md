@@ -62,7 +62,7 @@ You will be using this site to promote yourself when you finish Dev Bootcamp, so
   - About me
   - Your projects
   - Anything else you want to include
-  - 
+
 **PLEASE NOTE:** You will not actually be coding up your index in week 1, we leave that for next week, so don't worry about making it any time this week. 
 
 ## Release 4: Add your wireframes to your reflection.
