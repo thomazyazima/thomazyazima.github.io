@@ -16,10 +16,10 @@ Create a new HTML file and use the date to name it `week2_technical.html`. Copy 
 ## Release 1: Select a Topic
 Research one of the following topics:
 
-- What is the difference between Margin, Border, and Padding?  #DBCMBP
-- What are the best practices associated with using classes vs. ids? #DBCCvID
-- What are the differences between relative, absolute, and fixed positioning? #DBCRAFP
-- What does it mean to display inline vs inline blocks? #DBCIvIB
+- What is the difference between Margin, Border, and Padding?  
+- What are the best practices associated with using classes vs. ids? 
+- What are the differences between relative, absolute, and fixed positioning? 
+- What does it mean to display inline vs inline blocks? 
 
 ## Release 2: Blog!
 Write a blog post that teaches others how and when to use each thing. There is no length requirement, but it should show off the knowledge you gained this week. You should show examples of code and screen shots to help teach others!
@@ -36,7 +36,7 @@ Make sure the index of your site is maintained, nice, and professional. This is 
 
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
 
-Tweet your blog post using the hashtags associated with each topic. 
+Tweet your blog post using the hashtag **#DBCCSS**.
 
 ## Release 5: Read
 
