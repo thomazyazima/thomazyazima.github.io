@@ -32,7 +32,7 @@ Download these [practice files](http://girldevelopit.github.io/gdi-core-intermed
 Answer the above questions in your [my_reflection.md](my_reflection.md) file.
 
 ## Release 3: Commit and push your changes!
-Make sure you can see all of your changes on your github.io site!
+Push your changes to your phase-0-unit-1 repository. 
 
 ## Release 4: Pseudo Elements (Optional)
 ### a. Learn
