@@ -16,7 +16,7 @@
   you to get you prepared for an exciting time at DBC. 
 
   This GPS is designed to help you examine pair programming and the roles of driver and 
-  navigator. Your goal is to design a single-page website that
+  navigator. Your goal is to design and build a single-page website that
   introduces the concept of pair programming!
   
   **Since this is your first pairing session, it is important
@@ -24,6 +24,8 @@
 
 ## Release 0: Wireframe the site
 Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look. 
+
+If you want to use a collaborative drawing site, you can use [flockdraw](http://flockdraw.com). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share)
 
 You'll need sections for:
 - Title
@@ -33,7 +35,7 @@ You'll need sections for:
 - Compare Driver and Navigator
 - Anything else you want!
 
-## Release 1: Start with HTML
+## Release 1: HTML
 
 Open a stypi file (only one person needs to do this) and name it with a `.html` extension (You will be able to see it in stypi by either hovering or clicking on the "eye" in the top right of the navigation bar). Share the URL with your pair and guide. 
 
