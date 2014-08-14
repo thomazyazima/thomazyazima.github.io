@@ -25,7 +25,7 @@ Download these [practice files](http://girldevelopit.github.io/gdi-core-intermed
 - Add reset.css to your index.html file. What happens?
 - Update the header links to jump to sections
 - Make links change color on hover
-- Change the font (@fontface) for elements on the site.
+- Change the font for elements on the site. You can use @fontface or import fonts from other sites like [Google fonts](https://www.google.com/fonts). 
 - Change some elements to semantic HTML5 elements (i.e. header, section, etc)
 
 ## Release 2: Reflect
