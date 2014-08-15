@@ -35,7 +35,7 @@ When you are finished with all of the campaigns, answer the following questions.
   - What is the point of the semicolons?
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md). ***NOTE: Reflections are mandatory!***
+In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
 
 ## Release 5: Give Code Combat Feedback (Optional)
 So the people who developed Code Combat are personal friends of mine, and they are working hard to make Code Combat better. But they are the first to admit it's not perfect. Now that you've had a bit of experience with their site, give them feedback on it! George requests you email feedback directly to him at <George@codecombat.com>. Practice your feedback skills by making it actionable, specific, and kind. Giving feedback on sites is a great way to engage with the larger tech community if the recipients desire it, so be generous! Oh, and you might want to introduce yourself as a Dev Bootcamp student.
