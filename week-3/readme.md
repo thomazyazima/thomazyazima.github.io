@@ -10,7 +10,6 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Before you begin:
-- You should have installed Node.js already. If you haven't please revisit the [computer set up](../week-1/1-computer-setup) instructions to install it.
 - You will be using node.js to run JavaScript through the terminal. Please read [install node](reading-material/install_node.js) to read about why we are using node.
 
 ## Challenges
