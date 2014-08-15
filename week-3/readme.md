@@ -43,5 +43,5 @@ You need to submit your work on the Unit 1, Week 3 submission form [apply.devboo
 - [JavaScript Object Types](reading-material/object_types.md)
 - [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.*
-- [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) Understanding this well will be very beneficial.
+- [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
 
