@@ -25,8 +25,7 @@ Skip the sections on closure and recursion
 
 You may skip the sections on "The lycanthrope’s log", "Computing Correlation", and "Further Arrayology" to "The Global Object." Read the summary.
 
-Now you should be ready to face the next challenges!
-If you want to continue reading, we have no problem with that. You can even work through the exercises, but this is the end of what you will need for this week. Work to get a basic understanding of JavaScript fundamentals before you go deeper into the book.
+
 
 ## Release 5: Evaluate Code Combat
 Now that you know a little bit about JavaScript, go to the Taunt the Guards challenge on [Code Combat](http://codecombat.com/play/level/taunt-the-guards).
@@ -39,6 +38,9 @@ If you hover over the `say` method, what needs to be used in order to call the m
 
 You can choose whether to complete the actual challenge or not.
 
+Now you should be ready to face the next challenges!
+
+If you want to continue reading this book, we have no problem with that. You can even work through the exercises, but this is the end of what you will need for this week. Work to get a basic understanding of JavaScript fundamentals before you go deeper into the book.
 
 ## Release 6: [Reflection](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
