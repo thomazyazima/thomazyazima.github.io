@@ -4,7 +4,9 @@
 
 
 ## Learning Competencies
--
+- Compare Ruby and JavaScript Syntax
+- Define local variables in JavaScript
+- Create objects of different types in JavaScript
 
 ## Summary
 This book comes highly recommended by our staff, so we're asking you to read through it and answer some questions before starting the next challenges.
