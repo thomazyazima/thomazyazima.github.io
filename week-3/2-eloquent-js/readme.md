@@ -23,18 +23,17 @@ Skip the sections on closure and recursion
 
 ## Release 4: [Ch. 4 Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 
-You may skip the sections on "The lycanthrope’s log", "Computing Correlation", and "Further Arrayology" to "The Global Object." Read the summary.
+You may skip the following sections:
+- The lycanthrope’s log
+- Computing Correlation
+- from Further Arrayology to The Global Object
+
+Read the chapter summary.
 
 
 
 ## Release 5: Evaluate Code Combat
-Now that you know a little bit about JavaScript, go to the Taunt the Guards challenge on [Code Combat](http://codecombat.com/play/level/taunt-the-guards).
-
-Hover over `this` in the planning/spell section. What is it in terms of JavaScript? What does it include?
-
-What are the available spells in terms of JavaScript? (don't list them out)
-
-If you hover over the `say` method, what needs to be used in order to call the method?
+Now that you know a little bit about JavaScript, go to the Taunt the Guards challenge on [Code Combat](http://codecombat.com/play/level/taunt-the-guards) and answer the questions in the [my_solution.js](my_solution.js)file.
 
 You can choose whether to complete the actual challenge or not.
 

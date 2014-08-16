@@ -6,7 +6,7 @@ I worked on this challenge [by myself, with:]
 
 - Did you learn anything new about JavaScript or programming in general?
 
-- Did any of it go over your head? If so, what?
+- What do you still feel uncomfortable with?
 
 ## Release 1: Chapter 1: Values, Types, and Operators
 
@@ -58,6 +58,8 @@ I worked on this challenge [by myself, with:]
 
 - When should you use functions?
 
+- What is a function declaration?
+
 - Complete the minimum exercise.
 
 ```javascript
@@ -65,6 +67,8 @@ I worked on this challenge [by myself, with:]
 // your code here
 
 ```
+
+
 
 ## Release 4: Data Structures: Objects and Arrays
 
@@ -82,11 +86,17 @@ I worked on this challenge [by myself, with:]
 
 ## Release 5: Evaluate Code Combat
 
-- Hover over `this` in the planning/spell section. What is it in terms of JavaScript? What does it include?
+- Hover over `this` in the planning/spell section. Think programming-wise rather than in terms of the game.
 
-- What are the available spells in terms of JavaScript? (don't list them out)
+- What kind of JavaScript thing are the spells? (don't list them out)
 
-- If you hover over the `say` method, what needs to be used in order to call the method?
+- What does `say` need in order to be invoked? Write an example of calling the say method.
+
+```javascript
+
+// your fancy say invokation here
+
+```
 
 ## Release 6: Reflection
 Write your reflection here.
