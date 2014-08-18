@@ -32,7 +32,7 @@ I worked on this challenge [by myself, with:]
 - What does console.log do and when would you use it?
 
 - Write a program that asks for a user to input their favorite food. If they input a string, say: "Hey! That's my favorite too!" If they put something other than a string, return "I wouldn't eat that."
- (Test it out in node)
+ (Test it out in the browser console. Node does not support the `prompt` function).
 
 ```javascript
 
