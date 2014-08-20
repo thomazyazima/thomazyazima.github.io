@@ -73,7 +73,7 @@ In the reflection section of your formerly named 'my_solution.js` file, reflect 
 - Was your group successful in passing the tests? 
 - What did you learn about writing user stories, pseudocoding, writing code, refactoring, etc.?
 
-
+![3-person](/week-3/imgs/3-person.jpg)<br><br><br>
 ![4_person.jpg](/week-3/imgs/4_person.jpg)<br><br><br>
 ![5_person.jpg](/week-3/imgs/5_person.jpg)<br><br><br>
 <!-- ![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br> -->
