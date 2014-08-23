@@ -34,6 +34,3 @@ Again, the link will be added to the blog-posts/index.html page next week.
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
 Tweet your blog post using #DBCFireside
-
-## Release 5: Read
-Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
