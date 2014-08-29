@@ -92,7 +92,9 @@ Now you have Rbenv! Sweet!
 ## Release 8: Install Ruby 2.0.0
 Type: ```rbenv install 2.0.0-p481```
 
-Now, you need to set the default ruby in your computer to the ruby we just installed. Type: ``` rbenv global 2.0.0-p481```
+Now, you need to set the default ruby in your computer to the ruby we just installed. 
+
+Type: ``` rbenv global 2.0.0-p481```
 
 NOTE: You just installed Ruby 2.0.0 as your default. When you are reading the Ruby Docs, make sure you are referring to this version, NOT Ruby 2.1.0.
 

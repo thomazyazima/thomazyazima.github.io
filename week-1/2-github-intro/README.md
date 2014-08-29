@@ -16,7 +16,7 @@ Web Developers use tools to track their progress and create backups. GitHub is a
 ## Release 0: GitHub Vocabulary
 
 #### Repositories
-You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders and files. If you take a look at [phase-0-unit-1](../../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "readme.md." Github displays readme files on the main page of a repository by default.
+You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders and files. If you take a look at [phase-0-unit-1](../../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "README.md." Github displays readme files on the main page of a repository by default.
 
 ![repository-main](../imgs/repository-main.png)
 
