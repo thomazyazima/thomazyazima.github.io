@@ -1,8 +1,8 @@
-# JavaScript 
+# JavaScript
 For most of you, JavaScript is a completely new language. Please read through the following two resources:
 
 1. [Object Types](object_types.md)
-2. [JavaScript Introduction](javascript_intro_lab/readme.md)
+2. [JavaScript Introduction](javascript_intro_lab/README.md)
 
 
 ## Additional Resources:

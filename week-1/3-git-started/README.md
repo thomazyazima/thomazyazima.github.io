@@ -44,7 +44,7 @@ Now you should see some stuff execute, it looks like you're hacking a mainframe 
 
 After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and open it in Sublime.
 
-Once you have it open in sublime, you can see all of the files and directories. Find the directory this file is in, and open the "readme.md" file. From now on, you should read all instructions and complete all challenges in sublime. This will help you read and write markdown as well as better understand the file tree. Take a look at the links to images, for example. Do you know what the `../` does? If not, find out!
+Once you have it open in sublime, you can see all of the files and directories. Find the directory this file is in, and open the "README.md" file. From now on, you should read all instructions and complete all challenges in sublime. This will help you read and write markdown as well as better understand the file tree. Take a look at the links to images, for example. Do you know what the `../` does? If not, find out!
 
 ## Release 2: Git in the Command Line
 Read/Watch any of the resources listed below. Work to get a feel for how git and Github works. Then make sure you use it from now on! Make sure to commit early and often. If you make any mistakes, you can always revert to any commit, so commit often!
