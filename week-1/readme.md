@@ -8,24 +8,23 @@ Please keep track of how much time you are spending on Phase 0 challenges, we'll
 
 When you have questions, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone and stuck during Phase 0. Please reach out to us at phase0@devbootcamp.com if you do.
 
-As a note, it is vital to your success from this point on that you know how to navigate your terminal. If you don't feel comfortable with this yet, go through [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) again.
 
 ### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click.
 
-#### 1. [Computer Setup](1-computer-setup) *Make sure you go through this first*
-#### 2. [Introduction to Github](2-github-intro)
-#### 3. [Git Started](3-git-started)
-#### 4. [Set Up Repo](4-set-up-repo)
-#### 5. [Web Basics](5-web-basics)
-#### 6. [Beginning HTML](6-beginning-html)
-#### 7. [Beginning CSS](7-beginning-css)
-#### 8. [Wireframing](8-wireframing)
-#### 9. [Blog template SOLO CHALLENGE](9-blog-template-solo-challenge)
-#### 10. [Introduction to Twitter](10-twitter-intro.md)
-#### 11. [Technical Blog](11-technical-blog)
-#### 12. [Cultural Blog](12-cultural-blog.md)
-#### 13. [Get to know your group](13-get-to-know-your-group.md)
+#### 1. [The Command Line](0-command-line)
+#### 2. [Computer Setup](1-computer-setup)
+#### 3. [Introduction to Github](2-github-intro)
+#### 4. [Git Started](3-git-started)
+<!-- Might need an additional git challenge? -->
+#### 5. [Set Up Repo](4-set-up-repo)
+#### 6. [Web Basics](5-web-basics)
+<!-- Not sure about keeping this challenge as is - maybe need to combine 5-6 and take out research -->
+#### 7. [Introduction to Twitter](10-twitter-intro.md)
+#### 8. [Technical Blog]()
+#### 9. [Cultural Blog](12-cultural-blog.md)
+#### 10. [Think about time](2-think-about-time)
+#### 11. [Get to know your group](13-get-to-know-your-group.md)
 
 ## Submitting your work
 
