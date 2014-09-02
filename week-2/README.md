@@ -2,27 +2,8 @@
 
 <!-- Please do not start week 2. We will release it with changes at least by the Friday before week 2 begins. -->
 
-Week 2: HTML/CSS
-   Competencies to cover:
-Describe and discuss the benefits of wireframing
-Set up an HTML page with the necessary tags
-Use HTML tags to add content to a site
-Position and format elements using CSS
-Compare and use classes and ids
-
-   Challenges
-
-- Wireframing (2 hours)
-- Intro to HTML (2.5 hours)
-- Intro to CSS (2.5 hours)
-- Create a blog template (1 hour)
-- CSS Positioning (1 hour)
-- Design and Personal website (github.io) (4 hours)
-- Intermediate HTML/CSS (bonus?)
-- Blog assignments - 1 technical/ 1 cultural (2 hours)
-- GPS 1.1 (1 hour) - Git challenge? TBD
-
-This week you will go into more depth on HTML and CSS and get more practice. You will also get to play with Dev Tools and consider the implications of responsive Design. Overall, this week's curriculum should give you the opportunity to go into more depth with these technologies and have fun solidifying your knowledge!
+This week's material covers web design, HTML, and CSS and will get you building your own website.
+<!-- maybe include more here -->
 
 
 ## Challenges
