@@ -2,18 +2,39 @@
 
 <!-- Please do not start week 2. We will release it with changes at least by the Friday before week 2 begins. -->
 
+Week 2: HTML/CSS
+   Competencies to cover:
+Describe and discuss the benefits of wireframing
+Set up an HTML page with the necessary tags
+Use HTML tags to add content to a site
+Position and format elements using CSS
+Compare and use classes and ids
+
+   Challenges
+
+- Wireframing (2 hours)
+- Intro to HTML (2.5 hours)
+- Intro to CSS (2.5 hours)
+- Create a blog template (1 hour)
+- CSS Positioning (1 hour)
+- Design and Personal website (github.io) (4 hours)
+- Intermediate HTML/CSS (bonus?)
+- Blog assignments - 1 technical/ 1 cultural (2 hours)
+- GPS 1.1 (1 hour) - Git challenge? TBD
+
 This week you will go into more depth on HTML and CSS and get more practice. You will also get to play with Dev Tools and consider the implications of responsive Design. Overall, this week's curriculum should give you the opportunity to go into more depth with these technologies and have fun solidifying your knowledge!
 
 
 ## Challenges
 1. [Cultural Assignment](1-cultural-assignment.md)
-2. [Think about Time](2-think-about-time)
-3. [Chrome Dev Tools](3-chrome-devtools)
-4. [Intermediate HTML and CSS](4-intermediate-html-css)
-5. [Responsive Web Design](5-responsive-design) **Mandatory Pairing Challenge - read and research before pairing**
-6. [Your Own Website - SOLO CHALLENGE!](6-your-website-solo-challenge)
-7. [Technical Blog](7-technical-blog.md)
-8. [GPS 1.1](8-gps1.1) **DO NOT LOOK UNTIL YOUR FIRST GUIDED PAIRING SESSION!**
+2. [Wireframing](2-wireframing)
+3. [Beginning HTML](3-beginning-html)
+4. [Beginning CSS](4-beginning-css)
+5. [Create a Blog Template](5-blog-template)
+6. [Chrome Dev Tools and Positioning](6-chrome-devtools)
+7. [Your Own Website - SOLO CHALLENGE!](7-your-website-solo-challenge)
+8. [Technical Blog](8-technical-blog.md)
+9. [BONUS challenges](9-BONUS-challenges)
 
 
 ## Fetch DBC's Changes
