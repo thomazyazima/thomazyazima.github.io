@@ -5,10 +5,10 @@
 - Ability to copy Github files to your computer
 
 ## Release 0
-We created this handy video walking through the process of forking and cloning your curriculum. CHeck it out here **INSERT YOURTUBE LINK TO FORKANDLCONE**.
+We created this handy video walking through the process of forking and cloning your curriculum. CHeck it out here **INSERT VIMEO LINK TO FORKANDLCONE**.
 
 ## Release 1
-Now that you have SEEN it, lets put our knowledge to the test. Fork the phase-0-unit-1 repo into your collection. For good measure, delete your newly forked repo and fork it again. It is good to walk through the process a couple times to make sure you understand it. If you can do it without referencing the video you are in a good spot.
+Now that you have seen it done, lets put our knowledge to the test. Fork the phase-0-unit-1 repo into your collection. For good measure, delete your newly forked repo and fork it again. It is good to walk through the process a couple times to make sure you understand it. If you can do it without referencing the video you are in a good spot.
 
 We have these beautiful files on github.com just waiting to be modified. Lets bring them to your computer so we can start modifying them. Clone your forked repo using the instructions from the video.
 
