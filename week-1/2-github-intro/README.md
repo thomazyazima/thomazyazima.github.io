@@ -58,7 +58,9 @@ Confused about the difference between git and GitHub? Try one of these articles:
 - [Git vs. GitHub for Dummies](http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/)
 - [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
 
-## Release 3: Fork this Repository
+** MAKE SURE TO CHECK** forking is going into its own challenge.
+
+<!-- ## Release 3: Fork this Repository
 NOTE: I'm sure you've chosen an excellent and memorable username for GitHub, so don't forget it! When you see "[USERNAME]" in this guide, replace it with your username. For example, my username is "mbtomori".  So "github.com/**[USERNAME]**" becomes "github.com/**mbtomori**".
 
 Now that you can navigate GitHub and know a bit about version control, git, and GitHub, it's time to get your own personal copy of the curriculum!
@@ -76,7 +78,7 @@ Finally, you will need to enable issues as a feature so other students can leave
 ![Enable Issues](../imgs/enable-issues.png)
 
 **Please note** Your repository will be private by default. That is intentional. But others in Phase 0 will have access to see your code and will be able to give you feedback because you are all on the same team (and have issues enabled). Please do not make your repository public.
-
+ -->
 
 ## Release 4: Reflection
 Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience.
