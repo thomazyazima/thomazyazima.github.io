@@ -1,4 +1,4 @@
-# Git Remote Challenge
+# Git Remote and merge Challenge
 
 ## Learning Objectives
 
@@ -40,6 +40,10 @@ If Maria specifies fetching from a specific branch, make sure to note that with 
 git fetch upstream <BRANCH>
 
 git merge upstream/<BRANCH>
+
+If you run into a merge conflict, use this video to guide you through fixing the issue.
+
+**VIMEO MERGE CONFLICT VIDEO GOES HERE**
 
 ## Reflection
 
