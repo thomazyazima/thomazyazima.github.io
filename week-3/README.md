@@ -19,7 +19,7 @@ Challenges:
 - GPS 1.2 - HTML/CSS Challenge (1 hour)
 
 
-#### 1.
+#### 1. [Introduction to Programming]()
 #### 2.
 #### 3.
 #### 4.
