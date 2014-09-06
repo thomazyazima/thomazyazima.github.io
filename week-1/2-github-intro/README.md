@@ -31,7 +31,16 @@ Challenges will be contained in directories or individual files. You can determi
 Don't overthink the web version of github too much. It's a very similar structure to a computer's file structure you already know.
 
 #### Branches
-Instructions for current curriculum (i.e. the unit you are currently in) is stored on the master branch (i.e. main, working branch) of each Phase 0 repository. When Unit 1 is over, we will make a branch that will be a record of the final state of the unit curriculum.
+
+In git, a branch is a copy of the code from where you branched from. For instance if you branched from the master branch, you new branch would look exactly like the master. This allows you to introduce changes without changing the state of the master, which should always be working. After you have added the features that you want, you can merge your changes with the master, or if you do not own the repo, do a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request.
+
+You can see your local branches by typing:
+
+`git branch`
+
+If you want to see your local and remote branches, type:
+
+`git branch -a`
 
 ![repository-branches](../imgs/repository-branches.png)
 
@@ -39,13 +48,15 @@ Instructions for current curriculum (i.e. the unit you are currently in) is stor
 
 ![repository-commits-1](../imgs/repository-commits-1.png)
 
-Commits are records of changes. It's kind of like saving your work, only you get to associate your changes with a message. The great thing about git is that you can revert back to any previous commit. So say I'm working on a project and accidentally delete a directory that I didn't mean to, and I commit the change and push it to the master branch. Major oops in programs like Microsoft Word or Excel. But GitHub is great, because I can just go back to the previous commit. Because you may have to do this, it's good to commit early and often.
+A commit is a snapshot of your code that you can go back to at any time. Check out what the commit log looks like for the devbootcamp curriculum repo!
+
+We will talk more about commits in the tracking changes challenge.
 
 ![repository-commits-2](../imgs/repository-commits-2.png)
 
 ## Release 1: What is git?
 
-GitHub uses git for version control. Go through the following resources to learn a bit about verson control and git.
+GitHub uses git for version control. Go through the following resources to learn a bit about what that means.
 
 - Read: [Version Control](http://skillcrush.com/2013/02/11/version-control/)
 - Read: Skillcrush's Git Series [Git](http://skillcrush.com/2013/02/18/git/) and [Getting Started with Git](http://skillcrush.com/2013/02/20/get-started-working-with-git/)
@@ -58,27 +69,6 @@ Confused about the difference between git and GitHub? Try one of these articles:
 - [Git vs. GitHub for Dummies](http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/)
 - [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
 
-** MAKE SURE TO CHECK** forking is going into its own challenge.
-
-<!-- ## Release 3: Fork this Repository
-NOTE: I'm sure you've chosen an excellent and memorable username for GitHub, so don't forget it! When you see "[USERNAME]" in this guide, replace it with your username. For example, my username is "mbtomori".  So "github.com/**[USERNAME]**" becomes "github.com/**mbtomori**".
-
-Now that you can navigate GitHub and know a bit about version control, git, and GitHub, it's time to get your own personal copy of the curriculum!
-
-Click the "Fork" button at the top right of this page.
-
-![Repo to Fork](../imgs/repo-to-fork.jpg)
-
-This will make a copy of the unit 1 curriculum repository into your personal GitHub account. This will be where you add reflections and your challenge code. After you click fork, you should be taken from the Devbootcamp.com/phase-0-unit-1 repo to [USERNAME]/phase-0-unit-1.
-
-![Forked Repo](../imgs/forked-repo.jpg)
-
-Finally, you will need to enable issues as a feature so other students can leave you feedback.
-
-![Enable Issues](../imgs/enable-issues.png)
-
-**Please note** Your repository will be private by default. That is intentional. But others in Phase 0 will have access to see your code and will be able to give you feedback because you are all on the same team (and have issues enabled). Please do not make your repository public.
- -->
 
 ## Release 4: Reflection
 Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience.

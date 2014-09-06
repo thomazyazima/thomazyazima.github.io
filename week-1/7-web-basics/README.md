@@ -47,8 +47,6 @@ Now let's put that knowledge to work!  We will be using [Sublime Text](http://ww
 ## Release 2: Commit and Push
 Using your github skills, add the file to the stage, commit your changes, and push it to Github.
 
-NOTE: When working professionally, developers generally want to do work on branches other than master, then ask master to pull our changes(via a pull request), which will be reviewed. This maintains the integrity of the master branch and helps prevent bugs in development code getting pushed to master, our production code. But let's not worry about that yet.
-
 After your push is done, your remote repo which lives on github.com will be updated.
 
 ## Release 3: View your site
