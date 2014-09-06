@@ -18,15 +18,16 @@ Challenges:
 - Bonus - Well-Grounded Rubyist reading
 - GPS 1.2 - HTML/CSS Challenge (1 hour)
 
+You'll want to get a copy of Chris Pine's [*Learn to Program, 2nd edition*](http://www.ebooks-it.net/ebook/learn-to-program-2nd-edition) for this week. You will be reading the content and then completing our challenges based on the content rather than his exercises.
 
-#### 1. [Introduction to Programming]()
-#### 2.
-#### 3.
-#### 4.
-#### 5.
-#### 6.
-#### 7.
-#### 8.
+1. Read Chris Pine's Introduction p. xi - xv
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 
 ## Fetch DBC's Changes
 It's time to fetch changes from DevBootcamp's phase_0_unit 1 master repo! Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up!
