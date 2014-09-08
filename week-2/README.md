@@ -24,7 +24,7 @@ It's time to fetch changes from DevBootcamp's phase_0_unit 1 master repo! Make s
 Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!
 
 ## Working through the challenges
-Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us by posting on the community, but also try to figure out a fix. It will help your markdown skills!
+Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. You should also try to figure out a fix -- it will help your markdown skills!
 
 ## Remember your Unit Expectations!
 - Pair at least twice this week.  *You need to pair 4 times on your own this unit*
@@ -33,7 +33,7 @@ Once you have the entire local repository on your computer, you don't need to re
 
 ## Submitting your work
 
-**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** If you do not complete the challenges by Sunday, fill out the extension request form and complete the submission form when you finish.
+**You need to submit your work on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** If you do not complete the challenges by Sunday, fill out the extension request form and complete the submission form when you finish.
 
 
 

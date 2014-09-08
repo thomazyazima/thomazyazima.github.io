@@ -1,8 +1,6 @@
-[Week 1 Home](../)
+[Week 2 Home](../)
 
-# U1.W1: Blog Template SOLO CHALLENGE
-
-**THIS IS YOUR SOLO CHALLENGE FOR WEEK 1.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/) for more details as to what this entails.
+# U1.W2: Blog Template
 
 ## Learning Competencies
 - Use a wireframe to construct a website
@@ -10,7 +8,7 @@
 - Position HTML elements using CSS padding, borders, and margins
 
 ## Summary
-In this challenge, you will be building a blog template using the wireframe you make in the [8-wireframing](../8-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
+In this challenge, you will be building a blog template using the wireframe you make in the [2-wireframing](../2-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
 
 ## Releases
 
@@ -18,10 +16,9 @@ In this challenge, you will be building a blog template using the wireframe you 
 
 First, navigate to your [USERNAME].github.io site in your terminal. Create a new directory called "blog-posts." In the blog-posts folder, create a new file called "blog-template.html."
 
-Using the wireframe you created in the last challenge as a reference, build your blog template by creating HTML tags for specific content. You may want to add junk text to the template temporarily to test your CSS.
+Using the wireframe you created in challange 2 as a reference, build your blog template by creating HTML tags for specific content. You may want to add placeholder text like [http://www.lipsum.com](Lorem Ipsum) to the template temporarily to test your code.
 
 Once you have all of the content on your site, you are ready to add CSS.
-
 
 ## Release 1: Apply CSS
 
