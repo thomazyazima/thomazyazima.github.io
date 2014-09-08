@@ -6,7 +6,7 @@
 ## Learning Competencies
 - Manipulate an object using JavaScript
 - Explain what `()` does in JavaScript
-- Use error messages correct syntax mistakes
+- Use error messages to correct syntax mistakes
 
 
 ## Release 0: Beginner Campaign
