@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Git Remote and Merge Challenge
+# U1.W1: Git Remote and Merge
 
 ## Learning Competencies
 

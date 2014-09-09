@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Fork and clone a github repository
+# U1.W1: Fork and Clone
 
 ## Learning Competencies
 - Explain how and why to fork a GitHub Repository
@@ -18,7 +18,7 @@ We created this handy video walking through the process of forking and cloning y
 
 [![Fork and Clone](http://img.youtube.com/vi/kRtvX25drNo/0.jpg)](http://www.youtube.com/watch?v=kRtvX25drNo)
 
-You can also see a review of these steps [here]().
+You can also see a review of these steps [here](fork-clone-steps.md).
 
 ## Release 1: Fork
 

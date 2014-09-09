@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Basics of the Web
+# U1.W1: Basics of the Web
 
 ## Learning Competencies
 

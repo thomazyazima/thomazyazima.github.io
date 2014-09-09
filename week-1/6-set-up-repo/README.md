@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Set up a repository
+# U1.W1: Set up a repository
 
 We are going to create a repository to host your very own website! You'll be using a GitHub repository and [GitHub Pages](http://pages.github.com/) to set it up.
 
@@ -31,10 +31,10 @@ We are going to create a repository to host your very own website! You'll be usi
 4. Click on the **"Create Repository" button**
 
 5. You should now be on the main repo page. On the right side, click on **settings**. In the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
-6. 
-![enable issues](../imgs/enable-issues.png)
+6.
 
 ![enable issues](../imgs/enable-issues.png)
+
 
 6. **Do a celebration dance!** <br />:dancers: :tada: :dancer:
 
