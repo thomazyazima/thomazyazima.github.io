@@ -15,7 +15,7 @@ Git uses remote URLs to figure out where to go on the Internet to push and pull 
 
 Watch this video about setting up your remotes.
 
-**VIMEO URL WILL GO HERE**
+[Remotes, fetching and merging](https://www.youtube.com/watch?v=5IIPWznBvok)
 
 What do your remotes look like? use `git remote -v` to check the URLs if your remotes.
 
@@ -43,7 +43,7 @@ git merge upstream/<BRANCH>
 
 If you run into a merge conflict, use this video to guide you through fixing the issue.
 
-**VIMEO MERGE CONFLICT VIDEO GOES HERE**
+[Merge Conflict](https://www.youtube.com/watch?v=NW9AVnzx1B8)
 
 ## Reflection
 

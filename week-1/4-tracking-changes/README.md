@@ -8,6 +8,10 @@
 
 ## What is a change?
 
+Here is the video that goes along with this concept:
+
+[Tracking Changes](https://www.youtube.com/watch?v=cBTs3WWMXUs)
+
 Git works by following all of the changes in the files inside a git tracked folder. The save point in git is called a commit. Think of a commit like a checkpoint in a video game. It is a point where you can go back to and look at the state of the files at that commit. Just like in a video game if you die to a boss or make the wrong decision, you can go back to the checkpoint. This saves the pain of starting over from the beginning. A commit is your safety net if you accidentally introduce bugs in your code. You can revert to a working state while you debug your code. It is a great idea to commit often to create more frequent save points to fall back on.
 
 For this reason, it is important to start getting in the habit of writing good commit messages. Here is the style guide for commits [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html). Note that there is a bunch of advanced git talk here, just focus on the first part of the post. Note that you can type your commit your messages in your terminal with `git commit -m "message goes here between the quotes"` or you can use the verbose commit message to give yourself some room `git commit -v` will open your default editor according to git (learn how to change it [here](https://help.github.com/articles/associating-text-editors-with-git) follow instructions for sublime). After you write your message, save and close the file. Your commit will be recorded.
