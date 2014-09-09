@@ -61,8 +61,19 @@ So now you know about how git tracks changes, so it's time to make some changes!
 - Add and commit the changes for my_reflection.md
 - Check the git log to see your commit and message
 - Reset the last commit
+- Add and commit the changes for my_reflection.md again
 
-## Release 4: Reflect
-Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge.
+## Release 4: Pushing Changes
 
-To make your changes live type `git push origin master`. This will push your changes from your local repository to the remote repository. More on that in the next challenge.
+Now it's time to make your changes live on GitHub. There are two ways to do this. The first is the faster way, and the second is by [making pull requests](making-pull-requests.md), which is highly favored when working with teams. You can choose which you would like to do. We are outlining the faster version below, but we highly recommend taking a look at the process for making pull requests as well to get a feel for it.
+
+You've been working on the master branch this entire time. So it's easy to push changes to the master branch on GitHub. Simply type:
+
+`git push origin master`
+
+`origin` refers to the repository on your local machine, and `master` is the remote branch you want to push to.
+
+Go to your fork on GitHub to see your changes live!
+
+## Release 5: Reflect
+Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge. Don't forget to push your changes!
