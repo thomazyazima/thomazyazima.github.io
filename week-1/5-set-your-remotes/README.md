@@ -49,11 +49,11 @@ git merge upstream/<BRANCH>
 # This will merge the upstream branch into your local, forked repository
 ```
 
-If you run into a merge conflict, use this video to guide you through fixing the issue.
+It's important to know that fetching changes will not impact your work at all. Git will ensure everything is kept, and if two files are different, it will keep both versions and ask you to manually decide which section you want to keep. This is called a merge conflict. If you run into a merge conflict in Phase 0, you'll want to run through the video below for instructions on how to fix it.
 
-[![Merge Conflice](http://img.youtube.com/vi/NW9AVnzx1B8/0.jpg)](http://www.youtube.com/watch?v=NW9AVnzx1B8)
+[![Merge Conflict](http://img.youtube.com/vi/NW9AVnzx1B8/0.jpg)](http://www.youtube.com/watch?v=NW9AVnzx1B8)
 
 <!-- [Merge Conflict](https://www.youtube.com/watch?v=NW9AVnzx1B8)
  -->
 ## Reflect
-In the my_reflection.md file, answer the questions. Then go through the process of adding your changes, committing, and pushing.
+In the [my_reflection.md](my_reflection.md) file, answer the questions. Then go through the process of adding your changes, committing, and pushing. You should see your answers live on github!
