@@ -31,11 +31,11 @@ Challenges will be contained in directories or individual files. You can determi
 Don't overthink the web version of github too much. It's a very similar structure to a computer's file structure you already know.
 
 #### Branches
-By default, all repositories have a `master` branch. This is the branch that will continually evolve, but should also always be working.
+By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the ideal and should always be working.
 
-In cases where people want to make changes or add features without threatening the integrity of the master, they will often make a new branch off of the master. This will take a copy of the code from the master and allow you to make changes and test them out. Once they are fully tested, they can be merged back into the master branch.
+In cases where people want to make changes or add features, they will make a new branch off of the master (using `git co -b branch-name`). This will take a copy of the code from the master and allow you to make changes and test them out. Once they are fully tested, they can be merged back into the master branch.
 
-When you work on teams, it's always a good idea to have someone else review your code before it's merged into `master`. This is done through a pull request. nA pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request and they should be the person to merge it once the changes are approved.
+When you work on teams, it's always a good idea to have someone else review your code before it's merged into `master`. This is done through a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request and they should be the person to merge it once the changes are approved.
 
 When using your command line, you can see your local branches (the branches on your local comptuer) by typing:
 
@@ -49,7 +49,7 @@ Remote branches are also located on GitHub.com.
 
 **Please Note:**
 
-In Phase 0, the staff use branches a bit differently. The `master` branch is where the current copy of the curriculum is stored. If you are in Unit 1, you should refer to the `master` branch for the most recent copy of your curriculum. Once you finish unit 1, however, we will create a copy of that curriculum to capture the final version and store that on a branch. We also use feature branches to make larger modifications to the curriculum (as shown in the image below):
+In Phase 0, the staff use branches as described above, but we also use it to capture final versions of curriculum. The `master` branch is where the current copy of the curriculum is stored. So if you are in Unit 1, you should refer to the `master` branch for the most recent copy of your curriculum. Once you finish Unit 1, however, we will create a copy of that curriculum to capture the final version and store that on a branch. We also use feature branches to make larger modifications to the curriculum (as shown in the image below):
 
 ![repository-branches](../imgs/repository-branches.png)
 
