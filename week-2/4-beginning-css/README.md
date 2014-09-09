@@ -24,7 +24,6 @@ Go through the following resources to learn the basics of CSS.
     - CSS: An Overview
     - CSS Selectors
     - CSS Positioning
-- [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 
 ## Release 1: Link your Stylesheet
 
@@ -32,7 +31,7 @@ There are multiple ways to add CSS to HTML, but we generally prefer keeping form
 
 If you look at that file, you will see there is already something there. It's set to turn the background color to red when you get the external stylesheet set up properly. Then you can promptly delete that CSS.
 
-You'll want to add a link to this stylesheet in your [6-beginning-html/my-berkshire-site.html](../6-beginning-html/my-berkshire-site.html)
+You'll want to add a link to this stylesheet in your [3-beginning-html/my-berkshire-site.html](../3-beginning-html/my-berkshire-site.html)
 
 ## Release 2: Add CSS
 Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
@@ -58,7 +57,7 @@ Make your site look like Berkshire Hathaway's! You may want to add classes or id
 #### 5. Add horizontal lines using CSS
 (There should be four). Do not use the `<hr>` tag.
 
-#### 6. Did we forget anything? Does your site look exactly like theirs?
+#### 6. Did we forget anything? Does your site look like theirs?
 
 
 ## Release 3: Compare
@@ -67,7 +66,7 @@ I know you've been dying to see what the actual source code Berkshire Hathaway u
 Now compare your HTML and CSS to the source. Make some notes of the differences and which site you think uses better practices. You'll need to answer some questions about this in your reflection section.
 
 ## Release 4: Add/ beautify the site (Optional)
-  - Add a picture of Warren Buffet, position it where it makes the most sense for you
+  - Add a picture of Warren Buffet and position it where it makes the most sense for you
   - Make the heading of the page look like a modern heading (rather than the top of a resume)
   - Add a new font
 
@@ -83,3 +82,4 @@ Edit the [my_reflection.md](my_reflection.md) file associated with this challeng
 * [The Difference between IDs and Classes](http://css-tricks.com/the-difference-between-id-and-class/)
 * [SMACCS - CSS Design Thinking](https://smacss.com/book/categorizing)
 * [30 CSS Best Practices for Beginners](http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
+* [Magic of CSS](http://adamschwartz.co/magic-of-css/)

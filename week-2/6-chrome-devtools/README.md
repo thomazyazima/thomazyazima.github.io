@@ -1,5 +1,3 @@
-http://www.dontfeartheinternet.com/the-basics/dont-fear-the-browser
-
 [Week 2 Home](../)
 
 # U1.W2: Chrome DevTools
@@ -17,17 +15,18 @@ Before starting this challenge, you will want to do a bit of research on the DOM
 
 In this challenge, you'll be diving into Chrome DevTools. Inside the DevTools inspector window is an inner world of data that is communicated between the browser and server. These tools are invaluable for you as a developer and getting comfortable with them will help optimize your HTML and CSS editing, JavaScript debugging, and overall site performance.
 
-We'll focus primarily on real-time HTML and CSS editing in this challenge, then dip our toes into using the tools to identify page elements that slow down performance and page loading.
+We'll focus primarily on real-time HTML and CSS editing in this challenge.
 
 ## Release 0: Learn about Chrome's DevTools
+
+Watch:
+- [Don't Fear the Browser: Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/the-basics/dont-fear-the-browser)
+
 Take [Code School's DevTools course](http://discover-devtools.codeschool.com/):
   - Chapter 1: Getting Started & Basic DOM and Styles
   - Chapter 2: Advanced DOM and Styles
-  - Chapter 5: Improving Network Performance
 
-Take the quizzes at the end of each chapter (quiz 5.2 deals with JavaScript, so it is not mandatory). You'll want to create an account with Code School so you can accumulate badges and credits for the chapters you complete. There are also questions in the quiz that will explore the concepts and tools introduced in those chapters.
-
-Take the time to skim the other chapters. You'll be diving into JavaScript at a later time, and although the material covering JS (chapters 3 and 4) is a bit advanced, it provides great exposure to JavaScript in the context of the the DevTools console.
+Take the quizzes at the end of each chapter. You'll want to create a free account with Code School so you can accumulate badges and credits for the chapters you complete. There are also questions in the quiz that will explore the concepts and tools introduced in those chapters.
 
 ## Release 1: Practice
 Complete the [dev_tools_practice.md](dev_tools_practice.md) activity.

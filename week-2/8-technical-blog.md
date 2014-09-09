@@ -6,7 +6,6 @@
 - Compare CSS concepts to determine the differences
 - Explain how and when to use CSS concepts
 
-
 ## Summary:
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community.
 
@@ -26,7 +25,6 @@ Write a blog post that teaches others how and when to use each thing. There is n
 
 **HINT:** Intend your blog for a non-technical audience. Imagine explaining to a non-technical friend, for instance. Try to take a person step-by-step through understanding one of the topics above.
 
-
 ## Release 3: Publish
 Link to your post from `index.html` so people can navigate to your page from your site's index.
 
@@ -40,6 +38,6 @@ Tweet your blog post using the hashtag **#DBCCSS**.
 
 ## Release 5: Read
 
-Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
+Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, Specific, and Kind) feedback as an issue on their repo or a tweet!
 
 

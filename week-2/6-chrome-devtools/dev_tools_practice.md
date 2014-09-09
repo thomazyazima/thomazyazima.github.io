@@ -3,10 +3,7 @@
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
 ##Practice
-* Explain which tabs support the following actions and how.
-  * Realtime editing of HTML and CSS
-  * Javascript Debugging
-  * Performance Optimization
+* Which tab supports realtime editing of HTML and CSS?
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
 
@@ -19,7 +16,7 @@
 
   ![postmachina](imgs/postmachina-img.png)
 
-  * Upload your own image to the imgs directory in the `3-chrome-devtools` directory.  It should match the image above.  Do the same, and don't take a screenshot of your whole desktop, just the browser window. Display your image inline here.(This is part of the challenge.)
+  * Upload your own image to the imgs directory in the `6-chrome-devtools` directory.  It should match the image above.  Do the same, and don't take a screenshot of your whole desktop, just the browser window. Display your image inline here.(This is part of the challenge.)
   <!-- Image here-->
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.

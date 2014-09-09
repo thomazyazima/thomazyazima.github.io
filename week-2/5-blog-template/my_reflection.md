@@ -1,4 +1,4 @@
-## 9. Blog Template Solo Challenge Reflection
+## 9. Blog Template Challenge Reflection
 
 - What concepts are you having trouble with, or did you just figure something out? If so, what?
 - Did you learn any new skills or tricks?

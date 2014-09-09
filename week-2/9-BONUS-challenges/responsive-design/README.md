@@ -11,9 +11,9 @@
 
 ## Summary
 
-It is almost impossible to ignore responsive design in today's web development scene. It is a very popular buzzword and for good reason. With the mobile and tablet market rising and more people accessing the web via mobile devices, according to the [Pew survey on cell phone access and usage](http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/), it is important that your website be usable on screens of all sizes.
+It's almost impossible to ignore responsive design in today's web development scene. It's a very popular buzzword and for good reason. With the mobile and tablet market rising and more people accessing the web via mobile devices, it's important that your website be usable on screens of all sizes.
 
-The key to this is something call media queries, which allow you to change CSS styles based on screen width and height, color, aspect ratios an many others [MDN media queries resource](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries).
+The key to this is something call media queries, which allow you to change CSS styles based on screen width and height, color, and aspect ratios.
 
 
 ## Release 0: Research
@@ -37,7 +37,7 @@ Open the starting-point.html in your browser and see what it looks like. Resize 
 
 ## Release 2: Responsify with your pair
 
-With such a multitude of devices with different screen sizes, it is important to create a web layout that is not tied to a certian screen resolution.
+With such a multitude of devices with different screen sizes, it's important to create a web layout that is not tied to a certian screen resolution.
 
 Think about how you want the website to look from a desktop monitor, a cell phone, and a tablet. Select one of these sizes. Resize your screen to mimic that size and see where the layout falls apart. Then you can use media queries to target these pixel dimensions.
 

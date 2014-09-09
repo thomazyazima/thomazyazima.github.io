@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-# U1.W2: Blog Template
+# U1.W2: Blog Template - Mandatory Pairing Challenge!
 
 ## Learning Competencies
 - Use a wireframe to construct a website
@@ -9,6 +9,8 @@
 
 ## Summary
 In this challenge, you will be building a blog template using the wireframe you make in the [2-wireframing](../2-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
+
+This is a mandatory pairing challenge, which means you will need to work on it with a partner.
 
 ## Releases
 
