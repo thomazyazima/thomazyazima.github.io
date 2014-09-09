@@ -1,6 +1,8 @@
-# Git Remote and merge Challenge
+[Week 1 Home](../)
 
-## Learning Objectives
+# Git Remote and Merge Challenge
+
+## Learning Competencies
 
 - Explain what a remote is
 - Demonstrate knowledge by setting up remotes for origin and upstream

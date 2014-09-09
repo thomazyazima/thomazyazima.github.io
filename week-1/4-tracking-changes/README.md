@@ -1,12 +1,20 @@
+[Week 1 Home](../)
+
 # Tracking Changes
 
-## Objectives
+## Learning Competencies
 
 - Explain the process from creating a change to a commit.
 - Demonstrate best practices for commit messages
 - Explain the 3 states of a file in git (working, staged, commit)
 
-## What is a change?
+
+## Summary
+
+
+## Releases
+
+## Release 1: What is a change?
 
 Here is the video that goes along with this concept:
 
