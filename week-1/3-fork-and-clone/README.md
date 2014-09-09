@@ -49,7 +49,7 @@ You can complete this challenge reflection on github.com. Click on the [my_refle
 
 ![Editing Reflection](../imgs/adding-reflection.jpg)
 
-Once you press "commit changes," your new file should be automatically visible on your www.github.com/[USERNAME]/phase-0-unit-1 directory.
+Once you press "commit changes," your new file should be automatically visible on your www.github.com/<USERNAME>/phase-0-unit-1 directory.
 
 After you learn how to edit files locally and push your changes (in the next challenge), you'll want to read and edit all files on your local `phase-0-unit-1` repository--more on that later.
 

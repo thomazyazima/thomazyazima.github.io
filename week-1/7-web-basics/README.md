@@ -28,7 +28,7 @@ Select two of these resources and use the knowledge you learn to add definitions
 Now let's put that knowledge to work!  We will be using [Sublime Text](http://www.sublimetext.com/) as our [text editor](http://skillcrush.com/2012/09/10/text-editor/). Review the [Perfect Workflow in Sublime Text](http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293) if you need a refresher on how to write code using Sublime.
 
 * **Open a new file in Sublime**
-* Save the file as `index.html` in the **same directory as your copy of [USERNAME].github.io**
+* Save the file as `index.html` in the **same directory as your copy of <USERNAME>.github.io**
 
 ![Sublime save](../imgs/sublime-save.jpg)
 
@@ -53,7 +53,7 @@ After your push is done, your remote repo which lives on github.com will be upda
 
 It's now time for the big reveal!!
 
-Go to **http://[USERNAME].github.io** to see your HTML page live!<br>
+Go to **http://<USERNAME>.github.io** to see your HTML page live!<br>
 *NOTE: It can sometimes take up to 15 minutes to update the site after creating your repo, so if you run into a 404 error, be patient and check again later.*
 
 ![GitHub commit](../imgs/github-page1.jpg)

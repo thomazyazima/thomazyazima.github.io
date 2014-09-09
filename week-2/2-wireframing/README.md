@@ -49,7 +49,7 @@ Check out a few blogs to see what information you would want to include in each 
 You can choose to use a [wireframing tool](http://mashable.com/2010/07/15/wireframing-tools/) or draw it on paper and take a picture of it. Make sure to save an image of your wireframe. Make sure to name it "wireframe-blog-template." (it can be saved as png, jpg, etc.)
 
 ## Release 3: Wireframe the index of your site
-Now, consider how you want the index of your webpage to look. The index is the first page a person will land when they go to [USERNAME].github.io, so you'll want it to look nice.
+Now, consider how you want the index of your webpage to look. The index is the first page a person will land when they go to <USERNAME>.github.io, so you'll want it to look nice.
 
 You should have a header,footer, and navigation bar on your site.
 
@@ -63,7 +63,7 @@ You will be using this site to promote yourself when you finish Dev Bootcamp, so
   - Your projects
   - Anything else you want to include
 
-**PLEASE NOTE:** You will not actually be coding up your index in week 1, we leave that for next week, so don't worry about making it any time this week. 
+**PLEASE NOTE:** You will not actually be coding up your index in week 1, we leave that for next week, so don't worry about making it any time this week.
 
 ## Release 4: Add your wireframes to your reflection.
 

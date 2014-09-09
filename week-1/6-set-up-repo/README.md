@@ -21,12 +21,12 @@ We are going to create a repository to host your very own website! You'll be usi
 ![New repo form](../imgs/github-repo-1.jpg)
 
 3. **Fill out the new repository form.**
- - You *must, must, must* name your repository **[USERNAME].github.io**.</li><li>Your repository should be *public*.
+ - You *must, must, must* name your repository **<USERNAME>.github.io**.</li><li>Your repository should be *public*.
  - Check "Initialize this project with a README" and add an MIT license.
 
  ![New repo form](../imgs/github-repo-2.jpg)
 
- I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**. If you have trouble, double check you spelled it correctly.
+ I'm gonna say it again: You *must, must, must* name your repository **<USERNAME>.github.io**. If you have trouble, double check you spelled it correctly.
 
 4. Click on the **"Create Repository" button**
 
@@ -71,7 +71,7 @@ If you are using HTTPS, you will be prompted to enter your github username and p
 
 After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and poke around.
 
-If you've already tried visiting **[USERNAME].github.io** only to be greeted with a *404 page not found* error, do not despair! This is because you haven't actually built any pages yet, which is something you will be doing later. It also sometimes takes 10 minutes to become viewable.
+If you've already tried visiting **<USERNAME>.github.io** only to be greeted with a *404 page not found* error, do not despair! This is because you haven't actually built any pages yet, which is something you will be doing later. It also sometimes takes 10 minutes to become viewable.
 
 
 ## Release 2: Open Source and Licenses
