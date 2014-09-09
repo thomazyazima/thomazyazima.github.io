@@ -2,11 +2,15 @@
 
 You can make a new branch at any time, from any branch by typing:
 
-`git co -b new-branch-name` (replace "new-branch-name" with the name of the branch you want).
+```shell
+$ git co -b new-branch-name (replace "new-branch-name" with the name of the branch you want).
+```
 
 You can then push this branch to GitHub.
 
-`git push origin new-branch-name`
+```shell
+$ git push origin new-branch-name
+```
 
 This will push your changes from your local machine (origin) to the branch you specified. Now go look at your fork on GitHub. You should be see that branch in the drop-down menu. Click on it.
 
