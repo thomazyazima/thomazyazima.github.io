@@ -16,25 +16,28 @@ Web Developers use tools to track their progress and create backups. GitHub is a
 ## Release 0: GitHub Vocabulary
 
 #### Repositories
-You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders and files. If you take a look at [phase-0-unit-1](../../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "README.md." Github displays readme files on the main page of a repository by default.
+You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders, also called directories, and files. If you take a look at [phase-0-unit-1](../../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "README.md." Github displays README files on the main page of a repository by default.
 
 ![repository-main](../imgs/repository-main.png)
 
 From the main page of a repository, click on the appropriate link to access that week's curriculum. You've already proved you've made it to week-1 by navigating to and reading this challenge.
 
-The readme in each directory will be the main source of instructions that will direct you through the curriculum. Make sure to read all the instructions carefully. If you have questions on instructions, post them in the google+ community.
+The README in each directory will be the main source of instructions that will direct you through the curriculum. Make sure to read all the instructions carefully. If you have questions on instructions, post them in the google+ community.
 
 Challenges will be contained in directories or individual files. You can determine the order of the challenges in two ways:
-  1. The readme lists the challenges in order.
-  2. The challenges are numbered in the order needed to complete them in the section where directories and files are displayed (above the readme).
+  1. The README lists the challenges in order.
+  2. The challenges are numbered in the order needed to complete them in the section where directories and files are displayed (above the README).
 
 Don't overthink the web version of github too much. It's a very similar structure to a computer's file structure you already know.
 
 #### Branches
+By default, all repositories have a `master` branch. This is the branch that will continually evolve, but should also always be working.
 
-In git, a branch is a copy of the code from where you branched from. For instance if you branched from the master branch, you new branch would look exactly like the master. This allows you to introduce changes without changing the state of the master, which should always be working. After you have added the features that you want, you can merge your changes with the master, or if you do not own the repo, do a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request.
+In cases where people want to make changes or add features without threatening the integrity of the master, they will often make a new branch off of the master. This will take a copy of the code from the master and allow you to make changes and test them out. Once they are fully tested, they can be merged back into the master branch.
 
-You can see your local branches by typing:
+When you work on teams, it's always a good idea to have someone else review your code before it's merged into `master`. This is done through a pull request. nA pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request and they should be the person to merge it once the changes are approved.
+
+When using your command line, you can see your local branches (the branches on your local comptuer) by typing:
 
 `git branch`
 
@@ -42,17 +45,23 @@ If you want to see your local and remote branches, type:
 
 `git branch -a`
 
+Remote branches are also located on GitHub.com.
+
+**Please Note:**
+
+In Phase 0, the staff use branches a bit differently. The `master` branch is where the current copy of the curriculum is stored. If you are in Unit 1, you should refer to the `master` branch for the most recent copy of your curriculum. Once you finish unit 1, however, we will create a copy of that curriculum to capture the final version and store that on a branch. We also use feature branches to make larger modifications to the curriculum (as shown in the image below):
+
 ![repository-branches](../imgs/repository-branches.png)
 
 #### Commits
 
 ![repository-commits-1](../imgs/repository-commits-1.png)
 
-A commit is a snapshot of your code that you can go back to at any time. Check out what the commit log looks like for the devbootcamp curriculum repo!
-
-We will talk more about commits in the tracking changes challenge.
+A commit is a snapshot of your code that you can go back to at any time. I like to think of it as an official "saving" of your code. When you decide you like the changes you made, or you finish a small task, you should commit the changes. Commits have an accompanying "commit message" that should describe the changes. Check out what the commit log looks like for the devbootcamp curriculum repo!
 
 ![repository-commits-2](../imgs/repository-commits-2.png)
+
+We will talk more about commits in the [tracking changes](NEED URL HERE!) challenge.
 
 ## Release 1: What is git?
 
@@ -71,18 +80,11 @@ Confused about the difference between git and GitHub? Try one of these articles:
 
 
 ## Release 4: Reflection
-Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience.
+Reflecting is essential for solidifying your learning. You will be required to reflect on each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience. (Please note: if you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video).
 
-**Writing reflections for each challenge is mandatory.**
+Because you haven't created your own copy (or fork) of this repository, you'll need to keep track of your answers to these questions on your computer or in your notes. Be sure to write them down! You'll be expected to add them to your official reflection file in a later challenge.
 
-Reflect on your learning in this challenge by editing the my_reflection.md file in the [2_github_intro](./) folder (the folder you are in). You will be learning HTML this week, but these files have a `.md` extension. Do you know what that stands for? It stands for markdown, which is a text-to-HTML conversion tool.  If you would rather write in HTML, you can do that by changing the file extension from .md to .html.
-
-You can complete the first challenge reflections on github.com. Click on the my_reflection.md file in this folder. There should be a button to edit (it looks like a pencil) at the top. Click it. You'll add your reflection in markdown and write a commit message under "Commit changes" to describe the changes you made. Once you type something there, you will want to click the "commit changes" button. **NOTE: It will not let you commit changes without a commit message.**
-
-![Editing Reflection](../imgs/adding-reflection.jpg)
-
-Once you press "commit changes," your new file should be automatically visible on your www.github.com/[USERNAME]/phase-0-unit-1 directory.
-
-After you learn how to edit files locally and push your changes (in the next challenge), you'll want to read and edit all files on your local `phase-0-unit-1` repository--more on that later.
-
-
+* Write an explanation of and compare git and GitHub to a non-technical audience.
+* Describe what version control is and how GitHub helps with it.
+* Why do developers use version control (git)? Does that make sense to you? Why or why not?
+* What doesn't make sense? What does?
