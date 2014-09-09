@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 
-- Define commits
+- Define "commit"
 - Demonstrate best practices for commit messages
 - Describe the three states of a file in git (working, staged, commit)
 - Outline the process from creating a change to a commit

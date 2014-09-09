@@ -13,15 +13,18 @@
 Git uses remote URLs to figure out where to go on the Internet to push and pull files. You are basically telling git exactly where to go when you want to save your work, get your work to your computer, or fetch changes from the repo you forked from.
 
 
-## Release 0
+## Releases:
 
-Watch this video about setting up your remotes.
+## Release 0: Watch
+Watch this video about setting up remotes.
 
-[Remotes, fetching and merging](https://www.youtube.com/watch?v=5IIPWznBvok)
+[![Fork and Clone](http://img.youtube.com/vi/5IIPWznBvok/0.jpg)](http://www.youtube.com/watch?v=5IIPWznBvok)
+
+<!-- [Remotes, fetching and merging](https://www.youtube.com/watch?v=5IIPWznBvok) -->
 
 What do your remotes look like? use `git remote -v` to check the URLs if your remotes.
 
-## Release 1
+## Release 1: Add an Upstream
 
 Add the devbootcamp repo as your upstream. It should look like this when you are finished.
 
