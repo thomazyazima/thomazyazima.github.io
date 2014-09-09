@@ -9,7 +9,7 @@ By the end of this lesson, you should be able to:
 - Explain what version control is and does
 
 ## Summary
-Web Developers use tools to track their progress and create backups. GitHub is a popular platform for doing this, especially in the open source community. In this introduction, we want to introduce you to GitHub so you don't feel lost when working through the material.
+Web Developers use tools to track their progress and create backups. GitHub is a popular platform for this, especially in the open-source community. In this challenge, we want to introduce you to GitHub so you don't feel lost when working through the material.
 
 ## Releases
 
@@ -82,7 +82,7 @@ Confused about the difference between git and GitHub? Try one of these articles:
 ## Release 4: Reflection
 Reflecting is essential for solidifying your learning. You will be required to reflect on each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience. (Please note: if you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video).
 
-Because you haven't created your own copy (or fork) of this repository, you'll need to keep track of your answers to these questions on your computer or in your notes. Be sure to write them down! You'll be expected to add them to your official reflection file in a later challenge.
+Because you haven't created your own copy (or fork) of this repository, you'll need to keep track of your answers to these questions on your computer or in your notes. Be sure to write them down! You'll be expected to add them to your reflection file in the next challenge.
 
 * Write an explanation of and compare git and GitHub to a non-technical audience.
 * Describe what version control is and how GitHub helps with it.
