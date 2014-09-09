@@ -7,7 +7,7 @@
 
 ## Release 0
 
-Choose 1 member of your pair and fork the git repo called phase-0-gps-1. Add your guide and your pair as collaborators on your fork of the repo. Inside there is a file called file_1.md, file_2.md and file_3.md
+Choose 1 member of your pair and fork the git repo called phase-0-gps-1. Add your guide and your pair as collaborators on your fork of [this repo](https://github.com/Devbootcamp/phase-0-gps-1). Inside there is a file called file_1.md, file_2.md and file_3.md
 
 ## Release 1
 
