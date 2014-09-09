@@ -1,5 +1,6 @@
-## What are remotes and how do we set them up?
+# Setting Remotes
 
-
-
-## What are some other useful commands when working with remotes?
+- What is a remote?
+- How are they set up?
+- Summarize the purpose of a remote
+- Write a brief workflow (list of commands) on how to fetch changes from Dev Bootcamp's master branch
