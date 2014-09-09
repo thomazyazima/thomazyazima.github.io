@@ -79,7 +79,7 @@ Confused about the difference between git and GitHub? Try one of these articles:
 - [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
 
 
-## Release 4: Reflection
+## Release 4: Reflect
 Reflecting is essential for solidifying your learning. You will be required to reflect on each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience. (Please note: if you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video).
 
 Because you haven't created your own copy (or fork) of this repository, you'll need to keep track of your answers to these questions on your computer or in your notes. Be sure to write them down! You'll be expected to add them to your reflection file in the next challenge.
