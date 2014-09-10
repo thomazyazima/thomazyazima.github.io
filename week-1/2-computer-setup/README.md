@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Computer Set-Up Instructions
+# U1.W1: Computer Set-Up Instructions
 
 Now that you know a bit about your command line, you can now get your computer set up for DBC!
 
