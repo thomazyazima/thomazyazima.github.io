@@ -11,7 +11,7 @@
 ## Summary
 This book comes highly recommended by our staff, so we're asking you to read through it and answer some questions before starting the next challenges.
 
-For each release, read the appropriate chapter and answer the questions in the [my_solution.js](my_solution.js) file. If you are less into writing, you can always record a video to include rather than text. It's up to you!
+For each release, read the appropriate chapter and answer the questions in the [my_solution.md](my_solution.md) file. If you are less into writing, you can always record a video to include rather than text. It's up to you!
 
 ## Release 0: [Introduction](http://eloquentjavascript.net/00_intro.html)
 
