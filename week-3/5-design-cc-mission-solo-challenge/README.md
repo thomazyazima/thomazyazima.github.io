@@ -31,7 +31,7 @@ Remember how Code Combat had goals to complete a mission? Visible at the top lef
 Write an outline of your overall mission and goals to complete your mission as comments in your [my_solution.js](my_solution.js) file.
 
 Then consider:
-- Who are the main characters in your mission? Write a bit about them. What properties do they have? HINT: You should probably protagonist (and maybe an antagonist). You can actually see what the code combat objects are if you hover over "this." In the image below, we can see the current information for Tharin. Identify the characters (objects) you'll need to create as comments.
+- Who are the main characters in your mission? Write a bit about them. What properties do they have? HINT: You should probably have a protagonist (and maybe an antagonist). You can actually see what the code combat objects are if you hover over "this." In the image below, we can see the current information for Tharin. Identify the characters (objects) you'll need to create as comments.
 - Consider other objects you need. Do you need a sword? What about a cannon, death ray, magic seeds, etc. Write those as comments as well.
 
 ![objects](../imgs/cc-objects.png)

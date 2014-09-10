@@ -33,7 +33,7 @@ Turn your pseudocode into code by translating each step into code until the test
 You'll want to follow the outline below. Note that each step should build on but not modify any of the code before it.
 
 1. Define a variable adam and use object literal notation to assign this variable
-   the value of a JavaScript Object object with no properties.
+   the value of a JavaScript Object with no properties.
 
 2. Give adam a name property with the value "Adam".
 
