@@ -32,27 +32,29 @@ Don't overthink the web version of github too much. It's a very similar structur
 
 #### Branches
 
-In git, a branch is a copy of the code from where you branched from. For instance if you branched from the master branch, you new branch would look exactly like the master. This allows you to introduce changes without changing the state of the master, which should always be working. After you have added the features that you want, you can merge your changes with the master, or if you do not own the repo, do a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request.
+In git, a branch is a snapshot of your files that you can work on separately. For instance if you created a new branch called feature-branch and you were currently on the master branch, feature-branch would look exactly like the master. This allows you to introduce changes without changing the state of the master. After you have added the features that you want, you can merge your changes with the master, or if you do not own the repo, do a pull request. A pull request is a friendly way of saying: "Hey boss! I'm done implementing this feature your asked for, can you review my code?". When working in a team, it is best practice to have at least 1 other person review your pull request.
 
-You can see your local branches by typing:
-
-`git branch`
-
-If you want to see your local and remote branches, type:
-
-`git branch -a`
+If you look at devbootcamps phase-0-unit1 branches, you can see that we use branches to save what the curriculum looked like at the end of every cohort.
 
 ![repository-branches](../imgs/repository-branches.png)
 
+You can see these branches on your teminal by typing:
+
+`git branch -a`
+
+Notice that branches on your local repo just appear as
+
+feature-branch
+
+where branches from the remote appear as
+
+remote/feature-branch
+
 #### Commits
 
-![repository-commits-1](../imgs/repository-commits-1.png)
+In short, a commit is a save point in your code. You can use commits as mile markers to go back to or to check on the state of files when you were adding some feature. We created a whole section on how you can use commits and why they are important.
 
-A commit is a snapshot of your code that you can go back to at any time. Check out what the commit log looks like for the devbootcamp curriculum repo!
-
-We will talk more about commits in the tracking changes challenge.
-
-![repository-commits-2](../imgs/repository-commits-2.png)
+Check out the tracking changes challenge [here](../4-tracking-changes).
 
 ## Release 1: What is git?
 
@@ -68,21 +70,3 @@ Confused about the difference between git and GitHub? Try one of these articles:
 
 - [Git vs. GitHub for Dummies](http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/)
 - [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
-
-
-## Release 4: Reflection
-Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience.
-
-**Writing reflections for each challenge is mandatory.**
-
-Reflect on your learning in this challenge by editing the my_reflection.md file in the [2_github_intro](./) folder (the folder you are in). You will be learning HTML this week, but these files have a `.md` extension. Do you know what that stands for? It stands for markdown, which is a text-to-HTML conversion tool.  If you would rather write in HTML, you can do that by changing the file extension from .md to .html.
-
-You can complete the first challenge reflections on github.com. Click on the my_reflection.md file in this folder. There should be a button to edit (it looks like a pencil) at the top. Click it. You'll add your reflection in markdown and write a commit message under "Commit changes" to describe the changes you made. Once you type something there, you will want to click the "commit changes" button. **NOTE: It will not let you commit changes without a commit message.**
-
-![Editing Reflection](../imgs/adding-reflection.jpg)
-
-Once you press "commit changes," your new file should be automatically visible on your www.github.com/[USERNAME]/phase-0-unit-1 directory.
-
-After you learn how to edit files locally and push your changes (in the next challenge), you'll want to read and edit all files on your local `phase-0-unit-1` repository--more on that later.
-
-
