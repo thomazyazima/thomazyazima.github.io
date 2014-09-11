@@ -16,7 +16,7 @@ In this challenge, you will be building a blog template using the wireframe you 
 
 ## Release 0: Wireframe to HTML
 
-First, navigate to your [USERNAME].github.io site in your terminal. Create a new directory called "blog-posts." In the blog-posts folder, create a new file called "blog-template.html."
+First, navigate to your <USERNAME>.github.io site in your terminal. Create a new directory called "blog-posts." In the blog-posts folder, create a new file called "blog-template.html."
 
 Using the wireframe you created in the last challenge as a reference, build your blog template by creating HTML tags for specific content. You may want to add junk text to the template temporarily to test your CSS.
 
@@ -25,7 +25,7 @@ Once you have all of the content on your site, you are ready to add CSS.
 
 ## Release 1: Apply CSS
 
-In the main directory for your [USERNAME].github.io site, create a "stylesheets" directory. In that directory, create a "blog-stylesheet.css" Link to that stylesheet in your blog-template.html.
+In the main directory for your <USERNAME>.github.io site, create a "stylesheets" directory. In that directory, create a "blog-stylesheet.css" Link to that stylesheet in your blog-template.html.
 
 Use CSS to position and format the content of your blog. Once you have it displayed as you want it, move on to the next release.
 

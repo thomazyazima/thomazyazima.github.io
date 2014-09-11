@@ -9,17 +9,17 @@
 - Use wireframes to construct a website
 - Use HTML tags to present content on a website
 - Position HTML elements using CSS padding, borders, and margins
-- Use CSS to add and format colors, fonts, icons, images, etc. 
+- Use CSS to add and format colors, fonts, icons, images, etc.
 
 ## Summary
 
 Regardless of whether design is interesting to you or not, web design matters to end users of the website and business management.  It's important to know about so you can work more effectively with other teams in the organization. This process should also help you learn to separate different parts of a site (design vs. content, html vs. css, user interface vs. user experience) and learn the process of developing websites.
 
-In this challenge, you will making your [USERNAME].github.io site yours using the wireframe you made in the [week 1 wireframing](../../week-1/8-wireframing) challenge. You'll also need to fill out the other pages of your site. 
+In this challenge, you will making your <USERNAME>.github.io site yours using the wireframe you made in the [week 1 wireframing](../../week-1/8-wireframing) challenge. You'll also need to fill out the other pages of your site.
 
-You may not use Bootstrap or any other design framework for your site. 
+You may not use Bootstrap or any other design framework for your site.
 
-Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version. 
+Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version.
 
 ## Releases
 
@@ -34,13 +34,13 @@ Go through each resource below to learn a bit more about design and user experie
 
 
 ## Release 1: Information Gathering
-Consider the purpose of your github.io site. In Phase 0 it is the place where you will primarily share your blogs, but it can be a lot more than that depending on how you want to use it. We think of this site as a self-introduction, resume, and hub for people and employers to find out about you. 
+Consider the purpose of your github.io site. In Phase 0 it is the place where you will primarily share your blogs, but it can be a lot more than that depending on how you want to use it. We think of this site as a self-introduction, resume, and hub for people and employers to find out about you.
 
 But what do you think of it as? Consider the purpose, goals, target audience, and content you will be putting on the site.
 
 ## Release 2: Planning
 
-Reconsider the wireframe you created for your index.html in [week 1](../../week-1/8-wireframing). Do you need to make any changes to it based on what you learned about design? If so, make those changes. 
+Reconsider the wireframe you created for your index.html in [week 1](../../week-1/8-wireframing). Do you need to make any changes to it based on what you learned about design? If so, make those changes.
 
 While you're at it, you should also make a basic wireframe for the other pages on your site including, but not limited to pages for:
  - About me
@@ -48,7 +48,7 @@ While you're at it, you should also make a basic wireframe for the other pages o
  - blog-posts/index.html (to list all of your blog posts)
  - Any other page your site needs
 
-These wireframes should basically be your site map. 
+These wireframes should basically be your site map.
 
 ## Release 3: Design
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
@@ -61,17 +61,17 @@ Now is the time to consider the colors, fonts, icons/logos, images and overall l
 ## Release 4: Development
 
 #### Add Content using HTML
-Using your wireframes and design as references, add content to your index.html (as well as other) pages in your [USERNAME].github.io site using HTML. 
+Using your wireframes and design as references, add content to your index.html (as well as other) pages in your <USERNAME>.github.io site using HTML.
 
-You should include links to each social networking site using icons. Make sure to have a header, footer, and navigation bar (as long as they fit into your design). 
+You should include links to each social networking site using icons. Make sure to have a header, footer, and navigation bar (as long as they fit into your design).
 
 Once you have all of the content on your index, you are ready to create the other required pages. Make sure the links on your index will actually take you to the other pages on your site! Don't forget to link to week 1's blog posts on your blog-posts index!
 
 
 #### Apply CSS
-Now you can truly begin to appreciate CSS, which stands for **C**ascading **S**tyle **S**heets. Each page can have a similar look if you use the same classes to format them the same. 
+Now you can truly begin to appreciate CSS, which stands for **C**ascading **S**tyle **S**heets. Each page can have a similar look if you use the same classes to format them the same.
 
-- Add styling to your header, footer, and navigation bar. 
+- Add styling to your header, footer, and navigation bar.
 - Style and position the content to match your wireframe.
 - Incorporate the colors, fonts, and format the images you've selected for your site
 
@@ -81,13 +81,13 @@ Reminder: Designing and building a site can take a LONG TIME, so just get your s
 
 ## Release 5: Testing and Delivery
 
-When you feel ready to publish your new, beautiful site, add your files to the stage, commit your changes, and push to master! Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers! 
+When you feel ready to publish your new, beautiful site, add your files to the stage, commit your changes, and push to master! Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers!
 
 Take a look at two other sites and give them feedback using the issues on their github.io once you're finished with your site. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
 
 ## Release 6: Maintenance
-Now that you have your MVP, decide how you are going to make improvements or integrate feedback.  
-We suggest to try integrating a few pieces of feedback or making a few improvements each week when you work on your blog assignments. 
+Now that you have your MVP, decide how you are going to make improvements or integrate feedback.
+We suggest to try integrating a few pieces of feedback or making a few improvements each week when you work on your blog assignments.
 
 ## Release 7: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
@@ -99,7 +99,7 @@ Want to dig a bit deeper into CSS? Maybe you're curious about using some excitin
 - [CSS3 Pseudo-selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
 - [W3Schools CSS Psuedo-selectors](http://www.w3schools.com/css/css_pseudo_classes.asp)
 
-Implement `:hover` and other fun pseudo-selectors on your index.html page. 
+Implement `:hover` and other fun pseudo-selectors on your index.html page.
 
 ## Additional Resources:
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)

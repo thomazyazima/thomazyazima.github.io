@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# Your Command Line (aka Terminal, Shell, Prompt)
+# U1.W1: Your Command Line (aka Terminal, Shell, Prompt)
 
 ## Learning Competencies
 By the end of this lesson, you should be able to ___ in/using the command line.

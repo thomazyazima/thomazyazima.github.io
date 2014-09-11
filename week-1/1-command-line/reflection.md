@@ -19,5 +19,5 @@ Write your reflection on a document or by hand on the following questions.
 -`rmdir`
 -`cat`
 -`rm`
--`HELP`
+-`help`
 -`Exit`
