@@ -4,7 +4,7 @@
 
 Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms to gauge whether we are giving too much, the right amount, or not enough work each week.
 
-If you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
+When you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
 
 
 ## This Week's Challenges
