@@ -15,7 +15,7 @@ When you have questions about the instructions or how to do something, are confu
 #### 4. [Github Intro](4-github-intro)
 #### 5. [Forking and Cloning](5-fork-clone)
 #### 6. [Tracking Changes](6-tracking-changes)
-#### 7. [Set Remotes](7-set-remotes)
+#### 7. [Setting Remotes](7-set-remotes)
 #### 8. [Your Website](8-new-repo)
 #### 9. [Introduction to Twitter](9-twitter-intro.md)
 #### 10. [Technical Blog](10-technical-blog.md)
