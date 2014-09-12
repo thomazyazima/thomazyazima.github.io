@@ -14,7 +14,7 @@ Despite popular belief, most software engineers work in teams and there is a str
 
 ## Release 0: Read someone else's reflections
 
-Log on to [Socrates](https://socrates.devbootcamp.com/) and look at your cohort. Find the person after you in the cohort list. Click on their name. On their profile, you should see their GitHub username. Go to their repository and read their reflections for each challenge. The URL should be https://github.com/[THEIR USERNAME]/phase-0-unit-1. If it gives you a 404 error, try writing the URL directly. If you still get an error, send them an email and ask how they are doing! What did you learn by reading another person's reflections? Think about it and keep it in mind for your introduction email!
+Log on to [Socrates](https://socrates.devbootcamp.com/) and look at your cohort. Find the person after you in the cohort list. Click on their name. On their profile, you should see their GitHub username. Go to their repository and read their reflections for each challenge. The URL should be https://github.com/[THEIR-USERNAME]/phase-0-unit-1. If it gives you a 404 error, try writing the URL directly. If you still get an error, send them an email and ask how they are doing! What did you learn by reading another person's reflections? Think about it and keep it in mind for your introduction email!
 
 ## Release 0: Intro Email
 
