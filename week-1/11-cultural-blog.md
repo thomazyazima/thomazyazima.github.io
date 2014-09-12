@@ -7,28 +7,33 @@
 - Predict how you will react to DBC's approach
 
 ## Summary
-Dev Bootcamp does not simply try to teach people how to program, we also focus on the mind and body. In Phase 0 you will be introduced to various cultural topics you'll be expected to be familiar with or open to learning more about at Dev Bootcamp. Similarly to the technical blogs, you should try to time-box (limit yourself) to spending an hour on it.
+Dev Bootcamp does not simply try to teach people how to program, we also focus on the mind and body. In Phase 0, you will be introduced to various cultural topics you'll be expected to be familiar with or open to learning more about at Dev Bootcamp. Similarly to the technical blogs, you should try to time-box (limit yourself) to spending an hour (max 1.5 hours) on it.
 
-## Release 0: Copy your Blog Template
-First, create a new HTML file for your this post in your 'blog-posts' directory in your <USERNAME>.github.io website.
+Note: This week's might be a little long if you watch the whole video, so watch what you need. You may want to skip the QA section at the end if you're short on time.
 
-Create a new HTML file named "c1-chefs-kitchen.html". Copy the code from your `blog_template`.
+## Release 0: Prepare your blog
+**Using ONLY your command line**
+
+- Navigate to your `<USERNAME>.github.io/blog` directory
+- Add a new file called `c1-chefs-kitchen.md`
+- Copy the markdown template from [blog-template.md](blog-template.md) (in this repository) into your `c1-chefs-kitchen.md` file.
+
 
 ## Release 1: Kitchen vs. Table
 Watch [Shereef's Fireside Chat](http://vimeo.com/85001014). This chat is over an hour long, so watch the parts your interested in and make sure to leave time for writing your blog!
 
-## Release 2: Write your Blog!
+## Release 2: Write
+
 Based on the video, what's your take on the DBC experience? What is your impression of DBC? How do you see yourself engaging with this type of culture?
 Have your expectations of DBC changed? If so, how? Are you excited to participate in this kind of learning environment? Does it make you nervous?
 
 Talk about what came up for you and anything you want in addition to the questions above.
 
-## Release 3: Commit and push
-Don't forget to push your changes to make them live on your github.io site. Double-check that you can see your page when you visit:
+## Release 3: Publish
 
-http://<USERNAME>.github.io/blog-posts/c1-chefs-kitchen.html
+Don't forget to add, commit, and push your changes to make them live on your github.io site. Double-check that you can see your page when you visit:
 
-Again, the link will be added to the blog-posts/index.html page next week.
+<USERNAME>.github.io/blog/c1-chefs-kitchen.md
 
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
