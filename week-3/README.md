@@ -1,5 +1,10 @@
 # Week 3: Introduction to Ruby
 
+Week 3's material is not ready yet!
+
+We will release it with changes at least by the Friday before the week begins.
+
+<!--
 Week 3: Intro to Ruby
   Competencies to cover:
 define local variables and methods
@@ -36,3 +41,4 @@ Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob
 
 ## Working through the challenges
 Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us by posting on the community, but also try to figure out a fix. It will help your markdown skills!
+ -->

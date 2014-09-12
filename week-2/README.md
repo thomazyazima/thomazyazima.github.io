@@ -1,9 +1,10 @@
-# HTML and CSS cont.
+# Week 2: HTML and CSS
 
-<!-- Please do not start week 2. We will release it with changes at least by the Friday before week 2 begins. -->
+Week 2's material is not ready yet!
 
-This week's material covers web design, HTML, and CSS and will get you building your own website.
-<!-- maybe include more here -->
+We will release it with changes at least by the Friday before week 2 begins.
+
+<!-- This week's material covers web design, HTML, and CSS and will get you building your own website.
 
 
 ## Challenges
@@ -33,7 +34,4 @@ Once you have the entire local repository on your computer, you don't need to re
 
 ## Submitting your work
 
-**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** If you do not complete the challenges by Sunday, fill out the extension request form and complete the submission form when you finish.
-
-
-
+**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** If you do not complete the challenges by Sunday, fill out the extension request form and complete the submission form when you finish. -->
