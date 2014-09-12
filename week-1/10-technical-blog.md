@@ -28,13 +28,13 @@ This week you've learned a bit about the command line and gotten more familiar w
 
 **Using ONLY your command line**
 
-- Navigate to your <USERNAME>.github.io repository
+- Navigate to your [USERNAME].github.io repository
 - Make a directory called `blog`
 - In the `blog` directory, add a new file called `t1-git-blog.md`
 - Copy the markdown template from [blog-template.md](blog-template.md) (in this repository) into your `t1-git-blog.md` file.
 - Add and commit your changes with a good commit message
 - Push your changes
-- Navigate to your <USERNAME>.github.io/blog/t1-git-blog.md
+- Navigate to your [USERNAME].github.io/blog/t1-git-blog.md
 
 If you went through every step, you should see the blog template live on your site!
 
@@ -55,7 +55,7 @@ Once you are satisfied with what you've written, go through the git workflow to 
 
 Next week you will make this post much prettier - but for now it's important that you get the content up there.
 
-Double check you can see your updated content on <USERNAME>.github.io/blog/t1-git-blog.md.
+Double check you can see your updated content on [USERNAME].github.io/blog/t1-git-blog.md.
 
 ## Release 5: Promote
 

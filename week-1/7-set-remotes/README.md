@@ -27,13 +27,13 @@ What do your remotes look like? use `git remote -v` to check the URLs of your re
 Add the Devbootcamp repo as your upstream. It should look like this when you are finished (as long as you are using HTTPS -- if you are using SSH, it should look a bit different).
 
 ```shell
-origin  https://github.com/<USERNAME>/phase-0-unit-1.git (fetch)
-origin  https://github.com/<USERNAME>/phase-0-unit-1.git (push)
+origin  https://github.com/[USERNAME]/phase-0-unit-1.git (fetch)
+origin  https://github.com/[USERNAME]/phase-0-unit-1.git (push)
 upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (fetch)
 upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (push)
 ```
 
-<USERNAME> should be your own user name.
+[USERNAME] should be your own user name.
 
 ## Release 2: Fetching Changes
 

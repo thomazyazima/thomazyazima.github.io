@@ -27,6 +27,6 @@ Send your accountability group an email with the following information:
 
 Once you've completed the week's work, send them:
 - link to your forked `phase-0-unit-1` repository
-- link to your <USERNAME>.github.io site
+- link to your [USERNAME].github.io site
 
 Once you receive someone's repository link, take a moment to review your accountability member's reflections in their various challenges. Then leave feedback for them using the instructions on ["How to Create an Issue"](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md).

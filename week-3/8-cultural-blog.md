@@ -8,7 +8,7 @@
 - formulate ways to expand the ways you learn and think
 
 ## Release 0: Copy your Blog Template
-In your blog-posts directory in your <USERNAME>.github.io repo, copy your blog tempate into a new HTML file named `week3_cultural.html`.
+In your blog-posts directory in your [USERNAME].github.io repo, copy your blog tempate into a new HTML file named `week3_cultural.html`.
 
 ## Release 1: Research
 

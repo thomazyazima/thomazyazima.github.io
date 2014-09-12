@@ -70,7 +70,7 @@ Reflect on your learning in the "reflection" div on your site. This section shou
 This site should be initially kept in your phase-0-unit-1 repository, but we also want you to make it live on your github.io site.
 
 ## Release 5: Publish
-Using the terminal, practice copying the html and css sheets into a new folder in your <USERNAME>.github.io site. Commit and push your changes to your github.io site. Double check that everything is displaying  properly. Then add a link on the index of your site to make sure people can learn from your example!
+Using the terminal, practice copying the html and css sheets into a new folder in your [USERNAME].github.io site. Commit and push your changes to your github.io site. Double check that everything is displaying  properly. Then add a link on the index of your site to make sure people can learn from your example!
 
 ## Helpful Resources
 If you want more resources or time to build a responsive site, consider going through any of these additional resources (which take a couple of hours each):

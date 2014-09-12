@@ -20,12 +20,12 @@ Up to this point, you have been working with existing repositories. In this chal
 ![New repo form](../imgs/github-repo-1.jpg)
 
 2. **Fill out the new repository form.**
- - You *must, must, must* name your repository **<USERNAME>.github.io**.Your repository should be *public*.
+ - You *must, must, must* name your repository **[USERNAME].github.io**.Your repository should be *public*.
  - Check "Initialize this project with a README" and add an MIT license.
 
  ![New repo form](../imgs/github-repo-2.jpg)
 
- I'm gonna say it again: You *must, must, must* name your repository **<USERNAME>.github.io**. If you have trouble, double check you spelled it correctly.
+ I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**. If you have trouble, double check you spelled it correctly.
 
 3. Click on the **"Create Repository" button**
 
@@ -67,7 +67,7 @@ You added an MIT License to your repository. Read these articles to explain why:
 Now you will create a temporary index for your personal website. We will be using [Sublime Text](http://www.sublimetext.com/) as our [text editor](http://skillcrush.com/2012/09/10/text-editor/). Review the [Perfect Workflow in Sublime Text](http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293) if you need a refresher on how to write code using Sublime.
 
 - **Open a new file in Sublime**
-- Save the file as `index.html` in the **<USERNAME>.github.io directory**.
+- Save the file as `index.html` in the **[USERNAME].github.io directory**.
 
 ![Sublime save](../imgs/sublime-save.jpg)
 
@@ -88,7 +88,7 @@ Now you will create a temporary index for your personal website. We will be usin
 Using your github skills, add the file to the stage, commit your changes, and push it to Github.
 
 After your push is done, your remote repo which lives on github.com will be updated.
-Go to **http://<USERNAME>.github.io** to see your HTML page live!
+Go to **http://[USERNAME].github.io** to see your HTML page live!
 
 *NOTE: It can sometimes take up to 15 minutes to update the site after creating your repo, so if you run into a 404 error, be patient and check again later.*
 
