@@ -2,7 +2,7 @@
 
 Welcome to Phase 0! Below you will find links to the curriculum for each week. Each week will be released on Monday and will be due on the following Sunday at 11:59pm.
 
-### [Week 1: Git, Github, and the Command Line](week-1)
+### [Week 1: Git, Github, and the Command Line](week-1/README.md)
 
 Weeks 2 and 3 will be released each week.
 <!-- ### [Week 2: HTML and CSS](week-2)
