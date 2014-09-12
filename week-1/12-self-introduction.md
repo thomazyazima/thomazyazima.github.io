@@ -14,9 +14,11 @@ Despite popular belief, most software engineers work in teams and there is a str
 
 ## Release 0: Read someone else's reflections
 
-Log on to [Socrates](https://socrates.devbootcamp.com/) and look at your cohort. Find the person after you in the cohort list. Click on their name. On their profile, you should see their GitHub username. Go to their repository and read their reflections for each challenge. The URL should be https://github.com/[THEIR-USERNAME]/phase-0-unit-1. If it gives you a 404 error, try writing the URL directly. If you still get an error, send them an email and ask how they are doing! What did you learn by reading another person's reflections? Think about it and keep it in mind for your introduction email!
+Log on to [Socrates](https://socrates.devbootcamp.com/) and look at your cohort. Find the person after you in the cohort list. Click on their name. On their profile, you should see their GitHub username. Go to their repository and read their reflections for each challenge. The URL should be https://github.com/[THEIR-USERNAME]/phase-0-unit-1. If it gives you a 404 error, try writing the URL directly. If you still get an error, send them an email and ask how they are doing.
 
-## Release 0: Intro Email
+Once you've read them, or while reading through them, consider what you learned by reading another person's reflections. Keep it in mind for your introduction email!
+
+## Release 1: Intro Email
 
 Each cohort has it's own email list visible on the cohort webpage. Email that list with the subject "self introduction" or reply to the main thread you received. In your email, include your:
 
@@ -30,16 +32,16 @@ Each cohort has it's own email list visible on the cohort webpage. Email that li
 
 Send your email!
 
-## Release 1: Check Issues
+## Release 2: Check Issues
 **DOUBLE CHECK THAT YOU HAVE ISSUES ENABLED AS A FEATURE ON BOTH OF YOUR REPOSITORIES**
 
-## Release 2: Review One more
+## Release 3: Review One more
 After you start getting responses, select another person's repository to view.
 
 Leave feedback for the second person using the "Issues" feature on Github. Use the ["How to Create an Issue"](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) instructions for help.
 
-## Release 3: Celebrate!
-You made it through Week 1! Now is the time to tweet about the week! Give us a short tweet about how you're feeling using the hashtag **#DBCweek1** and tweet @devbootcmap!
+## Release 4: Celebrate!
+You made it through Week 1! Now is the time to tweet about the week! Give us a short tweet about how you're feeling using the hashtag **#DBCweek1** and tweet @devbootcamp!
 
-## Release 4: Submit your work
+## Release 5: Submit your work
 Don't forget that you need to complete your submission form on <http://apply.devbootcamp.com> to turn in your work and give us feedback! Way to go on making it through the first week!
