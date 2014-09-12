@@ -137,7 +137,10 @@ type this to test:
 sqlite3 -version
 ```
 
-## Release 7: Install Postgresql
+## Release 7: Set up Sublime
+Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
+
+## Release 8: Install Postgresql
 
 Note that you will not need postgres to complete phase 0. If you plan on making this you primary development machine, postgres is a much better option than SQLite for larger apps.
 
@@ -157,6 +160,6 @@ make sure its a capital V, this prints the version and exits. If you get into ps
 
 NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
 
-## Release 8: Thats all
+## Release 9: Thats all
 
 You now have a set up environment for development! If you are interested in this kind of thing, there is a whole job created around automating server and terminal set up. It is called DevOps, they do lots of things to make software development more efficient. Check it out! [devopsreactions](http://devopsreactions.tumblr.com/)

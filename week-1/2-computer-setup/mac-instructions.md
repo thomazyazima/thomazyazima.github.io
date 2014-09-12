@@ -21,7 +21,6 @@ Download and follow instructions from [their site](http://www.sublimetext.com).
 
 You don't have to purchase your license right away, you can "cancel" out of the dialog box as many times as you would like, but it is good practice to buy a license after you decide you like it. (Since eventually you're hoping to get paid for writing programs, you want to pay it forward in advance.)
 
-
 ## Release 1: Your Operating System
 If you are using OS X, you should upgrade to Mavericks if you haven't already. You can get it from the App Store on your computer and it's free. To find out which operating system you're running, open the "About this Mac," Under OS X, you should see a version. Mavericks is Version 10.9.
 
@@ -77,52 +76,55 @@ Now make sublime text your preferred editor for git:
 git config --global core.editor subl
 ```
 
-## Release 6: Install Ruby Build
+## Release 6: Set up Sublime
+Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
+
+## Release 7: Install Ruby Build
 Type: ```brew install ruby-build```
 
 We need this to install Rbenv, which will ruby version manager. Rbenv uses this to install individual versions of Ruby. (Did you know you can have multiple versions of ruby on your machine?)
 
-## Release 7: Install Rbenv
+## Release 8: Install Rbenv
 Type: ```brew install rbenv```
 
 Now you have Rbenv! Sweet!
 
 **NOTE:** If you already have RVM installed, you will not need to install Rbenv. Do not try to install both, they don't work well together and will mess up your machine. Rbenv is preferred in many of our locations, so if you have RVM and want to install Rbenv, you'll have to uninstall RVM first.
 
-## Release 8: Install Ruby 2.0.0
+## Release 9: Install Ruby 2.0.0
 Type: ```rbenv install 2.0.0-p481```
 
-Now, you need to set the default ruby in your computer to the ruby we just installed. 
+Now, you need to set the default ruby in your computer to the ruby we just installed.
 
 Type: ``` rbenv global 2.0.0-p481```
 
 NOTE: You just installed Ruby 2.0.0 as your default. When you are reading the Ruby Docs, make sure you are referring to this version, NOT Ruby 2.1.0.
 
-## Release 9: Install Git
+## Release 10: Install Git
 Type: ```brew install git```
 
 This installs git and autocompletion for git.
 
-## Release 10: Install Node
+## Release 11: Install Node
 Node allows you to run Javascript in your terminal.
 
 Type: ```brew install node```
 
 You'll use this later in Phase 0.
 
-## Release 11: Install Rspec
+## Release 12: Install Rspec
 Type ```gem install rspec```
 
 This will install RSpec, a ruby testing framework.
 
-## Release 12: Install SQLite
+## Release 13: Install SQLite
 Type ```brew install SQLite3```
 
 To overwride your system copy of SQLite, we need to type an additional command:
 
 ```brew link sqlite3 --force```
 
-## Release 13: Install Postgres
+## Release 14: Install Postgres
 Type the following commands one at a time:
 
 NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.

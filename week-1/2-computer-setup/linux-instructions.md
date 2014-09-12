@@ -91,7 +91,10 @@ Now make sublime text your preferred editor for git:
 git config --global core.editor subl
 ```
 
-## Release 7: Install Node
+## Release 7: Set up Sublime
+Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/text-editor-setup.md) in the Phase 0 Handbook to make Sublime your default text editor.
+
+## Release 8: Install Node
 Node allows you to run Javascript in your terminal.
 
 You should have installed this when installing Rbenv if yo used the digital ocean guide.
@@ -104,12 +107,12 @@ node -v
 
 You'll use this later in Phase 0.
 
-## Release 11: Install Rspec
+## Release 9: Install Rspec
 Type ```gem install rspec```
 
 This will install RSpec, a ruby testing framework.
 
-## Release 12: Install SQLite
+## Release 10: Install SQLite
 Install sqlite3 using apt-get
 
 ```shell
@@ -119,7 +122,7 @@ gem install sqlite3-ruby
 ```
 type sqlite3 -version to test.
 
-## Release 13: Install Postgres
+## Release 11: Install Postgres
 Type the following commands one at a time:
 
 NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
