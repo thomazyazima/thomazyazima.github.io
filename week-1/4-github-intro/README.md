@@ -16,7 +16,7 @@ Web Developers use tools to track their progress and create backups. GitHub is a
 ## Release 0: GitHub Vocabulary
 
 #### Repositories
-You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders, also called directories, and files. If you take a look at [phase-0-unit-1](../../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "README.md." Github displays README files on the main page of a repository by default.
+You know how you make folders on your computers? In each folder, you can have other folders or files. A GitHub repository is essentially the same as a folder on your computer, except that it's on the web. It can have folders, also called directories, and files. If you take a look at [phase-0-unit-1](../), you'll see three folders (week-1, week-2, and week-3) listed at the top, and a file called "README.md." Github displays README files on the main page of a repository by default.
 
 ![repository-main](../imgs/repository-main.png)
 
@@ -31,7 +31,7 @@ Challenges will be contained in directories or individual files. You can determi
 Don't overthink the web version of github too much. It's a very similar structure to a computer's file structure you already know.
 
 #### Branches
-By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the ideal and should always be working.
+By default, all repositories have a `master` branch. This is where the most perfect, well-tested code lives. The master branch should be the the most ideal version of your code and always working/running properly.
 
 In cases where people want to make changes or add features, they will make a new branch off of the master (using `git co -b branch-name`). This will take a copy of the code from the master and allow you to make changes and test them out. Once they are fully tested, they can be merged back into the master branch.
 
@@ -80,9 +80,7 @@ Confused about the difference between git and GitHub? Try one of these articles:
 
 
 ## Release 4: Reflect
-Reflecting is essential for solidifying your learning. You will be required to reflect on each challenge in Phase 0. It will help you learn how you learn, give opportunities for sharing resources, and help your instructors gauge your progress. Reflections are for you, but they will also be read by others, so make sure to write for an audience. (Please note: if you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video).
-
-Because you haven't created your own copy (or fork) of this repository, you'll need to keep track of your answers to these questions on your computer or in your notes. Be sure to write them down! You'll be expected to add them to your reflection file in the next challenge.
+You know the drill at this point! Consider the following questions, and write them down so you can add them to your next challenge reflection.
 
 * Write an explanation of and compare git and GitHub to a non-technical audience.
 * Describe what version control is and how GitHub helps with it.

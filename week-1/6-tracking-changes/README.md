@@ -79,4 +79,4 @@ Go to your fork on GitHub to see your changes live!
 Go ahead and answer each of the questions in the my_reflection.md file (using Sublime). Add your changes and commit them. Make sure you make a great commit message when done with this challenge. Don't forget to push your changes!
 
 ## Release 6: Practice
-Remember the reflection you did for the first challenge on the [command line](../1-command-line)? Go through the workflow to edit the [my_reflection.md](../1-command-line/my_reflection.md) to add your answers.
+Remember the reflection you did for the first couple of challenges on the [command line](../1-command-line) and [thinking about time](../3-think-about-time)? Go through the workflow to edit the reflection files for each challenge to add your answers.

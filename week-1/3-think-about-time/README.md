@@ -37,5 +37,5 @@ It's easy to get carried away with research, so limit yourself to an hour for th
 After you've gotten a glimpse of the lay of the land, go back and spend more time with anything that sounded interesting. You should have a decent idea about what is out there, so now you can explore the areas that really interest you.
 
 ## Release 2: Reflect
-Answer the questions in your [reflection file](my_reflection.md). The more thorough you are the more you'll gain.
+As mentioned previously, reflecting is essential for solidifying your learning. If you aren't much of a writer, but are more of a talker, you can create video reflections. You'll need to include a link to your reflection video when you get your own copy of the curriculum. Because you don't have that yet, you'll need to keep track of your answers to the questions in the [reflection file](my_reflection.md) on your computer or in your notes. Be sure to write them down! You'll be expected to add them to your reflection file in a later challenge. Remember to limit your reflection time to about 10-15 minutes.
 
