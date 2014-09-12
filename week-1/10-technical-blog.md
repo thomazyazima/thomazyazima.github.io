@@ -3,7 +3,9 @@
 # U1.W1: Git Bloggin'
 
 ## Learning Competencies
--
+- Describe version control
+- Explain how git tracks changes
+- Evaluate the benefits of using GitHub to store code
 
 ## Summary
 
@@ -28,18 +30,18 @@ This week you've learned a bit about the command line and gotten more familiar w
 
 - Navigate to your <USERNAME>.github.io repository
 - Make a directory called `blog`
-- In the `blog` directory, add a new file called `u1-w1-git-blog.md`
-- Copy the markdown template from <blog-template.md> (in this repository) into your `u1-w1-git-blog.md` file.
+- In the `blog` directory, add a new file called `t1-git-blog.md`
+- Copy the markdown template from [blog-template.md](blog-template.md) (in this repository) into your `t1-git-blog.md` file.
 - Add and commit your changes with a good commit message
 - Push your changes
-- Navigate to your <USERNAME>.github.io/blog/u1-w1-git-blog.md
+- Navigate to your <USERNAME>.github.io/blog/t1-git-blog.md
 
 If you went through every step, you should see the blog template live on your site!
 
 
 ## Release 2: Write
 
-Now, in your `u1-w1-git-blog.md` file, write your blog post and address the main questions described above. This will be a post you share with others, so do remember to check it for clarity. You should imagine your audience is a n00b (newbie) to programming. If it helps, imagine writing post on the questions above for yourself last week.
+Now, in your `t1-git-blog.md` file, write your blog post and address the main questions described above. This will be a post you share with others, so do remember to check it for clarity. You should imagine your audience is a n00b (newbie) to programming. If it helps, imagine writing post on the questions above for yourself last week.
 
 
 ## Release 3: Proofread
@@ -53,7 +55,7 @@ Once you are satisfied with what you've written, go through the git workflow to 
 
 Next week you will make this post much prettier - but for now it's important that you get the content up there.
 
-Double check you can see your updated content on <USERNAME>.github.io/blog/u1-w1-git-blog.md.
+Double check you can see your updated content on <USERNAME>.github.io/blog/t1-git-blog.md.
 
 ## Release 5: Promote
 
