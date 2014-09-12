@@ -22,7 +22,7 @@ You know how you make folders on your computers? In each folder, you can have ot
 
 From the main page of a repository, click on the appropriate link to access that week's curriculum. You've already proved you've made it to week-1 by navigating to and reading this challenge.
 
-The README in each directory will be the main source of instructions that will direct you through the curriculum. Make sure to read all the instructions carefully. If you have questions on instructions, post them in the google+ community.
+The README in each directory will be the main source of instructions that will direct you through the curriculum. Make sure to read all the instructions carefully. If you have questions on instructions, post them in the Google+ community.
 
 Challenges will be contained in directories or individual files. You can determine the order of the challenges in two ways:
   1. The README lists the challenges in order.

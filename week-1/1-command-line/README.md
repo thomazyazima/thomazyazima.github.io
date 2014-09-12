@@ -13,13 +13,13 @@ By the end of this lesson, you should be able to ___ in/using the command line.
 - Get help
 
 ## Summary
-Programmers do not always have pretty ways to interface or test their code works. Most spend a good deal of time in their command line - "a tool where you can use text commands to perform specific tasks." You don't get to slow yourself down by opening a finder and double-clicking on folders, instead you get to navigate around your computer, open, create, delete, move, files, etc. all using commands.
+Programmers do not always have pretty ways to interface or test their code. Most spend a good deal of time in their command line - "a tool where you can use text commands to perform specific tasks." You don't slow yourself down opening a finder and double-clicking on folders. Instead, you get to navigate around your computer, open, create, delete, move, files, etc. all using commands.
 
 Knowing how to use your command line will be vital to your success as a programmer-- and it's the first place to start getting acclimated to this new way of using your computer.
 
 Unfortunately (or fortunately), the command line is very simple. There are set commands that do things. While you can hurt your computer if you type the wrong thing in the wrong directory, it's easy to learn how to do most things in the command line. But, it's not incredibly fun since it requires rote memorization and constant practice.
 
-Keep this in mind, the more you can do without a mouse, the faster you will become.
+Keep this in mind: the more you can do without a mouse, the faster you will become.
 
 ## Releases
 

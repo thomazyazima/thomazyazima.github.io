@@ -7,7 +7,7 @@
 - Predict how you will react to DBC's approach
 
 ## Summary
-Dev Bootcamp does not simply try to teach people how to program, we also focus on the mind and body. In Phase 0 you will be introduced to various cultural topics you'll be expected to be familiar with or open to learning more about at Dev Bootcamp. Similarly to the technical blogs, you should try to time-box (limit yourself) to spending an hour on it.
+Dev Bootcamp does not simply try to teach people how to program. We also focus on the mind and body. In Phase 0 you will be introduced to various cultural topics you'll be expected to be familiar with or open to learning more about at Dev Bootcamp. Similarly to the technical blogs, you should try to time-box (limit yourself) to spending an hour on it.
 
 ## Release 0: Copy your Blog Template
 First, create a new HTML file for your this post in your 'blog-posts' directory in your <USERNAME>.github.io website.

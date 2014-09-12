@@ -11,7 +11,7 @@
 
 ## Summary
 
-Git works by following all of the changes in the files inside a git tracked folder. The save point in git is called a commit. Think of a commit like a checkpoint in a video game. It is a point where you can go back to and look at the state of the files at that commit. Just like in a video game if you die to a boss or make the wrong decision, you can go back to the checkpoint. This saves the pain of starting over from the beginning. A commit is your safety net if you accidentally introduce bugs in your code. You can revert to a working state while you debug your code. It is a great idea to commit often to create more frequent save points to fall back on.
+Git works by following all of the changes in the files inside a git tracked folder. The save point in git is called a commit. Think of a commit like a checkpoint in a video game. It is a point where you can go back to and look at the state of the files at that commit. Just like in a video game if you die at a boss or make the wrong decision, you can go back to the checkpoint. This saves the pain of starting over from the beginning. A commit is your safety net if you accidentally introduce bugs in your code. You can revert to a working state while you debug your code. It is a great idea to commit often to create more frequent save points to fall back on.
 
 ## Releases
 
@@ -23,16 +23,16 @@ Git works by following all of the changes in the files inside a git tracked fold
 
 ## Release 1: Good Commit Messages
 
-Because commits are 'save points', it is important to start getting in the habit of writing good commit messages so you know what each commit includes. Here is one person's style guide for commits [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html). Note that there is a bunch of advanced git talk here, just focus on the first part of the post.
+Because commits are 'save points', it is important to start getting in the habit of writing good commit messages so you know what each commit includes. Here is [Tim Pope's style guide](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) for commits. There's a bunch of advanced git talk here, so just focus on the first part of the post.
 
-You can type your commit your messages in your terminal with `git commit -m "message goes here between the quotes"` or you can use the verbose commit message to give yourself some room `git commit -v` will open your default editor according to git (learn how to change it [here](https://help.github.com/articles/associating-text-editors-with-git) follow instructions for sublime). After you write your message, save and close the file. Your commit will be recorded.
+You can type your commit messages in your terminal with `git commit -m "message goes here between the quotes"` or you can use the verbose commit message to give yourself some room `git commit -v` will open your default editor according to git (learn how to change it [here](https://help.github.com/articles/associating-text-editors-with-git) follow instructions for sublime). After you write your message, save and close the file. Your commit will be recorded.
 
 You can check the commit history of a repository in the command line by typing `git log` and scroll using the up and down arrows. Exit using `q`. How would you score our git commit messages? Would you know where to look in each message to find what files were changed?
 
 
 ## Release 2: Tracking Changes
 
-Whenever you change the state of a file, say from blank to with some letters on it, adding or deleting a file, it is tracked. You can check the status of all the files in the local repo by typing `git status` . If you have modified any files you will see some categories: Changes not staged for commit:, Changes to be committed:, and if you have created a new file, Untracked files:. No changes would return the message:
+Whenever you change the state of a file, it is tracked. You can check the status of all the files in the local repo by typing `git status` . If you have modified any files you will see some categories: Changes not staged for commit:, Changes to be committed:, and if you have created a new file, Untracked files:. No changes would return the message:
 
 `On branch master
 nothing to commit, working directory clean`
@@ -49,7 +49,7 @@ HEAD is the commit you are currently on, HEAD^ is the last commit, HEAD~3, HEAD~
 
 ## Release 3: Make Changes
 
-So now you know about how git tracks changes, so it's time to make some changes!
+Now you know about how git tracks changes, so it's time to make some changes!
 
 - Using Sublime, open the [my_reflection.md](my_reflection.md) file associated with this challenge
 - Answer the first question in the reflection file - make sure to save your file

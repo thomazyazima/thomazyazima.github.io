@@ -31,7 +31,7 @@ In git terms, this is called **cloning a repository locally**. A "local reposito
 #### Cloning a repository with the command line
 Now you'll want to bring the repository to our computer. There is a series of commands to do this.
 
-First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local github repository, so **always** make sure you are the correct directory, like your Desktop or a phase-0 folder.
+First, open your terminal and check where you are (type `pwd`). You NEVER want to clone a repository into another local github repository, so **always** make sure you are in the correct directory, like your Desktop or a phase-0 folder.
 
 The first step is to get the URL of your FORKED repo (Don't clone Devbootcamp's version of the repo!). This is found here:
 
@@ -45,8 +45,8 @@ Mine says SSH URL. If you have your SSH key set up with Github you can use this.
 
 If you are using HTTPS, you will be prompted to enter your github username and password. (You won't be able to see what you type, when you finish entering your username, press enter. You will then be prompted to enter your password -- press enter when you're finished).
 
-Now you should see some stuff execute, it looks like you're hacking a mainframe from the 90s.
+Now you should see some stuff execute. It looks like you're hacking a mainframe from the 90s!
 
-After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned! Navigate into this folder with `cd` and open it in Sublime.
+After the command prompt appears again, execute the command `ls`. You should now see the folder with the same name as the repo you cloned. Navigate into this folder with `cd` and open it in Sublime.
 
-Once you have it open in sublime, you can see all of the files and directories. Find the directory this file is in, and open the "README.md" file. From now on, you should read all instructions and complete all challenges in sublime. This will help you read and write markdown as well as better understand the file tree. Take a look at the links to images, for example. Do you know what the `../` does? If not, find out!
+Once you have it open in Sublime, you can see all of the files and directories. Find the directory this file is in, and open the "README.md" file. From now on, you should read all instructions and complete all challenges in Sublime. This will help you read and write markdown as well as better understand the file tree. Take a look at the links to images, for example. Do you know what the `../` does? If not, find out!

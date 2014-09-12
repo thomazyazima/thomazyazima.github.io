@@ -16,7 +16,7 @@ To prepare our students for a bright future in the tech community we want to mak
 
 Twitter is an organic way to keep up with news, make friends and learn things that are happening all over the world. Whether you’re following a hashtag for a developer conference like #railsconf or you want to stay in touch with a developer you met at a meetup, Twitter is a “non-creepy” way to stalk people who say and do amazing things.
 
-Now I’m no mind reader, but you may be thinking one of the following things.  “I don’t have time for Twitter” “I don’t care what you ate for breakfast” or “Isn’t Twitter for celebrities and news organizations?”
+Now I’m no mind reader, but you may be thinking one of the following things:  “I don’t have time for Twitter” “I don’t care what you ate for breakfast” or “Isn’t Twitter for celebrities and news organizations?”
 
 Continue on through the following lessons to learn the answers to these questions and many more!
 
@@ -29,13 +29,13 @@ Before we dive into how to use Twitter, we’ll need to go over some basics. The
 
 **stream** - your Twitter homestream contains all the current and past tweets from other users you follow. You don’t have to keep up with “all the tweets” instead spend 5 minutes in the morning, at lunch, and in the evening browsing to see if anything “interesting is happening” or whether there are any articles worth reading.
 
-**followers** - when you share information on twitter only the people who have opted-in to follow you will see this appear in their stream. Keep in mind this information is still publicly searchable, but remember when you’re first starting out, your audience who will “read your tweets” will be very small. Be patient, this will grow over time as you begin to follow, engage and share worthwhile content with others.
+**followers** - when you share information on twitter only the people who have opted-in to follow you will see this appear in their stream. Keep in mind this information is still publicly searchable, but remember when you’re first starting out, your audience who will “read your tweets” will be very small. Be patient. This will grow over time as you begin to follow, engage, and share worthwhile content with others.
 
 **retweet** - a great way to gain followers is by engaging with other people. When you see someone else post something worthwhile, or something that resonates with you, be sure to retweet them to acknowledge their contribution and to share it with your followers. Other users are notified when you retweet content and some may even thank you :)
 
 **hashtag** - this helps to make your tweets searchable and allows other users to find what you're tweeting about and connect with you if your tweets are relative to what they care about.
 
-**lists** - organize who you follow with this amazingly, helpful tool! Lists help you organize who you're following into focused groups. This will help you focus on a particular topic or group of people while scanning Twitter quickly.
+**lists** - organize who you follow with this amazingly helpful tool! Lists help you organize who you're following into focused groups. This will help you focus on a particular topic or group of people while scanning Twitter quickly.
 
 Now that you have some of the basics down, let’s make sure you’re engaging and learning from awesome people.
 

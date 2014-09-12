@@ -9,7 +9,7 @@
 
 ## Summary
 
-Up to this point, you have been working with existing repositories. In this challenge, you'll be creating your own repository that will host your very very own website! You'll be using a GitHub repository and [GitHub Pages](http://pages.github.com/) to set it up.
+Up to this point, you have been working with existing repositories. In this challenge, you'll be creating your own repository that will host your very own website! You'll be using a GitHub repository and [GitHub Pages](http://pages.github.com/) to set it up.
 
 ## Releases
 

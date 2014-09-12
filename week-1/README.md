@@ -1,10 +1,10 @@
 # Week 1: Git, Github, and the Command Line
 
-**Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and DBC community. Please make sure you've completed the [phase 0 prerequisites](https://github.com/Devbootcamp/phase-0-handbook/blob/master/phase-0-prerequisites.md) **before** getting started with the weekly challenges.
+**Welcome to Phase 0!** We hope you are excited to further your knowledge and begin integrating into the developer and DBC community. Please make sure you've completed the [Phase 0 prerequisites](https://github.com/Devbootcamp/phase-0-handbook/blob/master/phase-0-prerequisites.md) **before** getting started with the weekly challenges.
 
-Please keep track of how much time you spend on the required sections of Phase 0 challenges, we'll ask you for this information in your weekly submission forms to gauge whether we are giving too much, the right amount, or not enough work each week.
+Please keep track of how much time you spend on the required sections of Phase 0 challenges. We'll ask you for this information in your weekly submission forms to gauge whether we are giving too much, the right amount, or not enough work each week.
 
-When you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
+If you have questions about the instructions or how to do something, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone during Phase 0. Please reach out to us at <phase0@devbootcamp.com> if you do.
 
 
 ## This Week's Challenges
@@ -34,7 +34,7 @@ When you have questions about the instructions or how to do something, are confu
 ## Remember your Unit Expectations!
 - Give feedback for each person you paired with, if any. You need to submit at least 6 pieces of feedback in this unit. (4 for peer pairing, and 2 for GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit)
-- Sign up for GPS 1.1 and 1.2 on our [scheduling app](https://phase0.devbootcamp.com/login) (These must be done in a session with guide, and there are only enough sessions for students to attend one, so make sure you sign up early!)
+- Sign up for GPS 1.1 and 1.2 on our [scheduling app](https://phase0.devbootcamp.com/login) (These must be done in a session with a guide, and there are only enough sessions for students to attend one, so make sure you sign up early!)
 
 
 ### How to navigate this repository
