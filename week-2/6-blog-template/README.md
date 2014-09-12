@@ -1,0 +1,47 @@
+[Week 2 Home](../)
+
+# U1.W2: Blog Template - Mandatory Pairing Challenge!
+
+## Learning Competencies
+- Use a wireframe to construct a website
+- Use HTML tags to present content on a website
+- Position HTML elements using CSS padding, borders, and margins
+
+## Summary
+In this challenge, you will be building a blog template using the wireframe you make in the [2-wireframing](../2-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
+
+This is a mandatory pairing challenge, which means you will need to work on it with a partner.
+
+## Releases
+
+## Release 0: Wireframe to HTML
+
+First, navigate to your [USERNAME].github.io site in your terminal. Create a new directory called "blog-posts." In the blog-posts folder, create a new file called "blog-template.html."
+
+Using the wireframe you created in challange 2 as a reference, build your blog template by creating HTML tags for specific content. You may want to add placeholder text like [http://www.lipsum.com](Lorem Ipsum) to the template temporarily to test your code.
+
+Once you have all of the content on your site, you are ready to add CSS.
+
+## Release 1: Apply CSS
+
+In the main directory for your [USERNAME].github.io site, create a "stylesheets" directory. In that directory, create a "blog-stylesheet.css" Link to that stylesheet in your blog-template.html.
+
+Use CSS to position and format the content of your blog. Once you have it displayed as you want it, move on to the next release.
+
+## Release 2: Delete unnecessary text
+
+Since this is a template, you don't want to have unnecessary text you'll have to delete each time, so delete any of the temporary text. If you want to add comments like ```<!-- insert title here -->``` to make it clear what information goes where, that might be useful.
+
+## Release 3: Move your Week 1 blogs to the template
+Now that you have a template, copy and paste your week 1 blogs to this template.
+
+## Release 4: Commit your changes
+
+Now that you've made your template, you're ready to use it in the blog assignments. Add your changes to the stage and commit them.
+
+## Release 5: Reflect
+On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
+
+Get ready to blog!
+
+
