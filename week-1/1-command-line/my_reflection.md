@@ -34,4 +34,4 @@ Write your reflection on a document or by hand on the following questions. Keep 
 
 -`help`
 
--`Exit`
+-`exit`
