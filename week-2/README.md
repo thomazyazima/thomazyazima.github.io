@@ -13,9 +13,9 @@ This week's material covers web design, HTML, and CSS. You'll even get to build 
 6. [Create a Blog Template](6-blog-template)
 7. [Chrome Dev Tools and Positioning](7-chrome-devtools)
 8. [Testing and Maintenance](8-testing-and-maintenance)
-9. [Your Own Website - SOLO CHALLENGE!](8-your-website-solo-challenge)
-10. [Technical Blog](9-technical-blog.md)
-11. [BONUS challenges](10-BONUS-challenges)
+9. [Your Own Website - SOLO CHALLENGE!](9-your-website-solo-challenge)
+10. [Technical Blog](10-technical-blog.md)
+11. [BONUS challenges](11-BONUS-challenges)
 
 
 ## Fetch DBC's Changes
