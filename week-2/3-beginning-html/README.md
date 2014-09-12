@@ -15,7 +15,7 @@ If you want to pair on this, we recommend going through Release 0 and 1 prior to
 ## Releases
 
 ## Release 0: Clone your fork
-In the last challenge, you cloned your [USERNAME].github.io site to your personal computer. In this challenge, you'll be doing most of your work in the phase-0-unit-1 repository.
+In the last challenge, you cloned your <USERNAME>.github.io site to your personal computer. In this challenge, you'll be doing most of your work in the phase-0-unit-1 repository.
 
 Open this directory in sublime. Navigate to this file, and start reading the readme file (in Markdown) and making changes in the sublime files. Do not make changes, or even bother reading the curriculum, on github. It's good to get used to the way markdown looks (except to view images).
 
@@ -47,7 +47,7 @@ We've included the Geico image (geicoimg.gif) for you in the week-1 [imgs](imgs)
 Now edit the [my_reflection.md](my_reflection.md) file associated with this challenge.
 
 ## Release 5: Publish
-Commit your changes for each file in this challenge, and push your changes to github. Then double check your changes are on your www.github.com/[USERNAME]/phase-0-unit-1 repository. You should see your commit message(s) there.
+Commit your changes for each file in this challenge, and push your changes to github. Then double check your changes are on your www.github.com/<USERNAME>/phase-0-unit-1 repository. You should see your commit message(s) there.
 
 ## Additional Resources:
 - w3schools.com: [HTML4 and HTML5 Tutorial](http://www.w3schools.com/html/) This is a great site for looking up syntax!
