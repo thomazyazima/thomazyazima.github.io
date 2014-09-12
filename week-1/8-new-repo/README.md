@@ -27,21 +27,19 @@ Up to this point, you have been working with existing repositories. In this chal
 
  I'm gonna say it again: You *must, must, must* name your repository **[USERNAME].github.io**. If you have trouble, double check you spelled it correctly.
 
-3. Click on the **"Create Repository" button**
+3. Click on the **"Create Repository"** button
 
 4. You should now be on the main repo page. On the right side, click on **settings**. In the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
 
-5. Enable Issues
-
 ![enable issues](../imgs/enable-issues.png)
 
-6. **Do a celebration dance!** <br />:dancers: :tada: :dancer:
+**Do a celebration dance!** <br />:dancers: :tada: :dancer:
 
 ![You have a repo](../imgs/github-repo3.jpg)
 
 ## Release 1: Clone the repository
 
-Now we want to bring the repository to our computer like we did in the last challenge. Go through the cloning workflow (not the forking part) you created in the [fork and clone](URL NEEDED) challenge. Before you clone, make sure you are **NOT** in your phase-0-unit-1 directory. You should be in a separate folder.
+Now we want to bring the repository to our computer like we did in the last challenge. Go through the cloning workflow (not the forking part) you created in the [fork and clone](URL NEEDED) challenge. Before you clone, make sure you are **NOT** in your phase-0-unit-1 directory in your command line. You should be in a separate directory.
 
 The first step is to get the URL of the repo. This is found here:
 

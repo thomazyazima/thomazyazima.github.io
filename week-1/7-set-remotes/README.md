@@ -24,7 +24,7 @@ What do your remotes look like? use `git remote -v` to check the URLs of your re
 
 ## Release 1: Add an Upstream
 
-Add the Devbootcamp repo as your upstream. It should look like this when you are finished (as long as you are using HTTPS -- if you are using SSH, it should look a bit different).
+Add the Devbootcamp repo as your upstream. It should look like this when you are finished (as long as you are using HTTPS -- if you are using SSH, the urls will look a bit different).
 
 ```shell
 origin  https://github.com/[USERNAME]/phase-0-unit-1.git (fetch)
