@@ -15,9 +15,9 @@ Images - what images evoke the feeling you're trying to acheive on your site? Wh
 That's where a mood board comes in. Mood boards set the tone for your site by drawing inspirational pictures, color schemes, and fonts together. It's a great way to start thinking about design and what visual elements you want to use.
 
 ## Release 0: Research
--[http://www.onextrapixel.com/2012/02/10/mood-boarding-methods-for-web-designers/](Mood Boarding Methods for Web Designers)
--[http://www.protofuse.com/blog/how-web-design-mood-board-impacts-ux/](How a Web Design Mood board impacts User Experience Design)
--[http://www.creatively-driven.com/the-art-of-the-mood-board/](The Art of: The Mood Board)
+-[Mood Boarding Methods for Web Designers](http://www.onextrapixel.com/2012/02/10/mood-boarding-methods-for-web-designers/)
+-[How a Web Design Mood board impacts User Experience Design](http://www.protofuse.com/blog/how-web-design-mood-board-impacts-ux/)
+-[The Art of: The Mood Board](http://www.creatively-driven.com/the-art-of-the-mood-board/)
 
 ## Release 1: Create a Mood Board
 
