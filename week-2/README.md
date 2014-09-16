@@ -4,13 +4,11 @@ Week 2's material is not ready yet!
 
 We will release it with changes at least by the Friday before week 2 begins.
 
-<!-- This week's material covers web design, HTML, and CSS and will get you building your own website.
-
 This week's material covers web design, HTML, and CSS. You'll even get to build your own website!
 
 ## Challenges
 1. [Cultural Assignment](1-cultural-assignment.md)
-2. [Site Planning](2-site-planning.md)
+2. [Site Planning](2-site-planning)
 3. [Wireframing](3-wireframing)
 4. [Beginning HTML](4-beginning-html)
 5. [Beginning CSS](5-beginning-css)
