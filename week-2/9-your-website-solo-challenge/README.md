@@ -15,11 +15,19 @@
 
 In this challenge, you will make your [USERNAME].github.io site using the principles of design you learned in [site planning](2-site-planning) and the wireframe you made in the [wireframing challenge](3-wireframing) challenge. You'll also need to fill out the other pages of your site.
 
+<<<<<<< HEAD:week-2/9-your-website-solo-challenge/README.md
 You may not use Bootstrap or any other design framework for your site.
 
 Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version.
 
 **Remember!** Designing and building a site can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
+=======
+In this challenge, you will making your [USERNAME].github.io site yours using the wireframe you made in the [week 1 wireframing](../../week-1/8-wireframing) challenge. You'll also need to fill out the other pages of your site.
+
+You may not use Bootstrap or any other design framework for your site.
+
+Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version.
+>>>>>>> 41cf58cc6374f1f816e8a168bde656862ee453c5:week-2/7-your-website-solo-challenge/README.md
 
 ## Releases
 
@@ -38,7 +46,12 @@ Consider the purpose of your github.io site. In Phase 0 it is the place where yo
 But what do you think of it as? Consider the purpose, goals, target audience, and content you will be putting on the site.
 
 ## Release 2: Planning
+<<<<<<< HEAD:week-2/9-your-website-solo-challenge/README.md
 Reconsider the wireframe you created. Do you need to make any changes to it based on what you learned about design? If so, make those changes.
+=======
+
+Reconsider the wireframe you created for your index.html in [week 1](../../week-1/8-wireframing). Do you need to make any changes to it based on what you learned about design? If so, make those changes.
+>>>>>>> 41cf58cc6374f1f816e8a168bde656862ee453c5:week-2/7-your-website-solo-challenge/README.md
 
 While you're at it, you should also make a basic wireframe for the other pages on your site including, but not limited to pages for:
  - About me
@@ -67,7 +80,7 @@ Once you have all of the content on your index, you are ready to create the othe
 
 
 #### Apply CSS
-Now you can truly begin to appreciate CSS. Each page can have a similar look if you use the same classes to format them the same.
+Now you can truly begin to appreciate CSS, which stands for **C**ascading **S**tyle **S**heets. Each page can have a similar look if you use the same classes to format them the same.
 
 - Add styling to your header, footer, and navigation bar.
 - Style and position the content to match your wireframe.
@@ -78,13 +91,13 @@ Don't forget about Chrome Devtools for testing out your style changes and figuri
 Reminder: Designing and building a site can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
 
 ## Release 5: Testing and Delivery
-
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
 
 Take a look at two other sites and give them feedback using the issues on their github.io once you're finished with your site. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
 
 ## Release 6: Maintenance
 Now that you have your MVP, decide how you are going to make improvements or integrate feedback.
+
 We suggest integrating a few pieces of feedback or making a few improvements each week when you work on your blog assignments.
 
 ## Release 7: Reflect
