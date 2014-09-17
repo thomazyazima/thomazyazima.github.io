@@ -41,7 +41,7 @@ Open a stypi file (only one person needs to do this) and name it with a `.html` 
 
 Based on your wireframe, add a skeleton for each section.
 
-Be sure to include a link to the phase-0-unit-1/week-2/8-gps1.1/gps.1.1.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
+Be sure to include a link to the phase-0-unit-1/week-2/8-gps1.2/gps.1.2.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files.
 
 
 ## Release 2: Discuss Pair Programming
@@ -58,7 +58,7 @@ Use CSS to make it look nice. Include pictures, outside fonts, etc. You will nee
 What was it like to pair for the first time? Did you enjoy it? What worked? What didn't work? Add your reflection to your page and style it as well.
 
 ## Release 5: Copy, commit, and push
-When you are finished, copy your code into the [gps1.1.css](gps1.1.css) and [gps1.1.html](gps1.1.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them
+When you are finished, copy your code into the [gps1.2.css](gps1.2.css) and [gps1.2.html](gps1.2.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. Update the html file. Then, test that everything is still  working by saving them
 and running them together from your computer.
 
 Commit and push your changes onto the phase-0-unit-1 repository.
