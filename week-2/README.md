@@ -18,10 +18,11 @@ Please keep track of the time you are spending on the mandatory sections of the 
 5. [Beginning CSS](5-beginning-css)
 6. [Create a Blog Template](6-blog-template) **Mandatory Pairing Challenge**
 7. [Chrome Dev Tools and Positioning](7-chrome-devtools)
-8. [Testing and Maintenance](8-testing-and-maintenance)
-9. [Your Own Website - SOLO CHALLENGE!](9-your-website-solo-challenge)
+8. [Your Own Website - SOLO CHALLENGE!](8-your-website-solo-challenge)
+9. [Testing and Maintenance](9-testing-and-maintenance)
 10. [Technical Blog](10-technical-blog.md)
-11. [BONUS challenges](11-BONUS-challenges)
+11. [GPS 1.1](11-gps-1-1) **Do not look at this until your pairing session**
+12. [BONUS challenges](12-BONUS-challenges)
 
 
 ## Submitting your work
