@@ -33,10 +33,13 @@ In this unit, you'll be creating your own Phase 0 website where you'll post your
 
 You'll definitely want to include:
 
+ - Links to your social networks (Twitter, facebook, linked-in, quora, github etc. Basically anything from Socrates except for Tumblr, unless you have a tumblr blog you want to add as well)
+  - Your picture
   - Your contact information
-  - Your blog
-  - Your GitHub projects
-  - Your Background
+  - Link to your blog
+  - About me
+  - Your projects
+  - Anything else you want to include
 
 ## Release 2: Site Planning Reflection
 Based on your research above, navigate to the [my_reflection.md](my_reflection.md) page for this challenge to answer questions in the Site Planning section.
