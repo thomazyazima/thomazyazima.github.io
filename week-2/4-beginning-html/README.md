@@ -27,6 +27,7 @@ If you want to pair on this, we recommend going through Release 0 by yourself. T
 ## Release 1: Set up your HTML Page
 It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, html tags, a head, title, body, etc. Don't forget your closing tags!
 
+Note: You can view your html page at any time by opening the file in a browser.
 
 ## Release 2:
 Now it's time to add the fun stuff. You don't need to point to the correct URL in the links; instead you can point to a placeholder (like`"#"`). You should try getting the content to look about the same as the image below.
