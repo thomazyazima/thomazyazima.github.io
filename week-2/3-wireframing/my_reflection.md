@@ -1,4 +1,4 @@
-## 8. Wireframing Reflection
+## 3. Wireframing Reflection
 *Remember, reflections should only take about 10-15 minutes.*
 
 Include images of your wireframe (inline, using markdown) below:
