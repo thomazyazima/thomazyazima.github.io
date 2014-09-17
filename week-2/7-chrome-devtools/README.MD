@@ -32,17 +32,6 @@ Complete the [dev_tools_practice.md](dev_tools_practice.md) activity.
 
 Take a screenshot of your Code School points (they appear on the right of your Code School profile page), add the file to your imgs directory in the `3-chrome-devtools` directory, and include the image in the [dev_tools_practice.md](dev_tools_practice.md) file.
 
-## Release 2: Experiment
-
-Visit [code.tutsplus.com](http://code.tutsplus.com/) (a Wordpress blog devoted to improving development and technical skills). Select a blog post you are interested in. Use DevTools to take a peek into the site.
-
-Play with the CSS using Devtools to:
- - Change the background color of the page
- - Center the title in the page
- - Change the title of the post to "No Soup for You" and the author to your name
-
-Based on your experimentation, What are the benefits of experimenting in DevTools versus editing the code files themselves?
-
 ## Release 3: Reflect
 Go to your [Reflection file](my_reflection.md) to write your reflection - include answers to the questions in the file in addition to the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
 
