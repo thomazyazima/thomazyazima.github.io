@@ -51,7 +51,7 @@ Now we are ready to install Rbenv
 
 Rbenv will be our ruby version manager. Gems will install here and we will use its copies of Ruby over our system Ruby. Yay!
 
-Digital ocead wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions here. This will also handle installing nodejs. Make sure that you install ruby 2.0.0-p353 instead of 1.9.3-p392.
+Digital ocean wrote a great how-to on getting Rbenv and Ruby running on Ubuntu. Follow the instructions here. This will also handle installing nodejs. Make sure that you install ruby 2.0.0-p353 instead of 1.9.3-p392.
 
 Also the step to open the .bashrc and fix the path is done in Release 4 so no need to complete those steps during this release
 
@@ -136,7 +136,7 @@ follow the instructions during the install and you will be set. Check your insta
 ```shell
 psql -V
 ```
-make sure its a capital V, this prints the version and exits. If you get into psql command line hit CTRL + D to exit.
+make sure it's a capital V, this prints the version and exits. If you get into psql command line hit CTRL + D to exit.
 
 ## Thats all
 
