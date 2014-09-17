@@ -1,6 +1,7 @@
-# 9. Design, User Experience, and creating your website Reflection
+# 8. Creating your website Reflection
 
-My Website url: [Place your website link here]()
+My Website url:
+<!-- Place your website link here -->
 
 Discuss the following:
 * What did you learn about design and user experience?

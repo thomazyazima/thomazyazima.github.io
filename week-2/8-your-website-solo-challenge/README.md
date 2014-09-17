@@ -13,53 +13,23 @@
 
 ## Summary
 
-In this challenge, you will make your [USERNAME].github.io site using the principles of design you learned in [site planning](2-site-planning) and the wireframe you made in the [wireframing challenge](3-wireframing) challenge. You'll also need to fill out the other pages of your site.
+In this challenge, you will make your [USERNAME].github.io site using the principles of design, site map, wireframe, and HTML and CSS you've learned this far. You may not use Bootstrap or any other design framework for your site.
 
-<<<<<<< HEAD:week-2/9-your-website-solo-challenge/README.md
-You may not use Bootstrap or any other design framework for your site.
+Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week or unit if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version. Designing and building a site can take a **LONG TIME**, so just get your site "good enough" for your MVP. You can always make it better later!
 
-Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version.
-
-**Remember!** Designing and building a site can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
-=======
-In this challenge, you will making your [USERNAME].github.io site yours using the wireframe you made in the [week 1 wireframing](../../week-1/8-wireframing) challenge. You'll also need to fill out the other pages of your site.
-
-You may not use Bootstrap or any other design framework for your site.
-
-Get creative. Have fun. But be conscious of time. This site will be a work in progress, so you should timebox how much time you want to spend on each part. You will be able to make improvements each week if you dedicate the time to it. Make an MVP (Minimum Viable Product) for this version.
->>>>>>> 41cf58cc6374f1f816e8a168bde656862ee453c5:week-2/7-your-website-solo-challenge/README.md
 
 ## Releases
 
-## Release 0: Consider Design
-Go through each resource below to learn a bit more about design and user experience. Don't hesitate to find additional resources to help you.
+## Release 0: Wireframes
+Reconsider the wireframe you created for your index.html in [3-wireframing](../3-wireframing). Do you need to make any changes to it based on what you've learned so far?
 
-- [Design is about solving problems](http://www.smashingmagazine.com/2011/08/24/design-solving-problems/)
-- [Straight up Design](https://speakerdeck.com/jenmyers/straight-up-design)
-- [What is User Experience Design?](http://uxdesign.smashingmagazine.com/2010/10/05/what-is-user-experience-design-overview-tools-and-resources/)
-- [Design for performance](https://speakerdeck.com/lara/design-for-performance)
-
-
-## Release 1: Information Gathering
-Consider the purpose of your github.io site. In Phase 0 it is the place where you will primarily share your blogs, but it can be a lot more than that depending on how you want to use it. We think of this site as a self-introduction, resume, and hub for people and employers to find out about you.
-
-But what do you think of it as? Consider the purpose, goals, target audience, and content you will be putting on the site.
-
-## Release 2: Planning
-<<<<<<< HEAD:week-2/9-your-website-solo-challenge/README.md
-Reconsider the wireframe you created. Do you need to make any changes to it based on what you learned about design? If so, make those changes.
-=======
-
-Reconsider the wireframe you created for your index.html in [week 1](../../week-1/8-wireframing). Do you need to make any changes to it based on what you learned about design? If so, make those changes.
->>>>>>> 41cf58cc6374f1f816e8a168bde656862ee453c5:week-2/7-your-website-solo-challenge/README.md
-
-While you're at it, you should also make a basic wireframe for the other pages on your site including, but not limited to pages for:
+While you're at it, you should also make basic wireframes for each of the other pages on your site including, but not limited to pages for:
  - About me
  - Projects
- - blog-posts/index.html (to list all of your blog posts)
+ - blog/index.html
  - Any other page your site needs
 
-## Release 3: Design
+## Release 1: Design
 Now is the time to consider the colors, fonts, icons/logos, images and overall look and feel of your site. You may want to use some of the following resources:
 
 - [Web Design Inspiration](http://www.webdesign-inspiration.com/) Check this out if you want ideas!
@@ -67,9 +37,9 @@ Now is the time to consider the colors, fonts, icons/logos, images and overall l
 - [Google Fonts](https://www.google.com/fonts) to consider fonts
 - [Logo Garden](http://www.graphicsprings.com/) to create your own logo
 
-You also may want to complete the bonus challenge, [Make a Mood Board](mood-board), to help you solidfy your design.
+You also may want to complete the bonus challenge, [Make a Mood Board](../12-BONUS-challenges/mood-board), to help you solidfy your design.
 
-## Release 4: Development
+## Release 2: Development
 
 #### Add Content using HTML
 Using your wireframes and design as references, add content to your index.html (as well as other) pages in your [USERNAME].github.io site using HTML.
@@ -90,17 +60,14 @@ Don't forget about Chrome Devtools for testing out your style changes and figuri
 
 Reminder: Designing and building a site can take a LONG TIME, so just get your site "good enough" for your MVP. You can always make it better later!
 
-## Release 5: Testing and Delivery
+## Release 3: Publish
 When you feel ready to publish your new site, add your files to the stage, commit your changes, and push to master. Post your site on Twitter using **#DBCmysite** to ask for feedback from your peers.
 
-Take a look at two other sites and give them feedback using the issues on their github.io once you're finished with your site. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
+## Release 4: Review
 
-## Release 6: Maintenance
-Now that you have your MVP, decide how you are going to make improvements or integrate feedback.
+Take a look at two other sites and give them feedback using the issues on their github.io once you're finished. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
 
-We suggest integrating a few pieces of feedback or making a few improvements each week when you work on your blog assignments.
-
-## Release 7: Reflect
+## Release 5: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
 
 ## Release 8: Pseudo-Selectors (Optional)

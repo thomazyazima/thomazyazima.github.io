@@ -1,4 +1,4 @@
-# U1.W2: Testing and Maintenance
+# 9. Testing and Maintenance
 
 ## Learning Competencies
 - Apply testing metrics to determine whether a site is working properly
