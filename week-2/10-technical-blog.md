@@ -26,7 +26,7 @@ Write a blog post that teaches others how and when to use each thing. There is n
 **HINT:** Intend your blog for a non-technical audience. Imagine explaining to a non-technical friend, for instance. Try to take a person step-by-step through understanding one of the topics above.
 
 ## Release 3: Publish
-Now is the time to make a design decision. Are you going to add a blog/index.html file to your site? Or are you going to link to each blog post from the main index of your site? Decide what you are going to do, and then either create the file or go to the index to link your post. You'll need to link the posts from Week 1 as well. So by the end of this week, there should be links to three posts on either a blog/index or the main index of your site.
+Now is the time to add your files to your blog/index.html file. You'll need to link the posts from Week 1 as well. So by the end of this week, there should be links to three posts on either a blog/index.html page.
 
 ## Release 4: Promote
 
