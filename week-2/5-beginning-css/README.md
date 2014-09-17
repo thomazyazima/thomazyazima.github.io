@@ -21,7 +21,7 @@ This challenge will also be completed in your phase-0-unit-1 repository.
 
 Go through the following resources to learn the basics of CSS.
 - [codecademy: Intro to CSS](http://www.codecademy.com/en/tracks/web) sections:
-    - CSS: An Overview
+    - CSS An Overview
     - CSS Selectors
     - CSS Positioning
 
@@ -29,12 +29,14 @@ Go through the following resources to learn the basics of CSS.
 
 There are multiple ways to add CSS to HTML, but we generally prefer keeping formatting in a separate file, called a stylesheet. In this directory, you will see a file [my-berkshire-stylesheet.css](my-berkshire-stylesheet.css). This is the file you will be adding your styling to.
 
-If you look at that file, you will see there is already something there. It's set to turn the background color to red when you get the external stylesheet set up properly. Then you can promptly delete that CSS.
+If you look at that file, you will see there is already something there. It's set to turn the background color to red when you get the external stylesheet set up properly and open it in a browser. When you have it linked, you can promptly delete that CSS.
 
-You'll want to add a link to this stylesheet in your [4-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html)
+You'll want to add the link to the my-berkshire-stylesheet.css in your [4-beginning-html/my-berkshire-site.html](../4-beginning-html/my-berkshire-site.html)
 
 ## Release 2: Add CSS
 Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
+
+Get used to searching for how to do these things. You'll find a lot of great resources that will help you with HTML and CSS. w3schools is one good resource.
 
 #### 1. Change the following colors.
   - Text:  #000080 (navy)
