@@ -6,9 +6,11 @@ We will release it with changes at least by the Friday before week 2 begins. -->
 
 It's time to fetch changes from DevBootcamp's phase-0-unit-1 master repo to get the newly-released curriculum. Make sure you are in the master branch of your phase-0-unit-1 repo. Check where you are in your terminal first. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up! Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!
 
-This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git.
+This week's material covers web design, HTML, and CSS. You'll even get to build your own website! This week will be challenging since you are working with two new technologies in combination with git and will probably require more of your time than week 1.
 
-Please keep track of the time you are spending on the mandatory sections of the challenges for your final week submission form.
+It's important to start recognizing when you are spending too much time on a challenge. The solo challenge this week will probably take a lot of time, so be sure to time-box on all your challenges to keep yourself on task and out of rabbit holes!
+
+Please keep track of the time you are spending on the mandatory sections of the challenges for your final week submission form so we can assess the amount of work we are assigning.
 
 ## Challenges
 1. [Cultural Assignment](1-cultural-assignment.md)
