@@ -10,7 +10,7 @@
 Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community.
 
 ## Release 0: Copy your blog template
-Create a new HTML file and use the date to name it `week2_technical.html`. Copy the code from your `blog_template.html`.
+In your `blog` directory, create a new HTML file and name it `t2-css-design.html`. Copy the code from your `blog_template.html`.
 
 ## Release 1: Select a Topic
 Research one of the following topics:
