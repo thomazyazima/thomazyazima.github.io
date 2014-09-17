@@ -67,7 +67,11 @@ Now you know about how git tracks changes, so it's time to make some changes!
 
 Now it's time to make your changes live on GitHub. There are two ways to do this. The first is the faster way, and the second is by [making pull requests](making-pull-requests.md), which is highly favored when working with teams. You can choose which you would like to do. We are outlining the faster version below, but we highly recommend taking a look at the process for making pull requests as well to get a feel for it.
 
-You've been working on the master branch this entire time. So it's easy to push changes to the master branch on GitHub. Simply type:
+Before you can push your changes up, you'll want to make sure you don't have different versions of your repository locally and remotely. Pull changes from the remote to your local copy by typing:
+
+`git pull`
+
+Since you've been working on the master branch this entire time, it's easy to push changes to the master branch on GitHub. Simply type:
 
 `git push origin master`
 
