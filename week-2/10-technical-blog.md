@@ -3,11 +3,11 @@
 # U1.W2: Technical Blog
 
 ## Learning Competencies
-- Compare CSS concepts to determine the differences
+- Compare CSS concepts
 - Explain how and when to use CSS concepts
 
 ## Summary:
-Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community.
+You've spent the week working with HTML and CSS and probably found yourselves frustrated by a few concepts in the process. Hopefully this blog assignment will help you with one of those concepts.
 
 ## Release 0: Copy your blog template
 In your `blog` directory, create a new HTML file and name it `t2-css-design.html`. Copy the code from your `blog_template.html`.
@@ -26,9 +26,7 @@ Write a blog post that teaches others how and when to use each thing. There is n
 **HINT:** Intend your blog for a non-technical audience. Imagine explaining to a non-technical friend, for instance. Try to take a person step-by-step through understanding one of the topics above.
 
 ## Release 3: Publish
-Link to your post from `index.html` so people can navigate to your page from your site's index.
-
-Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+Now is the time to make a design decision. Are you going to add a blog/index.html file to your site? Or are you going to link to each blog post from the main index of your site? Decide what you are going to do, and then either create the file or go to the index to link your post. You'll need to link the posts from Week 1 as well. So by the end of this week, there should be links to three posts on either a blog/index or the main index of your site.
 
 ## Release 4: Promote
 
@@ -38,6 +36,6 @@ Tweet your blog post using the hashtag **#DBCCSS**.
 
 ## Release 5: Read
 
-Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, Specific, and Kind) feedback as an issue on their repo or a tweet!
+Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, Specific, and Kind) feedback in a tweet!
 
 
