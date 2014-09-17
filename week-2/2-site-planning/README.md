@@ -45,7 +45,7 @@ Based on your research above, navigate to the [my_reflection.md](my_reflection.m
 
 Site maps illustrate the heirarchy of your website in diagram form. They visually explain the relationships between pages of content on your website, making it easier for you to conceptualize how information flows to the user. You can also begin to think about what languages and elements you will need to best present this information to the user.
 
-Site maps should be reflections of your site. So if you have a simple site with only a few pages, you will probably only have a couple boxes of information underneath your index. If you have a very complex site, you might have more, with several levels.
+Site maps should be reflections of your site. So if you have a simple site with only a few pages, you will probably only have a couple boxes of information underneath your index. If you have a very complex site, you might have more, with several levels. Here is an example of a basic site map.
 
 ![site map](../imgs/sitemap.png)
 
