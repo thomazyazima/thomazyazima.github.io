@@ -70,7 +70,7 @@ Take a look at two other sites and give them feedback using the issues on their 
 ## Release 5: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.
 
-## Release 8: Pseudo-Selectors (Optional)
+## Release 6: Pseudo-Selectors (Optional)
 Want to dig a bit deeper into CSS? Maybe you're curious about using some exciting CSS like `:hover`. Take a look at:
 
 - [Psuedo-selectors](http://css-tricks.com/pseudo-class-selectors/)
