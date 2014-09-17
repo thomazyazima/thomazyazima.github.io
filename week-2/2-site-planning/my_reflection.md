@@ -2,7 +2,7 @@
 
 Include your site planning document and site map below:
 
-Site planning:
+### Site planning:
 
 1. What is your site's primary goal or purpose?
 2. What kind of content will your site feature?
@@ -11,10 +11,9 @@ Site planning:
 5. How do you think most users will find your site?
 6. What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.
 
-Site map:
-
 ***
 
+### Site map:
 - What did you learn about design and user experience?
 - Do you like design and user experience? Was it fun planning your site and creating a site map? (If you hated it, that's OK too)
 - What questions did you ask during this challenge? What resources did you find to help you answer them?
