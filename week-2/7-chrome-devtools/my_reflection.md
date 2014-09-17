@@ -1,4 +1,4 @@
-# U1.W2: Chrome Dev Tools Challenge Reflection
+# 7. Chrome Dev Tools Challenge Reflection
 
 * Describe the Document Object Model. What about it makes sense to you? What doesn't? What seems good and bad about it?
 * How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
