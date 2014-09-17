@@ -7,14 +7,14 @@
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
 
-* Load the HTML page "csschallenge.html" in your browser
+* Load the HTML page in your browser and open the Dev Tools inspector.
   * First, play around with the boxes a while. How can you manipulate them in different ways?
   * Try to make all the boxes line up in a row.
   * Then make all the boxes match in color.
 
 It should match this screenshot:
 
-  ![CSS Positioning and DevTools](imgs/devtools-img.png)
+  ![CSS Positioning and DevTools](imgs/devtools-img.jpg)
 
   * Upload your own image to the imgs directory in the `6-chrome-devtools` directory.  Don't take a screenshot of your whole desktop, just the browser window. Display your image inline here.(This is part of the challenge.)
   <!-- Image here-->
