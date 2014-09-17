@@ -1,21 +1,23 @@
-# HTML and CSS cont.
+# Week 2: HTML and CSS
 
-<!-- Please do not start week 2. We will release it with changes at least by the Friday before week 2 begins. -->
+Week 2's material is not ready yet!
 
-This week's material covers web design, HTML, and CSS and will get you building your own website.
-<!-- maybe include more here -->
+We will release it with changes at least by the Friday before week 2 begins.
 
+This week's material covers web design, HTML, and CSS. You'll even get to build your own website!
 
 ## Challenges
 1. [Cultural Assignment](1-cultural-assignment.md)
-2. [Wireframing](2-wireframing)
-3. [Beginning HTML](3-beginning-html)
-4. [Beginning CSS](4-beginning-css)
-5. [Create a Blog Template](5-blog-template)
-6. [Chrome Dev Tools and Positioning](6-chrome-devtools)
-7. [Your Own Website - SOLO CHALLENGE!](7-your-website-solo-challenge)
-8. [Technical Blog](8-technical-blog.md)
-9. [BONUS challenges](9-BONUS-challenges)
+2. [Site Planning](2-site-planning)
+3. [Wireframing](3-wireframing)
+4. [Beginning HTML](4-beginning-html)
+5. [Beginning CSS](5-beginning-css)
+6. [Create a Blog Template](6-blog-template)
+7. [Chrome Dev Tools and Positioning](7-chrome-devtools)
+8. [Testing and Maintenance](8-testing-and-maintenance)
+9. [Your Own Website - SOLO CHALLENGE!](9-your-website-solo-challenge)
+10. [Technical Blog](10-technical-blog.md)
+11. [BONUS challenges](11-BONUS-challenges)
 
 
 ## Fetch DBC's Changes
@@ -34,6 +36,3 @@ Once you have the entire local repository on your computer, you don't need to re
 ## Submitting your work
 
 **You need to submit your work on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 1 Week 2 Submission" form.** If you do not complete the challenges by Sunday, fill out the extension request form and complete the submission form when you finish.
-
-
-
