@@ -26,6 +26,7 @@ Please keep track of the time you are spending on the mandatory sections of the 
 11. [GPS 1.1](11-gps-1-1) **Do not look at this until your pairing session**
 12. [BONUS challenges](12-BONUS-challenges)
 
+Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
