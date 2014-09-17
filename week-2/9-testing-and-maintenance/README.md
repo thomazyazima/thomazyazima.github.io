@@ -1,9 +1,7 @@
 # U1.W2: Testing and Maintenance
 
 ## Learning Competencies
-- Learn about testing and website maintenance
-- Read through and incorporate feedback
-- Create a weekly maintenance schedule
+- Explain the importance of testing and maintaining a website
 
 ## Summary
 Now that your website is live, it's time to make sure your code works! You'll also create a maintenance schedule to incorporate feedback and respond to new needs.
