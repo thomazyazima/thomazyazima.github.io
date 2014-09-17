@@ -10,18 +10,13 @@
 ## Summary
 In this challenge, you will be building an html-only clone of [Berkshire Hathaway's website](http://www.berkshirehathaway.com/). It's a pretty simple site, but can be done in various ways.
 
-It's ok if the site isn't an exact copy. It should just be as close as you can make it.
+It's ok if the site isn't an exact copy. It should just be as close as you can make it. Remember to time box!
 
-If you want to pair on this, we recommend going through Release 0 and 1 by yourself. Then get together with your pair for releases 2 and 3.
+If you want to pair on this, we recommend going through Release 0 by yourself. Then get together with your pair for releases 1 and 2.
 
 ## Releases
 
-## Release 0: Clone your fork
-In this challenge, you'll be doing most of your work in the phase-0-unit-1 repository, so you need to clone your fork.
-
-Open this directory in sublime. Navigate to this file, and start reading the readme file (in Markdown) and making changes in the sublime files. Do not make changes, or even bother reading the curriculum, on Github. It's good to get used to the way markdown looks (except to view images).
-
-## Release 1: Learn Basic HTML
+## Release 0: Learn Basic HTML
 
 - Go through [codecademy](http://www.codecademy.com/en/tracks/web) sections:
   - HTML Basics
@@ -29,26 +24,26 @@ Open this directory in sublime. Navigate to this file, and start reading the rea
   - HTML Basics III
 
 
-## Release 2: Set up your HTML Page
+## Release 1: Set up your HTML Page
 It's time to use the tools you learned in codecademy. In the [my-berkshire-site.html](my-berkshire-site.html), set up your webpage using the appropriate tags. You should have a doctype, html tags, a head, title, body, etc. Don't forget your closing tags!
 
 
-## Release 3:
+## Release 2:
 Now it's time to add the fun stuff. You don't need to point to the correct URL in the links; instead you can point to a placeholder (like`"#"`). You should try getting the content to look about the same as the image below.
 
 Consider whether you want to use a table or divs. Read [this article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
 
-You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-CSS) challenge. When you finish adding the content using HTML, you site should look something like this:
+You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-CSS) challenge. When you finish adding the content using HTML, you site should look something like the image below. It's ok if it's different though -- as long as there is no formatting in the HTML.
 
 ![unformatted berkshire](../imgs/unformatted-berkshire.png)
 
-We've included the Geico image (geicoimg.gif) for you in the week-1 [imgs](imgs) directory for you to use in your site.
+We've included the Geico image (geicoimg.gif) for you in the week-2 [imgs](imgs) directory for you to use in your site.
 
-## Release 4: Reflect
-Now edit the [my_reflection.md](my_reflection.md) file associated with this challenge.
+## Release 3: Reflect
+Answer the reflection questions on the [my_reflection.md](my_reflection.md) file associated with this challenge.
 
-## Release 5: Publish
-Commit your changes for each file in this challenge, and push your changes to github. Then double check your changes are on your www.github.com/[USERNAME]/phase-0-unit-1 repository. You should see your commit message(s) there.
+## Release 4: Publish
+Commit your changes for each file in this challenge, and push your changes to github.
 
 ## Additional Resources:
 - [HTML tag cheatsheat](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)

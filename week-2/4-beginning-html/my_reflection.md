@@ -1,4 +1,4 @@
-## 6. Beginning HTML Reflection
+## 4. Beginning HTML Reflection
 
 - What makes sense to you about HTML? What doesn't?
 - What seems good and bad about HTML?
