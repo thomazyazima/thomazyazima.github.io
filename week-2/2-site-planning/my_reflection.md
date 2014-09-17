@@ -1,8 +1,8 @@
-## 1. Site Planning Reflection
+## 2. Site Planning Reflection
 
-Include your site planning document and site map below:
+*Remember, reflections should only take about 10-15 minutes.*
 
-### Site planning:
+### Site planning
 
 1. What is your site's primary goal or purpose?
 2. What kind of content will your site feature?
@@ -13,7 +13,12 @@ Include your site planning document and site map below:
 
 ***
 
-### Site map:
+### Site map
+
+Your site map:
+
+<!-- Your link to add it inline goes here-->
+
 - What did you learn about design and user experience?
 - Do you like design and user experience? Was it fun planning your site and creating a site map? (If you hated it, that's OK too)
 - What questions did you ask during this challenge? What resources did you find to help you answer them?

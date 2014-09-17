@@ -41,7 +41,8 @@ You'll definitely want to include:
   - Your projects
   - Anything else you want to include
 
-## Release 2: Site Planning Reflection
+## Release 2: Site Plan Reflection
+
 Based on your research above, navigate to the [my_reflection.md](my_reflection.md) page for this challenge to answer questions in the Site Planning section.
 
 ## Release 3: Site Map
@@ -56,7 +57,18 @@ Now you'll create a site map for your site! You can draw the map, though you are
 
 For now, your site map will probably be really simple -- maybe an index page with a few supplemental pages. But as you expand your portfolio and grow your site, you may find yourself adding more and more pages. The great thing about a site map is that it can grow and change with your website.
 
-## Release 3: Site Map Reflection
+## Release 4: Add your Site Map
+You'll want to save a copy of your site map as "site-map" and add it to your [my_reflection.md](my_reflection.md) file using the following commands.
+
+Use the command line for each step below:
+  1. Navigate to the week-2/imgs directory
+  2. Move your "site-map" image to the imgs directory.
+  3. Using markdown, display your image inline in your [my_reflection.md](my_reflection.md) file associated with this challenge.
+
+  HINT: You can either reference markdown's documentation or look at the way images are used in this repo.
+
+## Release 5: Site Map Reflection
+
 Edit the [my_reflection.md](my_reflection.md) file associated with this challenge using sublime. Commit your changes and push them to GitHub.
 
 ## Additional Resources:
