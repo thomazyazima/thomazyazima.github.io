@@ -16,7 +16,7 @@ Please keep track of the time you are spending on the mandatory sections of the 
 3. [Wireframing](3-wireframing)
 4. [Beginning HTML](4-beginning-html)
 5. [Beginning CSS](5-beginning-css)
-6. [Create a Blog Template](6-blog-template)
+6. [Create a Blog Template](6-blog-template) **Mandatory Pairing Challenge**
 7. [Chrome Dev Tools and Positioning](7-chrome-devtools)
 8. [Testing and Maintenance](8-testing-and-maintenance)
 9. [Your Own Website - SOLO CHALLENGE!](9-your-website-solo-challenge)
