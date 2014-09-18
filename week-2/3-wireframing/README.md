@@ -54,6 +54,7 @@ You will be using this site to promote yourself when you finish Dev Bootcamp, so
 
 Save an image or picture of your wireframe and name it "wireframe-index" as well.
 
+
 ## Release 4: Add your wireframes to your reflection.
 
 Now that you have your wireframes designed and a digital image of each saved, you'll want to display them in your [my_reflection.md](my_reflection.md) file. Use the instructions for adding an image from [2-site-planning](2-site-planning/README.md) to add both images to your site.

@@ -38,4 +38,4 @@ Reflecting is essential for solidifying your learning. You will be expected to c
 
 Reflections should be about a paragraph long, and only take you about ten minutes to write.
 
-Please go to the [reflection associated with this challenge](my_reflection.md) to read the prompts and reflect on your learning.
+Please go to the [reflection associated with this challenge](my_reflection.md) to read the prompts and reflect on your learning. You should write the reflection in a separate document. You will add it to GitHub in a later challenge.

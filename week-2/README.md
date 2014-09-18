@@ -43,3 +43,5 @@ Once you have the entire local repository on your computer, you don't need to re
 - Pair at least twice this week.  *You need to pair 4 times on your own this unit*
 - Give feedback for each person you paired with. *You need to submit at least 6 pieces of feedback in this unit*
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
+
+

@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# U1.W2: Thinking about Time
+# U1.W1: Thinking about Time
 
 ## Learning Competencies
 - Research time management and productivity
