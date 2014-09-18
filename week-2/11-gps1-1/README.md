@@ -7,7 +7,11 @@
 
 
 ## Summary
-Welcome to the wonderful world of git workflow. We are going to work through
+
+Welcome to the wonderful world of git workflow. We are going to work through a simple git challenge, including making branches, merging, pull requests and merge conflicts.
+
+Make sure that you use all the resources available to you, your pair, the git docs and your guide.
+
 ## Releases
 
 ## Release 0: Fork the repo
