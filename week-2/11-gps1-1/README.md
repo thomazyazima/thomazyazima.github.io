@@ -41,14 +41,14 @@ Sometimes you will encounter merge conflicts, but don't worry, once you've gone 
 
 A merge conflict happens when two branches change the same file and try to merge them together. Here is how to create a small merge conflict:
 
-1. Create a branch called small-conflict, make a change in file-1, add and commit.
+1. Create a branch called small-conflict, make any change in html_page.md, add and commit.
 2. Check out the master branch, in the same place that you made a change on small-conflict, make a different change. Add and commit this change.
 3. Merge the small-conflict branch to the master.
 4. Resolve the merge conflicts.
 
 You can imagine that in a big project, this can be a huge time waster. Good git work flow can prevent merge conflicts from being a problem.
 
-Here is a discussion about preventing merge conflicts, this is good to keep in mind as you move forward with your git use.
+Here is a discussion about preventing merge conflicts, this is good to keep in mind as you move forward with your git use. (stack overflow)[http://stackoverflow.com/questions/16490873/how-to-avoid-git-conflicts-in-a-team]
 
 ## Release 5: Discuss
 

@@ -6,7 +6,7 @@
 
 ## Summary
 Now that your website is live, it's time to make sure your code works! You'll also create a maintenance schedule to incorporate feedback and respond to new needs.
-<!-- I feel like we should touch on looking at page load here as well, I don't think the page load course on devtools is required. http://discover-devtools.codeschool.com/chapters/5 -->
+
 ## Releases
 
 ## Release 0: Reading Feedback
@@ -29,3 +29,10 @@ As you work with your site, you may find that some weeks you won't spend the ent
 
 ## Release 3: Reflect
 Add your reflection to the [my_reflection.md](my_reflection.md) file.
+
+## BONUS: Check Your Page Load
+
+Code school has a great chapter on measuring page load and how to fix and identify common issues. Check it out here (Codeschool Devtools)[http://discover-devtools.codeschool.com/chapters/5].
+
+
+
