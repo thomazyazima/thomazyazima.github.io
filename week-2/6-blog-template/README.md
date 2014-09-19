@@ -20,7 +20,7 @@ In the blog directory on your [USERNAME].github.io site, create a new file calle
 
 With your partner, compare the two wireframes you made in [3-wireframing](../3-wireframing) challenge. Decide which one you want to use as a reference, or decide to combine the best parts into one.
 
-Using that wireframe as a reference, build your blog template by creating HTML tags for specific content. You may want to add placeholder text like [http://www.lipsum.com](Lorem Ipsum) to the template temporarily to test how the text displays.
+Using that wireframe as a reference, build your blog template by creating HTML tags for specific content. You may want to add placeholder text like [Lorem Ipsum](http://www.lipsum.com) to the template temporarily to test how the text displays.
 
 Once you have all of the content on your site, you are ready to add CSS.
 

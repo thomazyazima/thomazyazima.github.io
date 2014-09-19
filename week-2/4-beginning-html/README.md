@@ -38,7 +38,7 @@ You don't need to worry about formatting the site since you will be adding it in
 
 ![unformatted berkshire](../imgs/unformatted-berkshire.png)
 
-We've included the Geico image (geicoimg.gif) for you in the week-2 [imgs](imgs) directory for you to use in your site.
+We've included the Geico image (geicoimg.gif) for you in the week-2 [imgs](../imgs) directory for you to use in your site.
 
 ## Release 3: Reflect
 Answer the reflection questions on the [my_reflection.md](my_reflection.md) file associated with this challenge.
