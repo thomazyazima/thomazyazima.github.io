@@ -23,7 +23,7 @@ Please keep track of the time you are spending on the mandatory sections of the 
 8. [Your Own Website - SOLO CHALLENGE!](8-your-website-solo-challenge)
 9. [Testing and Maintenance](9-testing-and-maintenance)
 10. [Technical Blog](10-technical-blog.md)
-11. [GPS 1.1](11-gps-1-1) **Do not look at this until your pairing session**
+11. [GPS 1.1](11-gps1-1) **Do not look at this until your pairing session**
 12. [BONUS challenges](12-BONUS-challenges)
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle or when you're stuck in another challenge.
