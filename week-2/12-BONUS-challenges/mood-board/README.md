@@ -1,7 +1,8 @@
 # U1.W2: Create a Mood Board
 
 ## Learning Competencies
--Learn about mood boards and how they help in website design
+- Evaluate the use mood boards in website design
+- Create a mood board
 
 ## Summary
 
@@ -14,6 +15,7 @@ Images - what images evoke the feeling you're trying to acheive on your site? Wh
 
 That's where a mood board comes in. Mood boards set the tone for your site by drawing inspirational pictures, color schemes, and fonts together. It's a great way to start thinking about design and what visual elements you want to use.
 
+## Releases
 ## Release 0: Research
 -[Mood Boarding Methods for Web Designers](http://www.onextrapixel.com/2012/02/10/mood-boarding-methods-for-web-designers/)
 
@@ -28,4 +30,4 @@ In this exercise, you'll be flexing your design muscles and creating a mood boar
 You can make your mood board in a variety of ways: Google Docs, word processing software, or Adobe Photoshop, just to name a few.
 
 ## Release 2: Share!
-Upload your Mood Board to Github, then share it with the Google+ community! Be sure to explain your choices and how they inspire you.
+Upload your Mood Board to Github, then share it on Twitter with **#DBCmoodboard**! Be sure to explain your choices and how they inspire you.
