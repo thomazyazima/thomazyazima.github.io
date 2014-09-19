@@ -50,7 +50,7 @@ Once you have all of the content on your index, you are ready to create the othe
 
 
 #### Apply CSS
-Now you can truly begin to appreciate CSS, which stands for **C**ascading **S**tyle **S**heets. Each page can have a similar look if you use the same classes to format them the same.
+Now you can truly begin to appreciate CSS, which stands for Cascading Style Sheets. Each page can have a similar look if you use the same classes to format them the same.
 
 - Add styling to your header, footer, and navigation bar.
 - Style and position the content to match your wireframe.
@@ -65,7 +65,7 @@ When you feel ready to publish your new site, add your files to the stage, commi
 
 ## Release 4: Review
 
-Take a look at two other sites and give them feedback using the issues on their github.io once you're finished. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
+Take a look at two of your peers sites and give them feedback using the issues on their github.io once you're finished. This is a solo challenge, but it's really useful/necessary to give and receive feedback when it comes to design.
 
 ## Release 5: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and push them to GitHub.

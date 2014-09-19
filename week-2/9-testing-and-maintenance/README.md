@@ -6,7 +6,7 @@
 
 ## Summary
 Now that your website is live, it's time to make sure your code works! You'll also create a maintenance schedule to incorporate feedback and respond to new needs.
-
+<!-- I feel like we should touch on looking at page load here as well, I don't think the page load course on devtools is required. http://discover-devtools.codeschool.com/chapters/5 -->
 ## Releases
 
 ## Release 0: Reading Feedback
