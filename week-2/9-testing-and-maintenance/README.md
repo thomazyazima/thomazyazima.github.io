@@ -32,7 +32,7 @@ Add your reflection to the [my_reflection.md](my_reflection.md) file.
 
 ## BONUS: Check Your Page Load
 
-Code school has a great chapter on measuring page load and how to fix and identify common issues. Check it out here (Codeschool Devtools)[http://discover-devtools.codeschool.com/chapters/5].
+Code school has a great chapter on measuring page load and how to fix and identify common issues. Check it out at [Codeschool Devtools](http://discover-devtools.codeschool.com/chapters/5).
 
 
 
