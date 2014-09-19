@@ -34,7 +34,7 @@ Now it's time to add the fun stuff. You don't need to point to the correct URL i
 
 Consider whether you want to use a table or divs. Read [this article](http://www.smashingmagazine.com/2009/04/08/from-table-hell-to-div-hell/) to determine which you'd rather use.
 
-You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-CSS) challenge. When you finish adding the content using HTML, you site should look something like the image below. It's ok if it's different though -- as long as there is no formatting in the HTML.
+You don't need to worry about formatting the site since you will be adding it in the [5-beginning-CSS](../5-beginning-css) challenge. When you finish adding the content using HTML, you site should look something like the image below. It's ok if it's different though -- as long as there is no formatting in the HTML.
 
 ![unformatted berkshire](../imgs/unformatted-berkshire.png)
 
