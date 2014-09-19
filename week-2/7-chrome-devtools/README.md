@@ -27,7 +27,7 @@ Take the quizzes at the end of each chapter, and take a screenshot of your Code 
 ## Release 2: Practice
 First, find the tab that supports realtime editing of HTML and CSS. Then also find the quick key to open the Dev Tools inspector. It will certainly save you time.
 
-Load the [css-positioning.html](../css-positioning.html) in your browser and open the Dev Tools inspector, and play around with the boxes. How can you select and change them?
+Load the [css-positioning.html](css-positioning.html) in your browser and open the Dev Tools inspector, and play around with the boxes. How can you select and change them?
 
 Then, complete each of the following. You will need to take a screenshot when you've completed each to include in your [my_reflection.md](my_reflection.md) file.
 
