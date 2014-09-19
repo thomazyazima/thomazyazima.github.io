@@ -48,7 +48,7 @@ A merge conflict happens when two branches change the same file and try to merge
 
 You can imagine that in a big project, this can be a huge time waster. Good git work flow can prevent merge conflicts from being a problem.
 
-Here is a discussion about preventing merge conflicts, this is good to keep in mind as you move forward with your git use. (stack overflow)[http://stackoverflow.com/questions/16490873/how-to-avoid-git-conflicts-in-a-team]
+Review [this](http://stackoverflow.com/questions/16490873/how-to-avoid-git-conflicts-in-a-team) discussion about preventing merge conflicts. It's good to keep in mind as you move forward with your git education.
 
 ## Release 5: Discuss
 
