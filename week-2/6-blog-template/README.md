@@ -8,7 +8,7 @@
 - Position HTML elements using CSS padding, borders, and margins
 
 ## Summary
-In this challenge, you will be building a blog template using the wireframe you make in the [2-wireframing](../2-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
+In this challenge, you will be building a blog template using the wireframe you made in the [3-wireframing](../3-wireframing) challenge. You may not use Bootstrap or any other design framework for your site.
 
 This is a mandatory pairing challenge, which means you will need to work on it with a partner. Remember to time box!
 
@@ -20,7 +20,7 @@ In the blog directory on your [USERNAME].github.io site, create a new file calle
 
 With your partner, compare the two wireframes you made in [3-wireframing](../3-wireframing) challenge. Decide which one you want to use as a reference, or decide to combine the best parts into one.
 
-Using that wireframe as a reference, build your blog template by creating HTML tags for specific content. You may want to add placeholder text like [http://www.lipsum.com](Lorem Ipsum) to the template temporarily to test how the text displays.
+Using that wireframe as a reference, build your blog template by creating HTML tags for specific content. You may want to add placeholder text like [Lorem Ipsum](http://www.lipsum.com) to the template temporarily to test how the text displays.
 
 Once you have all of the content on your site, you are ready to add CSS.
 

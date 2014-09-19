@@ -1,6 +1,6 @@
 [Week 2 Home](../)
 
-# U1.W2: Intro Design
+# U1.W2: Intro to Design
 
 ## Learning Competencies
 - List and use the 6 Phases of Web Design
@@ -71,6 +71,6 @@ Use the command line for each step below:
 Edit the [my_reflection.md](my_reflection.md) file associated with this challenge using sublime. Commit your changes and push them to GitHub.
 
 ## Additional Resources:
--[http://cognition.happycog.com/article/why-developers-need-to-learn-design](Why Developers Need to Learn Design)
--[http://webdesign.tutsplus.com/articles/planning-a-design-project--webdesign-13277](Planning a Design Project)
--[http://bigseadesign.com/web-design/planning-and-scheming-how-we-start-a-web-design-project](Planning and Scheming: How We Start a Web Design Project)
+- [http://cognition.happycog.com/article/why-developers-need-to-learn-design](Why Developers Need to Learn Design)
+- [http://webdesign.tutsplus.com/articles/planning-a-design-project--webdesign-13277](Planning a Design Project)
+- [http://bigseadesign.com/web-design/planning-and-scheming-how-we-start-a-web-design-project](Planning and Scheming: How We Start a Web Design Project)

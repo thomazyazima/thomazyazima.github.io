@@ -29,3 +29,10 @@ As you work with your site, you may find that some weeks you won't spend the ent
 
 ## Release 3: Reflect
 Add your reflection to the [my_reflection.md](my_reflection.md) file.
+
+## BONUS: Check Your Page Load
+
+Code school has a great chapter on measuring page load and how to fix and identify common issues. Check it out at [Codeschool Devtools](http://discover-devtools.codeschool.com/chapters/5).
+
+
+
