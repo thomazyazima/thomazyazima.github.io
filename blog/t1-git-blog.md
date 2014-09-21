@@ -1,12 +1,18 @@
-Title
-Subtitle
+Benefits of version control software
 
-Date
+Sep 20, 2014
 
-Paragraph 1
+From the DBC week1 learning and additional web search, these are my thoughts on why version control is essencial for any software development:
 
-Paragraph 2
+- Reduce risks and saves time from errors and bugs on recent changes by easily accessing previously versions;
+- Create a uniform, standard working rules for a team. Everyone in the team is aware of changes and progress, "everyone is on the same page";
+- Improve productivity by reducing chances of using wrong document version;
+- Excelent way to audit because it keeps log of any and every changes (when, what and who made it).
 
-Paragraph 3
+Git is a popular version control system (more on VCS http://git-scm.com/book/en/Getting-Started-About-Version-Control). I view Git similar to  sync mechanism used by our agenda do manage our contacts. We always have the last updated information. But, in addition, Git also allow us to get back in time and access contact details at a certain timeframe (document version).
 
-Add as many paragraphs as you want!!!
+When working in groups, it can be very difficult and complicated to track changes if file has to be share by email. Having a unique repository where everyone in the team has access would improve productivity significantly. This is what GitHub provides.
+
+Git and GitHub are not the same thing. Git is a tool that manages historical changes in a document and lives in your local computer. GitHub is a web-based repository where those documents are hosted.
+
+More on tutorials for beginners: http://sixrevisions.com/resources/git-tutorials-beginners/
