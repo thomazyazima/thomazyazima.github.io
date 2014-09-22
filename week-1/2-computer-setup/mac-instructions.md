@@ -61,7 +61,7 @@ git clone https://github.com/supertopher/dotfiles.git
 cd dotfiles
 ./install
 ```
-Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime.
+Installing these files will configure your bash profile, enable autocomplete, always display rspec with color, and allow you to use "subl" as a shortcut to open sublime. Note: this will replace your current bash profile. 
 
 ## Release 5: Configure Git
 You then need to overwrite .gitconfig to your own username and password in GitHub. Use your name and your Github email address in the following format:
