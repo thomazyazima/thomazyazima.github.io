@@ -3,6 +3,9 @@
 ## Release 1: Chrome Dev Tools
 
 <!-- Put your image of your codeschool points inline here -->
+/Users/thomazyazima/Desktop/DBC/phase-0-unit-1/week-2/imgs/3-chrome-devtools/Codeschool Devtools 1.1.png
+
+/Users/thomazyazima/Desktop/DBC/phase-0-unit-1/week-2/imgs/3-chrome-devtools/Codeschool Devtools 1.2.png
 
 
 ## Release 2: Positioning
