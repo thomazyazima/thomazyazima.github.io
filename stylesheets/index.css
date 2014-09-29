@@ -1,0 +1,89 @@
+
+* {
+  background-color:#e0e0e0;
+}
+
+#line {
+ border: 1.5px solid #505050;
+  margin-right: 55%;
+}
+
+#about {
+  font-family: Verdana;
+  font-size: 18px;
+  margin-left: 50%;
+  margin-top: 70px;
+  color: #505050;
+  display: inline-block;
+  }
+
+.header2 {
+ font-family: Verdana;
+  font-size: 18px;
+  margin-left: 30px;
+  margin-top: 70px;
+  color: #505050;
+  display: inline-block;
+  }
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: #505050;
+}
+
+
+/*--------------picture of the day------------*/
+
+img {
+  width: 40%;
+  margin-top: 50px;
+  margin-left: 30%;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+/*--------------links to external websites-------*/
+
+
+#linkedin {
+  font-family: Verdana;
+  font-size: 18px;
+  margin-left: 10%;
+  color: #505050;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.footer {
+  font-family: Verdana;
+  font-size: 18px;
+  margin-left: 40px;
+  color: #505050;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+#line2 {
+ border: 1.5px solid #505050;
+  margin-left: 55%;
+}
+
+/*-------------------email------------------------*/
+
+p {
+    margin-top:50px;
+    font-family: Verdana;
+    font-size: 14px;
+    text-decoration: none;
+    color: #505050;
+    text-align: center;
+}
+
+/*-------------------blog------------------------*/
+
+li {
+    margin-left: 30%;
+    font-family: Verdana;
+    font-size: 15px;
+    margin-top: 80px;
+    }
